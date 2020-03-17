@@ -6,15 +6,21 @@
 	- Negative binomial regression
   	- Beta regression
 3. Generalized addictive model
-	* Axiomatic Interpretability for Multiclass Additive Models - [Link](https://arxiv.org/pdf/1810.09092.pdf)
-	* Intelligible Models for HealthCare: Predicting PneumoniaRisk and Hospital 30-day Readmission - [Link](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)
+	* Axiomatic Interpretability for Multiclass Additive Models (2019)
+		- [Link](https://arxiv.org/pdf/1810.09092.pdf)
+		- [Source code](https://github.com/interpretml/interpret)
+	* Intelligible Models for HealthCare: Predicting PneumoniaRisk and Hospital 30-day Readmission (2015) - [Link](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)
+	* Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models (2019) - [Link](https://arxiv.org/pdf/1911.04974.pdf)
 4. Decision sets 
 5. Rule-based classifiers 
 6. Scorecards
 7. Short rules 
 8. Concept based explanation
 10. Support vector machine
-11. TabNet: Attentive Interpretable Tabular Learning [Link](https://arxiv.org/pdf/1908.07442.pdf)
+11. TabNet: Attentive Interpretable Tabular Learning 
+	* [Link](https://arxiv.org/pdf/1908.07442.pdf)
+	* [Source code](https://github.com/google-research/google-research/tree/master/tabnet)
+	
 12. Bayesian model:
 	* INTERPRETABLE CLASSIFIERS USING RULES AND BAYESIANANALYSIS: BUILDING A BETTER STROKE PREDICTIONMODEL - [Link](https://arxiv.org/pdf/1511.01644.pdf)
 	*  The Bayesian Case Model: A Generative Approachfor Case-Based Reasoning and Prototype Classification - [Link](https://beenkim.github.io/papers/KimRudinShahNIPS2014.pdf)
@@ -42,10 +48,9 @@
 	* Understanding Black-box Predictions via Influence Functions - [Link](https://arxiv.org/pdf/1703.04730.pdf)
 	* Game theory inspired: 
 		- A unified approach to interpreting model predictions:
+			+ [Source code](https://github.com/slundberg/shap)
 			+ SHAP Tree explainer: which focuses on polynomial time fast SHAP value estimation specific for tree and ensemble tree
 			+ SHAP Deep Explainer: is the high speed approximation SHAP value for deep learning model
-			+ SHAP Kernel Explainer: 
-
 		- An efficient explanation of individual classifications using game theory
 		- Explaining models by propagating shapley values of local components (2019) 
 	* Interpretation of nonlinear relationships between process variables by use of random forests
@@ -67,3 +72,7 @@
 3. Natural language processing
 4. Computer vision
 5. Tabular Data
+
+## Useful Links:
+1. On Model Explainability [Link](https://everdark.github.io/k9/notebooks/ml/model_explain/model_explain.nb.html#7_explainable_boosting_machine)
+2. 
