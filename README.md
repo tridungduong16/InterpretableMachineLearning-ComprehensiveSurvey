@@ -14,31 +14,35 @@
   	- Beta regression
 3. Generalized addictive model
 	* Axiomatic Interpretability for Multiclass Additive Models (2019)
-		- [Link](https://arxiv.org/pdf/1810.09092.pdf)
+		- [Paper Link](https://arxiv.org/pdf/1810.09092.pdf)
 		- [Source code](https://github.com/interpretml/interpret)
 		- Generalize a state-of-the-art GAM learning algorithm based on boosted trees to the multiclass setting
-		- Additive Post-Processingfor Interpretability (API) that provably transforms a pretrained additive model to satisfy the interpretability axioms without sacrificing accuracy
+		- Additive Post-Processing for Interpretability (API) that provably transforms a pretrained additive model to satisfy the interpretability axioms without sacrificing accuracy
 		- Optimization procedure is cyclic gradient boosting
 	* Intelligible Models for HealthCare: Predicting PneumoniaRisk and Hospital 30-day Readmission (2015) - [Link](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)
-	* Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models (2019) - [Link](https://arxiv.org/pdf/1911.04974.pdf)
+	* Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models (2019) - [Paper Link](https://arxiv.org/pdf/1911.04974.pdf)
+	
+	* An interpretable probabilistic machine learning method for heterogeneous longitudinal studies (2019):
+		- [Paper Link](https://arxiv.org/pdf/1912.03549.pdf)
+		- Present a widely applicable and interpretable probabilistic machine learning method for nonparametric longitudinal data analysis using additive Gaussian process regression.
+		
 4. Decision sets 
 5. Rule-based classifiers 
 6. Scorecards
 7. Short rules 
 8. Concept based explanation
-10. Support vector machine
-11. TabNet: Attentive Interpretable Tabular Learning 
-	* [Link](https://arxiv.org/pdf/1908.07442.pdf)
+9. TabNet: Attentive Interpretable Tabular Learning 
+	* [Paper Link](https://arxiv.org/pdf/1908.07442.pdf)
 	* [Source code](https://github.com/google-research/google-research/tree/master/tabnet)
 	
 12. Bayesian model:
 	* INTERPRETABLE CLASSIFIERS USING RULES AND BAYESIANANALYSIS: BUILDING A BETTER STROKE PREDICTIONMODEL - [Link](https://arxiv.org/pdf/1511.01644.pdf)
 	*  The Bayesian Case Model: A Generative Approachfor Case-Based Reasoning and Prototype Classification - [Link](https://beenkim.github.io/papers/KimRudinShahNIPS2014.pdf)
-	* An interpretable probabilistic machine learning method for heterogeneous longitudinal studies (2019)
+	
 
 12. Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations (2017)
 13. Learning Explainable Models Using Attribution Priors (Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee,2019)
-	* [Link](https://arxiv.org/pdf/1906.10670.pdf)
+	* [Paper Link](https://arxiv.org/pdf/1906.10670.pdf)
 	* [Source code](https://github.com/suinleelab/attributionpriors)
 	* Model priors transfer information from humans to a model by constraining the model’s parameters
 	* Model attributions transfer information from amodel to humans by explaining the model’s behavior. 
@@ -52,7 +56,8 @@
 
 ## Model-Agnostic:
 1. Explanation by simplification:
-	* Interpretability via Model Extraction - [Link](https://arxiv.org/abs/1706.09773):
+	* Interpretability via Model Extraction 
+		- [Paper Link](https://arxiv.org/abs/1706.09773):
 		- The authors formulate model simplification as a model extraction process by approximating a transparent model to the complex one.
 
 	* Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation - [Link](https://arxiv.org/abs/1710.06169)
