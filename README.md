@@ -27,10 +27,8 @@
 		- Present a widely applicable and interpretable probabilistic machine learning method for nonparametric longitudinal data analysis using additive Gaussian process regression.
 		
 4. Decision sets 
-5. Rule-based classifiers 
-6. Scorecards
-7. Short rules 
-8. Concept based explanation
+5. Rule-based classifiers:
+	* Multi-value Rule Sets for Interpretable Classification with Feature-Efficient Representations (NIPS 2018)
 9. TabNet: Attentive Interpretable Tabular Learning 
 	* [Paper Link](https://arxiv.org/pdf/1908.07442.pdf)
 	* [Source code](https://github.com/google-research/google-research/tree/master/tabnet)
@@ -50,7 +48,9 @@ descent-based optimization to learn flexible representations and enable flexible
 	* [Source code](https://github.com/suinleelab/attributionpriors)
 	* Model priors transfer information from humans to a model by constraining the model’s parameters
 	* Model attributions transfer information from amodel to humans by explaining the model’s behavior. 
-
+14. Hybrid Predictive Model: When an Interpretable Model Collaborates with a Black-box Model (2019)
+15. Interpretable Companions for Black-Box Models (2020)
+8. Concept based explanation
 
 ## Model-Specific Explanation Methods:
 1. Knowledge distillation
@@ -105,6 +105,11 @@ descent-based optimization to learn flexible representations and enable flexible
 	* Learning functional causal models with generative neural networks, in: Explainable and Interpretable Models in Computer Vision and Machine Learning
 	* Discovering causal signals in images
 
+5. Making Bayesian Predictive Models Interpretable: A Decision Theoretic Approach
+
+## Survey:
+1. Causal inference:
+	* Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation (2020)
 
 ## Application:
 1. Recommendation system
@@ -115,3 +120,9 @@ descent-based optimization to learn flexible representations and enable flexible
 
 ## Useful Links:
 1. On Model Explainability [Link](https://everdark.github.io/k9/notebooks/ml/model_explain/model_explain.nb.html#7_explainable_boosting_machine)
+
+
+## Authors
+
+**Dung Duong** - *Initial work* 
+
