@@ -6,7 +6,7 @@
 	- Negative binomial regression
   - Beta regression
     
-3. Generalized addictive model [10](https://arxiv.org/pdf/1810.09092.pdf)
+3. Generalized addictive model [[1](https://arxiv.org/pdf/1810.09092.pdf)]
 4. Decision sets 
 5. Rule-based classifiers 
 6. Scorecards
