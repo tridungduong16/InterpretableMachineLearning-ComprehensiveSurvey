@@ -1,9 +1,13 @@
 # Interpretable Machine Learning:
 ## Intrinsic interpretable model
 1. Linear Regression: 
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=\sum_{i&space;=&space;0&space;}^{n}x_{i}*\ss&space;_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;=&space;0&space;}^{n}x_{i}*\ss&space;_{i}" title="\sum_{i = 0 }^{n}x_{i}*\ss _{i}" /></a>
 
-2. Generalized linear regression
+2. Generalized linear regression:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=g(E_Y(y|x))=\beta_0&plus;\beta_1{}x_{1}&plus;\ldots{}\beta_p{}x_{p}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?g(E_Y(y|x))=\beta_0&plus;\beta_1{}x_{1}&plus;\ldots{}\beta_p{}x_{p}" title="g(E_Y(y|x))=\beta_0+\beta_1{}x_{1}+\ldots{}\beta_p{}x_{p}" /></a>
+
 	- Poisson regression
 	- Negative binomial regression
   	- Beta regression
@@ -54,9 +58,10 @@
 			+ [Source code](https://github.com/slundberg/shap)
 			+ SHAP Tree explainer: which focuses on polynomial time fast SHAP value estimation specific for tree and ensemble tree
 			+ SHAP Deep Explainer: is the high speed approximation SHAP value for deep learning model
-		- An efficient explanation of individual classifications using game theory
+			+ Kernel SHAP: an alternative, kernel-based estimation approach for Shapley values inspired by local surrogate models
+		- An efficient explanation of individual classifications using game theory (2010)
 		- Explaining models by propagating shapley values of local components (2019) 
-	* Interpretation of nonlinear relationships between process variables by use of random forests
+	* Interpretation of nonlinear relationships between process variables by use of random forests (2012)
 
 3. Local Explanations:
 	* "Why Should I Trust You?": Explaining the Predictions of Any Classifier - [Link](https://arxiv.org/pdf/1602.04938.pdf)
