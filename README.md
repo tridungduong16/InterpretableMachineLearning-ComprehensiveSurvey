@@ -15,7 +15,7 @@
 8. Common-sense inference [[1](https://arxiv.org/pdf/1511.06426.pdf)]
 9. Concept based explanation
 10. Support vector machine
-11. TabNet: Attentive Interpretable Tabular Learning [[1](https://arxiv.org/pdf/1908.07442.pdf)]
+11. TabNet: Attentive Interpretable Tabular Learning [Link](https://arxiv.org/pdf/1908.07442.pdf)
 12. Bayesian model:
 	* INTERPRETABLE CLASSIFIERS USING RULES AND BAYESIANANALYSIS: BUILDING A BETTER STROKE PREDICTIONMODEL - [Link](https://arxiv.org/pdf/1511.01644.pdf)
 	*  The Bayesian Case Model: A Generative Approachfor Case-Based Reasoning and Prototype Classification - [Link](https://beenkim.github.io/papers/KimRudinShahNIPS2014.pdf)
