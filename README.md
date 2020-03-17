@@ -124,5 +124,5 @@ descent-based optimization to learn flexible representations and enable flexible
 
 ## Authors
 
-**Dung Duong** - *Initial work* 
+**Dung Duong** - PhD Student at UTS 
 
