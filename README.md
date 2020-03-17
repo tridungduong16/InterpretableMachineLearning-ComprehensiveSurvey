@@ -88,7 +88,10 @@
 
 3. Local Explanations:
 	* "Why Should I Trust You?": Explaining the Predictions of Any Classifier - [Link](https://arxiv.org/pdf/1602.04938.pdf)
-	* Anchors: High-Precision Model-Agnostic Explanations - [Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982/15850)
+	* Anchors: High-Precision Model-Agnostic Explanations (2018) - [Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982/15850)
+	* Explaining Predictions from Tree-based Boosting Ensembles (2019)
+	* Improving the Quality of Explanations with Local Embedding Perturbations
+
 4. Example-based explantions
 	* Counterfactual Explanations:
 		- COUNTERFACTUAL EXPLANATIONS WITHOUT OPENING THE BLACK BOX: AUTOMATED DECISIONS AND THE GDPR - [Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
