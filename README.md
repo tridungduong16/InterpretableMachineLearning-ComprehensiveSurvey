@@ -5,19 +5,21 @@
 	- Poisson regression
 	- Negative binomial regression
   	- Beta regression
-    
+    	
 3. Generalized addictive model [[1](https://arxiv.org/pdf/1810.09092.pdf), 
 				[2](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)]
+	-  Additive Gaussian process regression
 4. Decision sets 
 5. Rule-based classifiers 
 6. Scorecards
 7. Short rules 
-8. Bayesian case-based reasoning models [[1](https://arxiv.org/pdf/1503.01161.pdf)]
+8. Bayesian case-based reasoning models []
 9. Common-sense inference [[1](https://arxiv.org/pdf/1511.06426.pdf)]
 10. Concept based explanation
-11. Additive Gaussian process regression
 12. Support vector machine
-13. Tabnet 
+13. Tabnet [[1](https://arxiv.org/pdf/1908.07442.pdf)
+14. Bayesian model [[1](https://arxiv.org/pdf/1511.01644.pdf),
+			[2](https://arxiv.org/pdf/1503.01161.pdf)]
 
 ## Model-Specific Explanation Methods:
 1. Knowledge distillation
