@@ -1,6 +1,9 @@
 # Interpretable Machine Learning:
 ## Intrinsic interpretable model
-1. Linear Regression
+1. Linear Regression:
+	<img src="https://render.githubusercontent.com/render/math?math=y=\beta_{0} + \beta_{1}x_{1} + \ldots+\beta_{p}x_{p} + \epsilon">
+
+
 2. Generalized linear regression
 	- Poisson regression
 	- Negative binomial regression
