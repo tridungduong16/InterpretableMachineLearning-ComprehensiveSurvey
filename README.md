@@ -1,8 +1,8 @@
 # Interpretable Machine Learning:
 ## Intrinsic interpretable model
-1. Linear Regression:
-	<img src="https://render.githubusercontent.com/render/math?math=y=\beta_{0} + \beta_{1}x_{1} + \ldots+\beta_{p}x_{p} + \epsilon">
+1. Linear Regression: <a href="https://www.codecogs.com/eqnedit.php?latex=\sum&space;\sum&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum&space;\sum&space;x" title="\sum \sum x" /></a>
 
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 2. Generalized linear regression
 	- Poisson regression
