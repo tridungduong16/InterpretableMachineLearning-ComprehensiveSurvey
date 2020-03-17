@@ -45,7 +45,8 @@
 		- Interpreting tree ensembles with intrees (2014)
 		- Making tree ensembles interpretable: presents the usage of two models (simple and complex) being the former the one in charge of interpretation and the latter of prediction by means of Expectation-Maximization and Kullback-Leibler divergence.
 2. Feature relevance explanation:
-	* Understanding Black-box Predictions via Influence Functions - [Link](https://arxiv.org/pdf/1703.04730.pdf)
+	* Understanding Black-box Predictions via Influence Functions - [Link](https://arxiv.org/pdf/1703.04730.pdf):
+		- The influence function is a measure of how strongly the model parameters or predictions depend on a training instance. Instead of deleting the instance, the method upweights the instance in the loss by a very small step. This method involves approximating the loss around the current model parameters using the gradient and Hessian matrix. Loss upweighting is similar to deleting the instance 
 	* Game theory inspired: 
 		- A unified approach to interpreting model predictions:
 			+ [Source code](https://github.com/slundberg/shap)
