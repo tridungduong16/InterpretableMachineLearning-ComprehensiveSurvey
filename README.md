@@ -30,7 +30,7 @@
 	* Interpretability via Model Extraction - [Link](https://arxiv.org/abs/1706.09773):
 		- The authors formulate model simplification as a model extraction process by approximating a transparent model to the complex one.
 
-	* Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation - [Link](https://arxiv.org/abs/1710.06169)]
+	* Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation - [Link](https://arxiv.org/abs/1710.06169)
 	* Rule-based learner:
 		- Interpretable & explorable approximations of black box models (2017)
 		- Local interpretable model-agnostic explanations for music content analysis
@@ -56,9 +56,11 @@
 4. Example-based explantions
 	* Counterfactual Explanations:
 		- COUNTERFACTUAL EXPLANATIONS WITHOUT OPENING THE BLACK BOX: AUTOMATED DECISIONS AND THE GDPR - [Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
+		- Counterfactuals in explainable artificial intelligence (XAI): Evidence from human reasoning
 	* Prototypes and Criticisms MMD-Critic:
 		- Examples are not Enough, Learn to Criticize!Criticism for Interpretability - [Link](https://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability.pdf)
-	
+	* Learning functional causal models with generative neural networks, in: Explainable and Interpretable Models in Computer Vision and Machine Learning
+	* Discovering causal signals in images
 ## Application:
 1. Recommendation system
 2. Ecnometrics
