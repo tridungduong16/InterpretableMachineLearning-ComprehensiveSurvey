@@ -12,8 +12,7 @@
 5. Rule-based classifiers 
 6. Scorecards
 7. Short rules 
-8. Common-sense inference [[1](https://arxiv.org/pdf/1511.06426.pdf)]
-9. Concept based explanation
+8. Concept based explanation
 10. Support vector machine
 11. TabNet: Attentive Interpretable Tabular Learning [Link](https://arxiv.org/pdf/1908.07442.pdf)
 12. Bayesian model:
@@ -38,14 +37,19 @@
 
 	* Decision Tree:
 		- Interpreting tree ensembles with intrees (2014)
-
+		- Making tree ensembles interpretable: presents the usage of two models (simple and complex) being the former the one in charge of interpretation and the latter of prediction by means of Expectation-Maximization and Kullback-Leibler divergence.
 2. Feature relevance explanation:
 	* Understanding Black-box Predictions via Influence Functions - [Link](https://arxiv.org/pdf/1703.04730.pdf)
 	* Game theory inspired: 
-		- A unified approach to interpreting model predictions
+		- A unified approach to interpreting model predictions:
+			+ SHAP Tree explainer: which focuses on polynomial time fast SHAP value estimation specific for tree and ensemble tree
+			+ SHAP Deep Explainer: is the high speed approximation SHAP value for deep learning model
+			+ SHAP Kernel Explainer: 
+
 		- An efficient explanation of individual classifications using game theory
-		- Explaining models by propagating shapley values of local
-components
+		- Explaining models by propagating shapley values of local components (2019) 
+	* Interpretation of nonlinear relationships between process variables by use of random forests
+
 3. Local Explanations:
 	* "Why Should I Trust You?": Explaining the Predictions of Any Classifier - [Link](https://arxiv.org/pdf/1602.04938.pdf)
 	* Anchors: High-Precision Model-Agnostic Explanations - [Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982/15850)
