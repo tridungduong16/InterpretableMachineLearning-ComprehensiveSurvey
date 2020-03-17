@@ -1,5 +1,13 @@
 # Interpretable Machine Learning:
-## Intrinsic interpretable model
+# Table of Contents
+1. [Intrinsic interpretable model](#intrinsic)
+2. [Model-Specific Explanation Methods](#specify)
+3. [Model-Agnostic](#agnostic)
+4. [Survey](#survey)
+5. [Application](#application)
+6. [Useful Link](#useful)
+
+## Intrinsic interpretable model <a name="intrinsic"></a>
 1. Linear Regression: 
 
  	<a href="https://www.codecogs.com/eqnedit.php?latex=\sum_{i&space;=&space;0}^{n}x_{i}\beta_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;=&space;0}^{n}x_{i}\beta_{i}" title="\sum_{i = 0}^{n}x_{i}\beta_{i}" /></a>
@@ -52,13 +60,13 @@ descent-based optimization to learn flexible representations and enable flexible
 15. Interpretable Companions for Black-Box Models (2020)
 8. Concept based explanation
 
-## Model-Specific Explanation Methods:
+## Model-Specific Explanation Methods <a name="specify"></a>:
 1. Knowledge distillation
 2. Ensembles and Multiple Classifier Systems
 3. Support Vector Machines
 4. Deep learning
 
-## Model-Agnostic:
+## Model-Agnostic <a name="agnostic"></a> :
 1. Explanation by simplification:
 	* Interpretability via Model Extraction 
 		- [Paper Link](https://arxiv.org/abs/1706.09773):
@@ -107,18 +115,18 @@ descent-based optimization to learn flexible representations and enable flexible
 
 5. Making Bayesian Predictive Models Interpretable: A Decision Theoretic Approach
 
-## Survey:
+## Survey <a name="survey"></a>:
 1. Causal inference:
 	* Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation (2020)
 
-## Application:
+## Application <a name="application"></a>:
 1. Recommendation system
 2. Ecnometrics
 3. Natural language processing
 4. Computer vision
 5. Tabular Data
 
-## Useful Links:
+## Useful Links <a name="useful"></a>:
 1. On Model Explainability [Link](https://everdark.github.io/k9/notebooks/ml/model_explain/model_explain.nb.html#7_explainable_boosting_machine)
 
 
