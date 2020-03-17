@@ -1,6 +1,10 @@
 # Interpretable Machine Learning:
 ## Intrinsic interpretable model
-1. Linear Regression
+1. Linear Regression:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\sum_{i&space;=&space;0}^{n}x_{i}\beta_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;=&space;0}^{n}x_{i}\beta_{i}" title="\sum_{i = 0}^{n}x_{i}\beta_{i}" /></a>
+
+
 2. Generalized linear regression
 	- Poisson regression
 	- Negative binomial regression
