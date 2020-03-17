@@ -29,18 +29,18 @@
 ## Model-Agnostic:
 1. Explanation by simplification:
 	* Interpretability via Model Extraction - [Link](https://arxiv.org/abs/1706.09773):
-		- the authors formulate model simplification as a model extraction process by approximating a transparent model to the complex one.
+		- The authors formulate model simplification as a model extraction process by approximating a transparent model to the complex one.
 
 	* Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation - [Link](https://arxiv.org/abs/1710.06169)]
 	* Rule-based learner:
 		- Interpretable & explorable approximations of black box models (2017)
 		- Local interpretable model-agnostic explanations for music content analysis
 
-	* Decision Tree: [21, 119, 133, 135, 149, 217, 218]
+	* Decision Tree:
 		- Interpreting tree ensembles with intrees (2014)
 
 2. Feature relevance explanation:
-	* Influence functions [[1](https://arxiv.org/pdf/1703.04730.pdf)]
+	* Understanding Black-box Predictions via Influence Functions - [Link](https://arxiv.org/pdf/1703.04730.pdf)
 	* Game theory inspired: 
 		- A unified approach to interpreting model predictions
 		- An efficient explanation of individual classifications using game theory
@@ -61,4 +61,3 @@ components
 3. Natural language processing
 4. Computer vision
 5. Tabular Data
-
