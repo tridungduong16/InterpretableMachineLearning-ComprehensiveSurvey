@@ -34,6 +34,10 @@
 9. TabNet: Attentive Interpretable Tabular Learning 
 	* [Paper Link](https://arxiv.org/pdf/1908.07442.pdf)
 	* [Source code](https://github.com/google-research/google-research/tree/master/tabnet)
+	* TabNet uses sequential attention to choose which features to reason from at each decision step, enabling interpretability and more efficient learning
+	* TabNet inputs raw tabular data without any feature preprocessing and is trained using gradient
+descent-based optimization to learn flexible representations and enable flexible integration into end-to-end learning.
+	* TabNet uses sequential aention to choose which features to reason from at each decision step
 	
 12. Bayesian model:
 	* INTERPRETABLE CLASSIFIERS USING RULES AND BAYESIANANALYSIS: BUILDING A BETTER STROKE PREDICTIONMODEL - [Link](https://arxiv.org/pdf/1511.01644.pdf)
