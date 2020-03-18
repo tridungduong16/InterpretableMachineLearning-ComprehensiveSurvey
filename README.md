@@ -33,7 +33,8 @@
 	- [Paper Link](https://arxiv.org/pdf/1511.01644.pdf)
 *  The Bayesian Case Model: A Generative Approachfor Case-Based Reasoning and Prototype Classification 
 	- [Paper Link](https://beenkim.github.io/papers/KimRudinShahNIPS2014.pdf)
-* Bayesian model averaging 
+* Bayesian model averaging for river flow prediction (2018)
+
 
 
 ### Rule-based classifiers:
@@ -142,8 +143,8 @@ descent-based optimization to learn flexible representations and enable flexible
 * Neural network attributions: A causal perspective. (2019)
 * Counterfactuals uncover the modular structure of deep generative models. (2018)
 * Generating counterfactual and contrastive explanations using SHAP (2019):
-	- [Paper Link]
-	- gGenerates counterfactual explanations using shapely additive explanations (SHAP).
+	- [Paper Link](https://arxiv.org/pdf/1906.09293.pdf)
+	- Generates counterfactual explanations using shapely additive explanations (SHAP).
 ### Example-based: 
 * Interpretable credit application predictions with counterfactual explanations:
 	- Propose a method to generate counterfactual examples in a high dimensional setting.
