@@ -89,14 +89,17 @@ descent-based optimization to learn flexible representations and enable flexible
 			* Adopt the probabilistic model for representing ensemble trees
 			* Bayesian model selection algorithm called factorized asymptotic Bayesian (FAB) inference for finding the parameters.
 2. Feature relevance explanation:
-	* Understanding Black-box Predictions via Influence Functions - [Link](https://arxiv.org/pdf/1703.04730.pdf)
+	* Understanding Black-box Predictions via Influence Functions (2017)
+		- [Paper Link](https://arxiv.org/pdf/1703.04730.pdf)
 		- influence function is a measure of how strongly the model parameters or predictions depend on a training instance. Instead of deleting the instance, the method upweights the instance in the loss by a very small step. This method involves approximating the loss around the current model parameters using the gradient and Hessian matrix.
 	* Game theory inspired: 
 		- A unified approach to interpreting model predictions:
+			+ [Paper Link](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
 			+ [Source code](https://github.com/slundberg/shap)
 			+ SHAP Tree explainer: which focuses on polynomial time fast SHAP value estimation specific for tree and ensemble tree
 			+ SHAP Deep Explainer: is the high speed approximation SHAP value for deep learning model
-		- An efficient explanation of individual classifications using game theory
+		- An efficient explanation of individual classifications using game theory (2010)
+			+ [Paper Link](http://www.jmlr.org/papers/volume11/strumbelj10a/strumbelj10a.pdf)
 		- Explaining models by propagating shapley values of local components (2019) 
 	* Interpretation of nonlinear relationships between process variables by use of random forests
 
@@ -125,29 +128,20 @@ descent-based optimization to learn flexible representations and enable flexible
 	* Structural Causal Models
 	* Causal Bayesian Network
 	* Average Causal Effect
-2. Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation (2020)
-	* Statistical (associational) interpretability: Aims to uncover statistical associations by asking questions such
-as "How would seeing x change my belief in y?"
-	* Causal interventional interpretability: Is designed to answer "What if" questions.
-	* Counterfactual interpretability: Is the highest level of interpretability, which aims to answer "Why" questions.
-	* Causal interpretablity for model-based interpretations: explain the causal effect of
-a model component on the final decision.
-		- Causal learning and explanation of deep neural networks via autoencoded activations. (2018)
-		- Neural network attributions: A causal perspective (2019)
-	* Counterfactual explanation generators: generate counterfactual explanations for alternate situations and scenarios.
-	* Causal interpretability and fairness: explains that interpretable models are often indispensable
-to guarantee fairness. 
-	* Causal interpretability and its role in verifying the causal relationships discovered from data.
-
-
-3. Model-based:
+2. Model-based:
 	* Explaining deep learning models using causal inference. (2018)
 	* Causal learning and explanation of deep neural networks via autoencoded activations. (2018)
 	* Neural network attributions: A causal perspective. (2019)
 	* Counterfactuals uncover the modular structure of deep generative models. (2018)
-	* Generating counterfactual and contrastive explanations using SHAP (2019)
-4. Example-based: 
-	* Interpretable credit application predictions with counterfactual explanations.
+	* Generating counterfactual and contrastive explanations using SHAP (2019):
+		- [Paper Link]
+		- generates counterfactual explanations using shapely additive explanations (SHAP).
+3. Example-based: 
+	* Interpretable credit application predictions with counterfactual explanations:
+		- Propose a method to generate counterfactual examples in a high dimensional setting.
+		- For **credit application prediction** via off-the-shelf interchangeable black-box classifiers.
+		- Propose to reweigh the distance between the features of an instance and its corresponding counterfactual with the inverse median absolute deviation
+
 	* Multimodal explanations by predicting counterfactuality in videos
 	* Generating counterfactual explanations with natural language
 	* Counterfactual explanations without opening the black box: Automated decisions and the GDPR.
@@ -156,13 +150,14 @@ to guarantee fairness.
 	* Interpretable counterfactual explanations guided by prototypes.
 	* Generative counterfactual introspection for explainable deep learning.
 	* Explaining classifiers with causal concept effect (cace). (2019)
-	
-5. Fairness: 
+	* Generative counterfactual introspection for explainable deep learning:
+		- propose a generative model to generate counterfactual explanations for explaining a model’s decisions
+4. Fairness: 
 	* Counterfactual fairness.
 	* Avoiding discrimination through causal reasoning.
 	* Fairness through causal awareness: Learning latent-variable models for biased data.
 	* Fairness in decisionmaking – the causal explanation formula. (2018)
-6. Guarantee: 
+5. Guarantee: 
 	* Learning interpretable models with causal guarantees (2019)
 
 
