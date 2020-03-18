@@ -22,13 +22,13 @@ A generalized additive model (GAM) is a generalized linear model in which the li
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=g(\operatorname&space;{E}(Y))=\beta&space;_{0}&plus;f_{1}(x_{1})&plus;f_{2}(x_{2})&plus;\cdots&space;&plus;f_{m}(x_{m})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?g(\operatorname&space;{E}(Y))=\beta&space;_{0}&plus;f_{1}(x_{1})&plus;f_{2}(x_{2})&plus;\cdots&space;&plus;f_{m}(x_{m})" title="g(\operatorname {E}(Y))=\beta _{0}+f_{1}(x_{1})+f_{2}(x_{2})+\cdots +f_{m}(x_{m})" /></a>
 
-* Axiomatic Interpretability for Multiclass Additive Models (2019) - ***Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining  - KDD 19***
+* Axiomatic Interpretability for Multiclass Additive Models (2019) ***(Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining  - KDD 19)***
 	- [Paper Link](https://arxiv.org/pdf/1810.09092.pdf)
 	- [Source code](https://github.com/interpretml/interpret)
 	- Generalize a state-of-the-art GAM learning algorithm based on boosted trees to the multiclass setting
 	- Additive Post-Processing for Interpretability (API) that provably transforms a pretrained additive model to satisfy the interpretability axioms without sacrificing accuracy
 	- Optimization procedure is cyclic gradient boosting
-* Intelligible Models for HealthCare: Predicting PneumoniaRisk and Hospital 30-day Readmission (2015) - ***Proceedings of the 21th ACM SIGKDD international conference on knowledge discovery and data mining**
+* Intelligible Models for HealthCare: Predicting PneumoniaRisk and Hospital 30-day Readmission (2015) ***(Proceedings of the 21th ACM SIGKDD international conference on knowledge discovery and data mining)***
 	- [Paper Link](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)
 * Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models (2019) 
 	- [Paper Link](https://arxiv.org/pdf/1911.04974.pdf)
@@ -37,7 +37,7 @@ A generalized additive model (GAM) is a generalized linear model in which the li
 	- Present a widely applicable and interpretable probabilistic machine learning method for nonparametric longitudinal data analysis using additive Gaussian process regression.
 
 ### Bayesian model:
-* INTERPRETABLE CLASSIFIERS USING RULES AND BAYESIANANALYSIS: BUILDING A BETTER STROKE PREDICTION MODEL ***The Annals of Applied Statistics***
+* INTERPRETABLE CLASSIFIERS USING RULES AND BAYESIANANALYSIS: BUILDING A BETTER STROKE PREDICTION MODEL ***(The Annals of Applied Statistics)***
 	- [Paper Link](https://arxiv.org/pdf/1511.01644.pdf)
 *  The Bayesian Case Model: A Generative Approachfor Case-Based Reasoning and Prototype Classification 
 	- [Paper Link](https://beenkim.github.io/papers/KimRudinShahNIPS2014.pdf)
@@ -46,7 +46,7 @@ A generalized additive model (GAM) is a generalized linear model in which the li
 
 
 ### Rule-based classifiers:
-* Multi-value Rule Sets for Interpretable Classification with Feature-Efficient Representations ***Advances in Neural Information Processing Systems. 2018***
+* Multi-value Rule Sets for Interpretable Classification with Feature-Efficient Representations ***(Advances in Neural Information Processing Systems. 2018)***
 	- [Paper Link](http://papers.nips.cc/paper/8281-multi-value-rule-sets-for-interpretable-classification-with-feature-efficient-representations.pdf)
 ### Attention mechanism: 	
 * TabNet: Attentive Interpretable Tabular Learning 
@@ -61,12 +61,12 @@ descent-based optimization to learn flexible representations and enable flexible
 
 ### Disentangled Representation Learning.
 * Auto-encoding variational bayes (2013)
-* Interpretable representation learning by information maximizing generative adversarial nets ***Advances in neural information processing systems. 2016.***
-* betavae: Learning basic visual concepts with a constrained variational framework. ***Iclr 2.5 (2017): 6.***
+* Interpretable representation learning by information maximizing generative adversarial nets ***(Advances in neural information processing systems. 2016.)***
+* betavae: Learning basic visual concepts with a constrained variational framework. ***(Iclr 2.5 (2017): 6.)***
 
 ### Others:
 * Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations (2017)
-* Learning Explainable Models Using Attribution Priors (Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee,2019)
+* Learning Explainable Models Using Attribution Priors
 	- [Paper Link](https://arxiv.org/pdf/1906.10670.pdf)
 	- [Source code](https://github.com/suinleelab/attributionpriors)
 	- Model priors transfer information from humans to a model by constraining the model’s parameters
@@ -88,7 +88,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Paper Link](https://arxiv.org/abs/1706.09773):
 	- The authors formulate model simplification as a model extraction process by approximating a transparent model to the complex one.
 
-* Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation ***Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society. 2018.***
+* Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation ***(Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society. 2018.)***
 	- [Paper Link](https://arxiv.org/abs/1710.06169)
 * Interpretable & explorable approximations of black box models (2017)
 * Local interpretable model-agnostic explanations for music content analysis
@@ -101,7 +101,7 @@ descent-based optimization to learn flexible representations and enable flexible
 		* Adopt the probabilistic model for representing ensemble trees
 		* Bayesian model selection algorithm called factorized asymptotic Bayesian (FAB) inference for finding the parameters.
 ### Feature relevance explanation:
-* Understanding Black-box Predictions via Influence Functions - ***Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017***
+* Understanding Black-box Predictions via Influence Functions ***(Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017)***
 	- [Paper Link](https://arxiv.org/pdf/1703.04730.pdf)
 	- influence function is a measure of how strongly the model parameters or predictions depend on a training instance. Instead of deleting the instance, the method upweights the instance in the loss by a very small step. This method involves approximating the loss around the current model parameters using the gradient and Hessian matrix.
 * A unified approach to interpreting model predictions (2017) - ***Advances in neural information processing systems (pp. 4765-4774).**
@@ -115,13 +115,13 @@ descent-based optimization to learn flexible representations and enable flexible
 * Interpretation of nonlinear relationships between process variables by use of random forests
 
 ### Local Explanations:
-* "Why Should I Trust You?": Explaining the Predictions of Any Classifier
+* "Why Should I Trust You?": Explaining the Predictions of Any Classifier ***(Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. 2016.)***
 	- [Paper Link](https://arxiv.org/pdf/1602.04938.pdf)
 	- [Source code](https://github.com/marcotcr/lime)
-* Anchors: High-Precision Model-Agnostic Explanations (2018) 
+* Anchors: High-Precision Model-Agnostic Explanations ***(Thirty-Second AAAI Conference on Artificial Intelligence. 2018.)***
 	- [Paper Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982/15850)
 * Explaining Predictions from Tree-based Boosting Ensembles (2019)
-* Improving the Quality of Explanations with Local Embedding Perturbations
+* Improving the Quality of Explanations with Local Embedding Perturbations ***(Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2019.)***
 
 ### Example-based explantions
 * COUNTERFACTUAL EXPLANATIONS WITHOUT OPENING THE BLACK BOX: AUTOMATED DECISIONS AND THE GDPR 
@@ -161,7 +161,7 @@ They are designed based on a new type of conditional probability <a href="https:
 	- Propose a method to generate counterfactual examples in a high dimensional setting.
 	- For **credit application prediction** via off-the-shelf interchangeable black-box classifiers.
 	- Propose to reweigh the distance between the features of an instance and its corresponding counterfactual with the inverse median absolute deviation
-* Multimodal explanations by predicting counterfactuality in videos
+* Multimodal explanations by predicting counterfactuality in videos ***(Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019).***
 * Generating counterfactual explanations with natural language
 * Counterfactual explanations without opening the black box: Automated decisions and the GDPR.
 * Explaining machine learning classifiers through diverse counterfactual explanations. (2019)
@@ -177,13 +177,13 @@ They are designed based on a new type of conditional probability <a href="https:
 * Generative counterfactual introspection for explainable deep learning:
 	- propose a generative model to generate counterfactual explanations for explaining a model’s decisions
 ### Fairness: 
-* Counterfactual fairness - ***Advances in Neural Information Processing Systems. 2017.***
+* Counterfactual fairness ***(Advances in Neural Information Processing Systems. 2017).***
 	- [Paper Link](https://papers.nips.cc/paper/6995-counterfactual-fairness.pdf)
 	- the actual world 
 	- a counterfactual world where the individual belonged to a different demographic group.
-* Avoiding discrimination through causal reasoning ***Advances in Neural Information Processing Systems. 2017.***
+* Avoiding discrimination through causal reasoning ***(Advances in Neural Information Processing Systems. 2017).***
 * Fairness through causal awareness: Learning latent-variable models for biased data.
-* Fairness in decision making – the causal explanation formula. ***Thirty-Second AAAI Conference on Artificial Intelligence. 2018.***
+* Fairness in decision making – the causal explanation formula. ***(Thirty-Second AAAI Conference on Artificial Intelligence. 2018).***
 
 
 ### Guarantee: 
