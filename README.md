@@ -1,28 +1,28 @@
 # Interpretable Machine Learning:
 # Table of Contents
 1. [Intrinsic Interpretable Model](#intrinsic)
-	1.[Linear Regression](#linear)
-	2.[Generalized linear regression](#general)
-	3.[Generalized addictive model](#addictive)
-	4.[Bayesian model](#bayes)
-	5.[Rule-based classifiers](#rule)
-	5.[Attention mechanism](#attention)
-	5.[Disentangled Representation Learning](#represent)
-	5.[Others](#other_model)
+	* [Linear Regression](#linear)
+	* [Generalized linear regression](#generalized)
+	* [Generalized addictive model](#addictive)
+	* [Bayesian model](#bayes)
+	* [Rule-based classifiers](#rule)
+	* [Attention mechanism](#attention)
+	* [Disentangled Representation Learning](#represent)
+	* [Others](#other_model)
 	
 2. [Model-Specific Explanation Methods](#specify)
 3. [Model-Agnostic](#agnostic)
-	1.[Explanation by simplification](#simple)
-	2.[Feature relevance explanation](#feature)
-	3.[Local Explanations](#local)
-	4.[Example-based explantions](#example_agnostic)
-	5.[Others](#other_agnostic)
+	* [Explanation by simplification](#simple)
+	* [Feature relevance explanation](#feature)
+	* [Local Explanations](#local)
+	* [Example-based explantions](#example_agnostic)
+	* [Others](#other_agnostic)
 4. [Causal Interpretability](#survey)
-	1.[Causal interpretable models](#model)
-	2.[Model-based](#based)
-	3.[Example-based Interpretation](#example_causal)
-	4.[Fairness](#fairness)
-	5.[Guarantee](#guarantee)
+	* [Causal interpretable models](#model_causal)
+	* [Model-based](#base_causal)
+	* [Example-based Interpretation](#example_causal)
+	* [Fairness](#fairness)
+	* [Guarantee](#guarantee)
 5. [Useful Link](#useful)
 
 ## Intrinsic interpretable model <a name="intrinsic"></a>
@@ -119,7 +119,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- Derive a Bayesian model selection algorithm that optimizes the simplified model while maintaining the prediction performance
 		* Adopt the probabilistic model for representing ensemble trees
 		* Bayesian model selection algorithm called factorized asymptotic Bayesian (FAB) inference for finding the parameters.
-### Feature relevance explanation: <a name="intrinsic"></a>
+### Feature relevance explanation: <a name="feature"></a>
 * Understanding Black-box Predictions via Influence Functions ***(Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017)***
 	- [Paper Link](https://arxiv.org/pdf/1703.04730.pdf)
 	- influence function is a measure of how strongly the model parameters or predictions depend on a training instance. Instead of deleting the instance, the method upweights the instance in the loss by a very small step. This method involves approximating the loss around the current model parameters using the gradient and Hessian matrix.
@@ -159,7 +159,7 @@ descent-based optimization to learn flexible representations and enable flexible
 * Structural Causal Models
 * Causal Bayesian Network
 * Average Causal Effect
-### Model-based: <a name="base"></a>
+### Model-based: <a name="base_causal"></a>
 * Explaining deep learning models using causal inference. (2018):
 	- [Paper Link](https://arxiv.org/pdf/1811.04376.pdf)
 	- Consider the DNN as an structural causal model, apply a function on each filter of the model to obtain the targeted value such as variance or expected value of each filter and reason on the obtained SCM.
