@@ -58,7 +58,10 @@ descent-based optimization to learn flexible representations and enable flexible
 	* Model attributions transfer information from amodel to humans by explaining the model’s behavior. 
 14. Hybrid Predictive Model: When an Interpretable Model Collaborates with a Black-box Model (2019)
 15. Interpretable Companions for Black-Box Models (2020)
-8. Concept based explanation
+16. Concept based explanation
+17. Attention mechanism
+18. Disentangled Representation Learning.
+
 
 ## Model-Specific Explanation Methods <a name="specify"></a>:
 1. Knowledge distillation
@@ -115,9 +118,28 @@ descent-based optimization to learn flexible representations and enable flexible
 
 5. Making Bayesian Predictive Models Interpretable: A Decision Theoretic Approach
 
-## Survey <a name="survey"></a>:
-1. Causal inference:
-	* Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation (2020)
+## Causal Interpretability <a name="survey"></a>:
+1. Causal interpretable models:
+	* Structural Causal Models
+	* Causal Bayesian Network
+	* Average Causal Effect
+2. Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation (2020)
+	* Statistical (associational) interpretability: Aims to uncover statistical associations by asking questions such
+as "How would seeing x change my belief in y?"
+	* Causal interventional interpretability: Is designed to answer "What if" questions.
+	* Counterfactual interpretability: Is the highest level of interpretability, which aims to answer "Why" questions.
+	* There are 4 main categories:
+		- Causal interpretablity for model-based interpretations: explain the causal effect of
+a model component on the final decision.
+		- Counterfactual explanation generators: generate counterfactual explanations for alternate situations and scenarios.
+		- Causal interpretability and fairness: explains that interpretable models are often indispensable
+to guarantee fairness. 
+		- Causal interpretability and its role in verifying the causal relationships discovered from data.
+
+2. Counterfactual visual explanations
+3. Explaining machine learning classifiers through diverse counterfactual explanations
+4. Explaining deep learning models using causal inference.
+5 .Causal learning and explanation of deep neural networks via autoencoded activations
 
 ## Application <a name="application"></a>:
 1. Recommendation system
