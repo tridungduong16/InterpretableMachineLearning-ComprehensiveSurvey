@@ -148,10 +148,15 @@ descent-based optimization to learn flexible representations and enable flexible
 * Generating counterfactual explanations with natural language
 * Counterfactual explanations without opening the black box: Automated decisions and the GDPR.
 * Explaining machine learning classifiers through diverse counterfactual explanations. (2019)
+	- [Paper Link](https://arxiv.org/pdf/1905.07697.pdf)
+	- Generating counterfactual examples which satisfy the following two criteria, (1) generated examples must be feasible given users conditions and context such as range for the features or features to be changed; (2) counterfactual examples generated for explanations should be as diverse as possible. 
+	- Maximize the point-wise distance between examples in feature-space or leverage the concept from Determinantal point processes to select a subset of samples with the diversity constraint.
 * Explaining deep learning models with constrained adversarial examples.
 * Interpretable counterfactual explanations guided by prototypes.
 * Generative counterfactual introspection for explainable deep learning.
-* Explaining classifiers with causal concept effect (cace). (2019)
+* Explaining classifiers with causal concept effect (cace). (2019):
+	- propose to explain classifiers’ decisions by measuring the Causal Concept Effect (CACE). 
+	- CACE is defined as the causal effect of a concept (such as the brightness or an object in the image) on the prediction. In order to generate counterfactuals, authors leverage a VAE-based architecture. 
 * Generative counterfactual introspection for explainable deep learning:
 	- propose a generative model to generate counterfactual explanations for explaining a model’s decisions
 ### Fairness: 
@@ -160,7 +165,8 @@ descent-based optimization to learn flexible representations and enable flexible
 * Fairness through causal awareness: Learning latent-variable models for biased data.
 * Fairness in decisionmaking – the causal explanation formula. (2018)
 ### Guarantee: 
-* Learning interpretable models with causal guarantees (2019)
+* Learning interpretable models with causal guarantees (2019):
+	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
 
 
 
