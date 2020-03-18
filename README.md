@@ -46,8 +46,10 @@ descent-based optimization to learn flexible representations and enable flexible
 	- TabNet uses sequential aention to choose which features to reason from at each decision step
 
 ### Bayesian model:
-* INTERPRETABLE CLASSIFIERS USING RULES AND BAYESIANANALYSIS: BUILDING A BETTER STROKE PREDICTIONMODEL - [Link](https://arxiv.org/pdf/1511.01644.pdf)
-*  The Bayesian Case Model: A Generative Approachfor Case-Based Reasoning and Prototype Classification - [Link](https://beenkim.github.io/papers/KimRudinShahNIPS2014.pdf)
+* INTERPRETABLE CLASSIFIERS USING RULES AND BAYESIANANALYSIS: BUILDING A BETTER STROKE PREDICTIONMODEL 
+	- [Paper Link](https://arxiv.org/pdf/1511.01644.pdf)
+*  The Bayesian Case Model: A Generative Approachfor Case-Based Reasoning and Prototype Classification 
+	- [Paper Link](https://beenkim.github.io/papers/KimRudinShahNIPS2014.pdf)
 
 ### Disentangled Representation Learning.
 ### Concept based explanation
@@ -74,7 +76,8 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Paper Link](https://arxiv.org/abs/1706.09773):
 	- The authors formulate model simplification as a model extraction process by approximating a transparent model to the complex one.
 
-* Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation - [Link](https://arxiv.org/abs/1710.06169)
+* Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation 
+	- [Paper Link](https://arxiv.org/abs/1710.06169)
 * Rule-based learner:
 	- Interpretable & explorable approximations of black box models (2017)
 	- Local interpretable model-agnostic explanations for music content analysis
@@ -113,11 +116,11 @@ descent-based optimization to learn flexible representations and enable flexible
 * Improving the Quality of Explanations with Local Embedding Perturbations
 
 ### Example-based explantions
-* Counterfactual Explanations:
-	- COUNTERFACTUAL EXPLANATIONS WITHOUT OPENING THE BLACK BOX: AUTOMATED DECISIONS AND THE GDPR - [Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
-	- Counterfactuals in explainable artificial intelligence (XAI): Evidence from human reasoning
-* Prototypes and Criticisms MMD-Critic:
-	- Examples are not Enough, Learn to Criticize!Criticism for Interpretability - [Link](https://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability.pdf)
+* COUNTERFACTUAL EXPLANATIONS WITHOUT OPENING THE BLACK BOX: AUTOMATED DECISIONS AND THE GDPR 
+	- [Paper Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
+* Counterfactuals in explainable artificial intelligence (XAI): Evidence from human reasoning
+* Examples are not Enough, Learn to Criticize!Criticism for Interpretability 
+	- [Paper Link](https://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability.pdf)
 * Learning functional causal models with generative neural networks, in: Explainable and Interpretable Models in Computer Vision and Machine Learning
 * Discovering causal signals in images
 
@@ -136,13 +139,12 @@ descent-based optimization to learn flexible representations and enable flexible
 * Counterfactuals uncover the modular structure of deep generative models. (2018)
 * Generating counterfactual and contrastive explanations using SHAP (2019):
 	- [Paper Link]
-	- generates counterfactual explanations using shapely additive explanations (SHAP).
+	- gGenerates counterfactual explanations using shapely additive explanations (SHAP).
 ### Example-based: 
 * Interpretable credit application predictions with counterfactual explanations:
 	- Propose a method to generate counterfactual examples in a high dimensional setting.
 	- For **credit application prediction** via off-the-shelf interchangeable black-box classifiers.
 	- Propose to reweigh the distance between the features of an instance and its corresponding counterfactual with the inverse median absolute deviation
-
 * Multimodal explanations by predicting counterfactuality in videos
 * Generating counterfactual explanations with natural language
 * Counterfactual explanations without opening the black box: Automated decisions and the GDPR.
