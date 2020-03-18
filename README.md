@@ -8,14 +8,7 @@
 
 ## Intrinsic interpretable model <a name="intrinsic"></a>
 ### Linear Regression: 
-
- 	<a href="https://www.codecogs.com/eqnedit.php?latex=\sum_{i&space;=&space;0}^{n}x_{i}\beta_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;=&space;0}^{n}x_{i}\beta_{i}" title="\sum_{i = 0}^{n}x_{i}\beta_{i}" /></a>
-
-
 ### Generalized linear regression:
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=g(E_Y(y|x))=\beta_0&plus;\beta_1{}x_{1}&plus;\ldots{}\beta_p{}x_{p}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?g(E_Y(y|x))=\beta_0&plus;\beta_1{}x_{1}&plus;\ldots{}\beta_p{}x_{p}" title="g(E_Y(y|x))=\beta_0+\beta_1{}x_{1}+\ldots{}\beta_p{}x_{p}" /></a>
-
 	- Poisson regression
 	- Negative binomial regression
   	- Beta regression
