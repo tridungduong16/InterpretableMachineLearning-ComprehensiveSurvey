@@ -1,23 +1,42 @@
 # Interpretable Machine Learning:
 # Table of Contents
 1. [Intrinsic Interpretable Model](#intrinsic)
+	1.[Linear Regression](#linear)
+	2.[Generalized linear regression](#general)
+	3.[Generalized addictive model](#addictive)
+	4.[Bayesian model](#bayes)
+	5.[Rule-based classifiers](#rule)
+	5.[Attention mechanism](#attention)
+	5.[Disentangled Representation Learning](#represent)
+	5.[Others](#other_model)
+	
 2. [Model-Specific Explanation Methods](#specify)
 3. [Model-Agnostic](#agnostic)
+	1.[Explanation by simplification](#simple)
+	2.[Feature relevance explanation](#feature)
+	3.[Local Explanations](#local)
+	4.[Example-based explantions](#example_agnostic)
+	5.[Others](#other_agnostic)
 4. [Causal Interpretability](#survey)
+	1.[Causal interpretable models](#model)
+	2.[Model-based](#based)
+	3.[Example-based Interpretation](#example_causal)
+	4.[Fairness](#fairness)
+	5.[Guarantee](#guarantee)
 5. [Useful Link](#useful)
 
 ## Intrinsic interpretable model <a name="intrinsic"></a>
-### Linear Regression: 
+### Linear Regression: <a name="linear"></a>
 Linear Regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables)
 
-### Generalized linear regression:
+### Generalized linear regression: <a name="generalized"></a>
 The generalized linear model (GLM) is a flexible generalization of ordinary linear regression that allows for response variables that have error distribution models other than a normal distribution
 
 * Poisson regression
 * Negative binomial regression
 * Beta regression
 * Hierarchical Linear Regression
-### Generalized addictive model:
+### Generalized addictive model: <a name="addictive"></a>
 A generalized additive model (GAM) is a generalized linear model in which the linear predictor depends linearly on unknown smooth functions of some predictor variables, and interest focuses on inference about these smooth functions.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=g(\operatorname&space;{E}(Y))=\beta&space;_{0}&plus;f_{1}(x_{1})&plus;f_{2}(x_{2})&plus;\cdots&space;&plus;f_{m}(x_{m})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?g(\operatorname&space;{E}(Y))=\beta&space;_{0}&plus;f_{1}(x_{1})&plus;f_{2}(x_{2})&plus;\cdots&space;&plus;f_{m}(x_{m})" title="g(\operatorname {E}(Y))=\beta _{0}+f_{1}(x_{1})+f_{2}(x_{2})+\cdots +f_{m}(x_{m})" /></a>
@@ -36,7 +55,7 @@ A generalized additive model (GAM) is a generalized linear model in which the li
 	- [Paper Link](https://arxiv.org/pdf/1912.03549.pdf)
 	- Present a widely applicable and interpretable probabilistic machine learning method for nonparametric longitudinal data analysis using additive Gaussian process regression.
 
-### Bayesian model:
+### Bayesian model: <a name="bayes"></a>
 * INTERPRETABLE CLASSIFIERS USING RULES AND BAYESIANANALYSIS: BUILDING A BETTER STROKE PREDICTION MODEL ***(The Annals of Applied Statistics)***
 	- [Paper Link](https://arxiv.org/pdf/1511.01644.pdf)
 *  The Bayesian Case Model: A Generative Approachfor Case-Based Reasoning and Prototype Classification 
@@ -45,10 +64,10 @@ A generalized additive model (GAM) is a generalized linear model in which the li
 
 
 
-### Rule-based classifiers:
+### Rule-based classifiers: <a name="rule"></a>
 * Multi-value Rule Sets for Interpretable Classification with Feature-Efficient Representations ***(Advances in Neural Information Processing Systems. 2018)***
 	- [Paper Link](http://papers.nips.cc/paper/8281-multi-value-rule-sets-for-interpretable-classification-with-feature-efficient-representations.pdf)
-### Attention mechanism: 	
+### Attention mechanism: <a name="attention"></a>	
 * TabNet: Attentive Interpretable Tabular Learning 
 	- [Paper Link](https://arxiv.org/pdf/1908.07442.pdf)
 	- [Source code](https://github.com/google-research/google-research/tree/master/tabnet)
@@ -58,13 +77,13 @@ descent-based optimization to learn flexible representations and enable flexible
 	- TabNet uses sequential attention to choose which features to reason from at each decision step
 
 
-
-### Disentangled Representation Learning.
+ 
+### Disentangled Representation Learning. <a name="represent"></a>
 * Auto-encoding variational bayes (2013)
 * Interpretable representation learning by information maximizing generative adversarial nets ***(Advances in neural information processing systems. 2016.)***
 * betavae: Learning basic visual concepts with a constrained variational framework. ***(Iclr 2.5 (2017): 6.)***
 
-### Others:
+### Others: <a name="other_model"></a>
 * Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations (2017)
 * Learning Explainable Models Using Attribution Priors
 	- [Paper Link](https://arxiv.org/pdf/1906.10670.pdf)
@@ -83,7 +102,7 @@ descent-based optimization to learn flexible representations and enable flexible
 
 
 ## Model-Agnostic <a name="agnostic"></a> :
-### Explanation by simplification:
+### Explanation by simplification: <a name="simple"></a>
 * Interpretability via Model Extraction 
 	- [Paper Link](https://arxiv.org/abs/1706.09773):
 	- The authors formulate model simplification as a model extraction process by approximating a transparent model to the complex one.
@@ -100,7 +119,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- Derive a Bayesian model selection algorithm that optimizes the simplified model while maintaining the prediction performance
 		* Adopt the probabilistic model for representing ensemble trees
 		* Bayesian model selection algorithm called factorized asymptotic Bayesian (FAB) inference for finding the parameters.
-### Feature relevance explanation:
+### Feature relevance explanation: <a name="intrinsic"></a>
 * Understanding Black-box Predictions via Influence Functions ***(Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017)***
 	- [Paper Link](https://arxiv.org/pdf/1703.04730.pdf)
 	- influence function is a measure of how strongly the model parameters or predictions depend on a training instance. Instead of deleting the instance, the method upweights the instance in the loss by a very small step. This method involves approximating the loss around the current model parameters using the gradient and Hessian matrix.
@@ -114,7 +133,7 @@ descent-based optimization to learn flexible representations and enable flexible
 * Explaining models by propagating shapley values of local components (2019) 
 * Interpretation of nonlinear relationships between process variables by use of random forests
 
-### Local Explanations:
+### Local Explanations: <a name="local"></a>
 * "Why Should I Trust You?": Explaining the Predictions of Any Classifier ***(Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining. 2016.)***
 	- [Paper Link](https://arxiv.org/pdf/1602.04938.pdf)
 	- [Source code](https://github.com/marcotcr/lime)
@@ -123,7 +142,7 @@ descent-based optimization to learn flexible representations and enable flexible
 * Explaining Predictions from Tree-based Boosting Ensembles (2019)
 * Improving the Quality of Explanations with Local Embedding Perturbations ***(Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2019.)***
 
-### Example-based explantions
+### Example-based explantions: <a name="example_agnostic"></a>
 * COUNTERFACTUAL EXPLANATIONS WITHOUT OPENING THE BLACK BOX: AUTOMATED DECISIONS AND THE GDPR 
 	- [Paper Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
 * Counterfactuals in explainable artificial intelligence (XAI): Evidence from human reasoning
@@ -132,15 +151,15 @@ descent-based optimization to learn flexible representations and enable flexible
 * Learning functional causal models with generative neural networks, in: Explainable and Interpretable Models in Computer Vision and Machine Learning
 * Discovering causal signals in images
 
-### Others:
+### Others: <a name="other_agnostic"></a>
 * Making Bayesian Predictive Models Interpretable: A Decision Theoretic Approach
 
 ## Causal Interpretability <a name="survey"></a>:
-### Causal interpretable models:
+### Causal interpretable models: <a name="model_causal"></a> 
 * Structural Causal Models
 * Causal Bayesian Network
 * Average Causal Effect
-### Model-based:
+### Model-based: <a name="base"></a>
 * Explaining deep learning models using causal inference. (2018):
 	- [Paper Link](https://arxiv.org/pdf/1811.04376.pdf)
 	- Consider the DNN as an structural causal model, apply a function on each filter of the model to obtain the targeted value such as variance or expected value of each filter and reason on the obtained SCM.
@@ -154,7 +173,7 @@ descent-based optimization to learn flexible representations and enable flexible
 * Generating counterfactual and contrastive explanations using SHAP (2019):
 	- [Paper Link](https://arxiv.org/pdf/1906.09293.pdf)
 	- Generates counterfactual explanations using shapely additive explanations (SHAP).
-### Example-based Interpretation: 
+### Example-based Interpretation: <a name="example_causal"></a>
 They are designed based on a new type of conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=P(y_{x}|x^{'},y^{'})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(y_{x}|x^{'},y^{'})" title="P(y_{x}|x^{'},y^{'})" /></a>. This probability indicates how likely the outcome (label) of an observed instance, i.e., y′, would change to yx if x′ is set to x.
 
 * Interpretable credit application predictions with counterfactual explanations:
@@ -176,7 +195,7 @@ They are designed based on a new type of conditional probability <a href="https:
 	- CACE is defined as the causal effect of a concept (such as the brightness or an object in the image) on the prediction. In order to generate counterfactuals, authors leverage a VAE-based architecture. 
 * Generative counterfactual introspection for explainable deep learning:
 	- propose a generative model to generate counterfactual explanations for explaining a model’s decisions
-### Fairness: 
+### Fairness: <a name="fairness"></a>
 * Counterfactual fairness ***(Advances in Neural Information Processing Systems. 2017).***
 	- [Paper Link](https://papers.nips.cc/paper/6995-counterfactual-fairness.pdf)
 	- the actual world 
@@ -186,7 +205,7 @@ They are designed based on a new type of conditional probability <a href="https:
 * Fairness in decision making – the causal explanation formula. ***(Thirty-Second AAAI Conference on Artificial Intelligence. 2018).***
 
 
-### Guarantee: 
+### Guarantee: <a name="guarantee"></a>
 * Learning interpretable models with causal guarantees (2019) - 
 	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
 
