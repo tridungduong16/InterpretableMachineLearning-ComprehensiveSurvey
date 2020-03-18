@@ -8,7 +8,11 @@
 
 ## Intrinsic interpretable model <a name="intrinsic"></a>
 ### Linear Regression: 
+Linear Regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables)
+
 ### Generalized linear regression:
+The generalized linear model (GLM) is a flexible generalization of ordinary linear regression that allows for response variables that have error distribution models other than a normal distribution
+
 * Poisson regression
 * Negative binomial regression
 * Beta regression
@@ -46,12 +50,15 @@
 	- TabNet uses sequential attention to choose which features to reason from at each decision step, enabling interpretability and more efficient learning
 	- TabNet inputs raw tabular data without any feature preprocessing and is trained using gradient
 descent-based optimization to learn flexible representations and enable flexible integration into end-to-end learning.
-	- TabNet uses sequential aention to choose which features to reason from at each decision step
+	- TabNet uses sequential attention to choose which features to reason from at each decision step
 
 
 
 ### Disentangled Representation Learning.
-### Concept based explanation
+* Auto-encoding variational bayes (2013)
+* Interpretable representation learning by information maximizing generative adversarial nets (2016)
+* betavae: Learning basic visual concepts with a constrained variational framework.
+
 ### Others:
 * Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations (2017)
 * Learning Explainable Models Using Attribution Priors (Gabriel Erion, Joseph D. Janizek, Pascal Sturmfels, Scott Lundberg, Su-In Lee,2019)
@@ -60,7 +67,8 @@ descent-based optimization to learn flexible representations and enable flexible
 	- Model priors transfer information from humans to a model by constraining the model’s parameters
 	- Model attributions transfer information from amodel to humans by explaining the model’s behavior. 
 * Hybrid Predictive Model: When an Interpretable Model Collaborates with a Black-box Model (2019)
-* Interpretable Companions for Black-Box Models (2020)
+* Interpretable Companions for Black-Box Models (2020):
+	- The companion model is trained from data and the predictions of the black-box model, with the objective combining area under the transparency-accuracy curve and model complexity.
 
 
 ## Model-Specific Explanation Methods <a name="specify"></a>:
@@ -68,9 +76,6 @@ descent-based optimization to learn flexible representations and enable flexible
 * Distilling the knowledge in a neural network (2015)
 * Distilling a neural network into a soft decision tree (2017)
 
-### Ensembles and Multiple Classifier Systems
-### Support Vector Machines
-### Deep learning
 
 ## Model-Agnostic <a name="agnostic"></a> :
 ### Explanation by simplification:
@@ -80,32 +85,28 @@ descent-based optimization to learn flexible representations and enable flexible
 
 * Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation 
 	- [Paper Link](https://arxiv.org/abs/1710.06169)
-* Rule-based learner:
-	- Interpretable & explorable approximations of black box models (2017)
-	- Local interpretable model-agnostic explanations for music content analysis
-
-* Decision Tree:
-	- Interpreting tree ensembles with intrees (2014)
-	- Making Tree Ensembles Interpretable: A Bayesian Model Selection Approach (2017)
-		* [Paper link](http://proceedings.mlr.press/v84/hara18a.html)
-		* Presents the usage of two models (simple and complex) being the former the one in charge of interpretation and the latter of prediction by means of Expectation-Maximization and Kullback-Leibler divergence.
-		* Given a complex tree ensemble, the author try to obtain the simplest representation that is essentially equivalent to the original one.
-		* Derive a Bayesian model selection algorithm that optimizes the simplified model while maintaining the prediction performance
+* Interpretable & explorable approximations of black box models (2017)
+* Local interpretable model-agnostic explanations for music content analysis
+* Interpreting tree ensembles with intrees (2014)
+* Making Tree Ensembles Interpretable: A Bayesian Model Selection Approach (2017)
+	- [Paper link](http://proceedings.mlr.press/v84/hara18a.html)
+	- Presents the usage of two models (simple and complex) being the former the one in charge of interpretation and the latter of prediction by means of Expectation-Maximization and Kullback-Leibler divergence.
+	- Given a complex tree ensemble, the author try to obtain the simplest representation that is essentially equivalent to the original one.
+	- Derive a Bayesian model selection algorithm that optimizes the simplified model while maintaining the prediction performance
 		* Adopt the probabilistic model for representing ensemble trees
 		* Bayesian model selection algorithm called factorized asymptotic Bayesian (FAB) inference for finding the parameters.
 ### Feature relevance explanation:
 * Understanding Black-box Predictions via Influence Functions (2017)
 	- [Paper Link](https://arxiv.org/pdf/1703.04730.pdf)
 	- influence function is a measure of how strongly the model parameters or predictions depend on a training instance. Instead of deleting the instance, the method upweights the instance in the loss by a very small step. This method involves approximating the loss around the current model parameters using the gradient and Hessian matrix.
-* Game theory inspired: 
-	- A unified approach to interpreting model predictions:
-		+ [Paper Link](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
-		+ [Source code](https://github.com/slundberg/shap)
-		+ SHAP Tree explainer: which focuses on polynomial time fast SHAP value estimation specific for tree and ensemble tree
-		+ SHAP Deep Explainer: is the high speed approximation SHAP value for deep learning model
-	- An efficient explanation of individual classifications using game theory (2010)
-		+ [Paper Link](http://www.jmlr.org/papers/volume11/strumbelj10a/strumbelj10a.pdf)
-	- Explaining models by propagating shapley values of local components (2019) 
+* A unified approach to interpreting model predictions:
+	- [Paper Link](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
+	- [Source code](https://github.com/slundberg/shap)
+	- SHAP Tree explainer: which focuses on polynomial time fast SHAP value estimation specific for tree and ensemble tree
+	- SHAP Deep Explainer: is the high speed approximation SHAP value for deep learning model
+* An efficient explanation of individual classifications using game theory (2010)
+	- [Paper Link](http://www.jmlr.org/papers/volume11/strumbelj10a/strumbelj10a.pdf)
+* Explaining models by propagating shapley values of local components (2019) 
 * Interpretation of nonlinear relationships between process variables by use of random forests
 
 ### Local Explanations:
@@ -148,7 +149,9 @@ descent-based optimization to learn flexible representations and enable flexible
 * Generating counterfactual and contrastive explanations using SHAP (2019):
 	- [Paper Link](https://arxiv.org/pdf/1906.09293.pdf)
 	- Generates counterfactual explanations using shapely additive explanations (SHAP).
-### Example-based: 
+### Example-based Interpretation: 
+They are designed based on a new type of conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=P(y_{x}|x^{'},y^{'})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(y_{x}|x^{'},y^{'})" title="P(y_{x}|x^{'},y^{'})" /></a>. This probability indicates how likely the outcome (label) of an observed instance, i.e., y′, would change to yx if x′ is set to x.
+
 * Interpretable credit application predictions with counterfactual explanations:
 	- Propose a method to generate counterfactual examples in a high dimensional setting.
 	- For **credit application prediction** via off-the-shelf interchangeable black-box classifiers.
@@ -172,7 +175,9 @@ descent-based optimization to learn flexible representations and enable flexible
 * Counterfactual fairness.
 * Avoiding discrimination through causal reasoning.
 * Fairness through causal awareness: Learning latent-variable models for biased data.
-* Fairness in decisionmaking – the causal explanation formula. (2018)
+* Fairness in decision making – the causal explanation formula. (2018)
+
+
 ### Guarantee: 
 * Learning interpretable models with causal guarantees (2019):
 	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
