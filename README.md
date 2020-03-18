@@ -26,9 +26,10 @@
 		- Generalize a state-of-the-art GAM learning algorithm based on boosted trees to the multiclass setting
 		- Additive Post-Processing for Interpretability (API) that provably transforms a pretrained additive model to satisfy the interpretability axioms without sacrificing accuracy
 		- Optimization procedure is cyclic gradient boosting
-	* Intelligible Models for HealthCare: Predicting PneumoniaRisk and Hospital 30-day Readmission (2015) - [Link](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)
-	* Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models (2019) - [Paper Link](https://arxiv.org/pdf/1911.04974.pdf)
-	
+	* Intelligible Models for HealthCare: Predicting PneumoniaRisk and Hospital 30-day Readmission (2015) 
+		- [Paper Link](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)
+	* Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models (2019) 
+		- [Paper Link](https://arxiv.org/pdf/1911.04974.pdf)
 	* An interpretable probabilistic machine learning method for heterogeneous longitudinal studies (2019):
 		- [Paper Link](https://arxiv.org/pdf/1912.03549.pdf)
 		- Present a widely applicable and interpretable probabilistic machine learning method for nonparametric longitudinal data analysis using additive Gaussian process regression.
