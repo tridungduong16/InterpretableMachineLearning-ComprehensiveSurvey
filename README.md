@@ -17,7 +17,11 @@ The generalized linear model (GLM) is a flexible generalization of ordinary line
 * Negative binomial regression
 * Beta regression
 * Hierarchical Linear Regression
-### Generalized addictive model
+### Generalized addictive model:
+A generalized additive model (GAM) is a generalized linear model in which the linear predictor depends linearly on unknown smooth functions of some predictor variables, and interest focuses on inference about these smooth functions.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=g(\operatorname&space;{E}(Y))=\beta&space;_{0}&plus;f_{1}(x_{1})&plus;f_{2}(x_{2})&plus;\cdots&space;&plus;f_{m}(x_{m})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?g(\operatorname&space;{E}(Y))=\beta&space;_{0}&plus;f_{1}(x_{1})&plus;f_{2}(x_{2})&plus;\cdots&space;&plus;f_{m}(x_{m})" title="g(\operatorname {E}(Y))=\beta _{0}+f_{1}(x_{1})+f_{2}(x_{2})+\cdots +f_{m}(x_{m})" /></a>
+
 * Axiomatic Interpretability for Multiclass Additive Models (2019)
 	- [Paper Link](https://arxiv.org/pdf/1810.09092.pdf)
 	- [Source code](https://github.com/interpretml/interpret)
@@ -172,7 +176,10 @@ They are designed based on a new type of conditional probability <a href="https:
 * Generative counterfactual introspection for explainable deep learning:
 	- propose a generative model to generate counterfactual explanations for explaining a model’s decisions
 ### Fairness: 
-* Counterfactual fairness.
+* Counterfactual fairness ()
+	- [Paper Link](https://papers.nips.cc/paper/6995-counterfactual-fairness.pdf)
+	- the actual world 
+	- a counterfactual world where the individual belongedto a different demographic group.
 * Avoiding discrimination through causal reasoning.
 * Fairness through causal awareness: Learning latent-variable models for biased data.
 * Fairness in decision making – the causal explanation formula. (2018)
