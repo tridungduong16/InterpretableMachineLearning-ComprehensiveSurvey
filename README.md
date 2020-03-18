@@ -1,9 +1,9 @@
 # Interpretable Machine Learning:
 # Table of Contents
-1. [Intrinsic interpretable model](#intrinsic)
+1. [Intrinsic Interpretable Model](#intrinsic)
 2. [Model-Specific Explanation Methods](#specify)
 3. [Model-Agnostic](#agnostic)
-4. [Causal interpretability](#survey)
+4. [Causal Interpretability](#survey)
 5. [Useful Link](#useful)
 
 ## Intrinsic interpretable model <a name="intrinsic"></a>
