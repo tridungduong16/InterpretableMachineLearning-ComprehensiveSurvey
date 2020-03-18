@@ -64,7 +64,10 @@ descent-based optimization to learn flexible representations and enable flexible
 
 
 ## Model-Specific Explanation Methods <a name="specify"></a>:
-### Knowledge distillation
+### Knowledge distillation:
+* Distilling the knowledge in a neural network (2015)
+* Distilling a neural network into a soft decision tree (2017)
+
 ### Ensembles and Multiple Classifier Systems
 ### Support Vector Machines
 ### Deep learning
