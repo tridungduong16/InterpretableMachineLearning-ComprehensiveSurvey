@@ -126,8 +126,14 @@ descent-based optimization to learn flexible representations and enable flexible
 * Causal Bayesian Network
 * Average Causal Effect
 ### Model-based:
-* Explaining deep learning models using causal inference. (2018)
-* Causal learning and explanation of deep neural networks via autoencoded activations. (2018)
+* Explaining deep learning models using causal inference. (2018):
+	- [Paper Link](https://arxiv.org/pdf/1811.04376.pdf)
+	- Consider the DNN as an structural causal model, apply a function on each filter of the model to obtain the targeted value such as variance or expected value of each filter and reason on the obtained SCM.
+
+* Causal learning and explanation of deep neural networks via autoencoded activations. (2018):
+	- [Paper Link](https://arxiv.org/pdf/1802.00541.pdf)
+	- suggest that in order to have an effective interpretability, having a human-understandable causal model of DNN, which allows different kinds of causal interventions, is necessary. Based on this hypothesis, the authors propose an interpretability framework, which extracts humanunderstandable concepts such as eyes and ears of a cat from deep neural networks, learns the causal structure between the input, output and these concepts in an SCM and performs causal reasoning on it to gain more insights into the model.
+
 * Neural network attributions: A causal perspective. (2019)
 * Counterfactuals uncover the modular structure of deep generative models. (2018)
 * Generating counterfactual and contrastive explanations using SHAP (2019):
