@@ -9,9 +9,10 @@
 ## Intrinsic interpretable model <a name="intrinsic"></a>
 ### Linear Regression: 
 ### Generalized linear regression:
-	- Poisson regression
-	- Negative binomial regression
-  	- Beta regression
+* Poisson regression
+* Negative binomial regression
+* Beta regression
+* Hierarchical Linear Regression
 ### Generalized addictive model
 * Axiomatic Interpretability for Multiclass Additive Models (2019)
 	- [Paper Link](https://arxiv.org/pdf/1810.09092.pdf)
@@ -26,7 +27,15 @@
 * An interpretable probabilistic machine learning method for heterogeneous longitudinal studies (2019):
 	- [Paper Link](https://arxiv.org/pdf/1912.03549.pdf)
 	- Present a widely applicable and interpretable probabilistic machine learning method for nonparametric longitudinal data analysis using additive Gaussian process regression.
-		
+
+### Bayesian model:
+* INTERPRETABLE CLASSIFIERS USING RULES AND BAYESIANANALYSIS: BUILDING A BETTER STROKE PREDICTIONMODEL 
+	- [Paper Link](https://arxiv.org/pdf/1511.01644.pdf)
+*  The Bayesian Case Model: A Generative Approachfor Case-Based Reasoning and Prototype Classification 
+	- [Paper Link](https://beenkim.github.io/papers/KimRudinShahNIPS2014.pdf)
+* Bayesian model averaging 
+
+
 ### Rule-based classifiers:
 * Multi-value Rule Sets for Interpretable Classification with Feature-Efficient Representations (NIPS 2018)
 ### Attention mechanism: 	
@@ -38,11 +47,7 @@
 descent-based optimization to learn flexible representations and enable flexible integration into end-to-end learning.
 	- TabNet uses sequential aention to choose which features to reason from at each decision step
 
-### Bayesian model:
-* INTERPRETABLE CLASSIFIERS USING RULES AND BAYESIANANALYSIS: BUILDING A BETTER STROKE PREDICTIONMODEL 
-	- [Paper Link](https://arxiv.org/pdf/1511.01644.pdf)
-*  The Bayesian Case Model: A Generative Approachfor Case-Based Reasoning and Prototype Classification 
-	- [Paper Link](https://beenkim.github.io/papers/KimRudinShahNIPS2014.pdf)
+
 
 ### Disentangled Representation Learning.
 ### Concept based explanation
