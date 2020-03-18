@@ -93,7 +93,7 @@ descent-based optimization to learn flexible representations and enable flexible
 * Interpretable & explorable approximations of black box models (2017)
 * Local interpretable model-agnostic explanations for music content analysis
 * Interpreting tree ensembles with intrees (2014)
-* Making Tree Ensembles Interpretable: A Bayesian Model Selection Approach (2017)
+* Making Tree Ensembles Interpretable: A Bayesian Model Selection Approach ***(Proceedings of the Twenty-First International Conference on Artificial Intelligence and Statistics, PMLR 84:77-85, 2018)***
 	- [Paper link](http://proceedings.mlr.press/v84/hara18a.html)
 	- Presents the usage of two models (simple and complex) being the former the one in charge of interpretation and the latter of prediction by means of Expectation-Maximization and Kullback-Leibler divergence.
 	- Given a complex tree ensemble, the author try to obtain the simplest representation that is essentially equivalent to the original one.
@@ -164,7 +164,7 @@ They are designed based on a new type of conditional probability <a href="https:
 * Multimodal explanations by predicting counterfactuality in videos ***(Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019).***
 * Generating counterfactual explanations with natural language
 * Counterfactual explanations without opening the black box: Automated decisions and the GDPR.
-* Explaining machine learning classifiers through diverse counterfactual explanations. (2019)
+* Explaining machine learning classifiers through diverse counterfactual explanations. ***(FAT* '20: Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency)***
 	- [Paper Link](https://arxiv.org/pdf/1905.07697.pdf)
 	- Generating counterfactual examples which satisfy the following two criteria, (1) generated examples must be feasible given users conditions and context such as range for the features or features to be changed; (2) counterfactual examples generated for explanations should be as diverse as possible. 
 	- Maximize the point-wise distance between examples in feature-space or leverage the concept from Determinantal point processes to select a subset of samples with the diversity constraint.
