@@ -3,7 +3,7 @@
 1. [Intrinsic interpretable model](#intrinsic)
 2. [Model-Specific Explanation Methods](#specify)
 3. [Model-Agnostic](#agnostic)
-4. [Survey](#survey)
+4. [Causal interpretability](#survey)
 5. [Application](#application)
 6. [Useful Link](#useful)
 
@@ -128,18 +128,45 @@ descent-based optimization to learn flexible representations and enable flexible
 as "How would seeing x change my belief in y?"
 	* Causal interventional interpretability: Is designed to answer "What if" questions.
 	* Counterfactual interpretability: Is the highest level of interpretability, which aims to answer "Why" questions.
-	* There are 4 main categories:
-		- Causal interpretablity for model-based interpretations: explain the causal effect of
+	* Causal interpretablity for model-based interpretations: explain the causal effect of
 a model component on the final decision.
-		- Counterfactual explanation generators: generate counterfactual explanations for alternate situations and scenarios.
-		- Causal interpretability and fairness: explains that interpretable models are often indispensable
+		- Causal learning and explanation of deep neural networks via autoencoded activations. (2018)
+		- Neural network attributions: A causal perspective (2019)
+	* Counterfactual explanation generators: generate counterfactual explanations for alternate situations and scenarios.
+	* Causal interpretability and fairness: explains that interpretable models are often indispensable
 to guarantee fairness. 
-		- Causal interpretability and its role in verifying the causal relationships discovered from data.
+	* Causal interpretability and its role in verifying the causal relationships discovered from data.
 
-2. Counterfactual visual explanations
-3. Explaining machine learning classifiers through diverse counterfactual explanations
-4. Explaining deep learning models using causal inference.
-5 .Causal learning and explanation of deep neural networks via autoencoded activations
+
+3. Model-based:
+	* Explaining deep learning models using causal inference. (2018)
+	* Causal learning and explanation of deep neural networks via autoencoded activations. (2018)
+	* Neural network attributions: A causal perspective. (2019)
+	* Counterfactuals uncover the modular structure of deep generative models. (2018)
+	* Explaining machine learning classifiers through diverse counterfactual explanations. (2019)	
+	* Generating counterfactual and contrastive explanations using SHAP (2019)
+4. Example-based: 
+	* [35]
+	* [46]
+	* [39]
+	* [101]
+	* [76]
+	* [86]
+	* [73]
+	* [62]
+	* [61]
+	* [33]
+	* [34]
+	
+5. Fairness: 
+	* [54]
+	* [47]
+	* [68]
+	* [109]
+6. Guarantee: 
+	* [50]
+	* [17]
+	* [88]
 
 ## Application <a name="application"></a>:
 1. Recommendation system
