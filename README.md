@@ -4,8 +4,7 @@
 2. [Model-Specific Explanation Methods](#specify)
 3. [Model-Agnostic](#agnostic)
 4. [Causal interpretability](#survey)
-5. [Application](#application)
-6. [Useful Link](#useful)
+5. [Useful Link](#useful)
 
 ## Intrinsic interpretable model <a name="intrinsic"></a>
 1. Linear Regression: 
@@ -102,8 +101,11 @@ descent-based optimization to learn flexible representations and enable flexible
 	* Interpretation of nonlinear relationships between process variables by use of random forests
 
 3. Local Explanations:
-	* "Why Should I Trust You?": Explaining the Predictions of Any Classifier - [Link](https://arxiv.org/pdf/1602.04938.pdf)
-	* Anchors: High-Precision Model-Agnostic Explanations (2018) - [Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982/15850)
+	* "Why Should I Trust You?": Explaining the Predictions of Any Classifier
+		- [Paper Link](https://arxiv.org/pdf/1602.04938.pdf)
+		- [Source code](https://github.com/marcotcr/lime)
+	* Anchors: High-Precision Model-Agnostic Explanations (2018) 
+		- [Paper Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982/15850)
 	* Explaining Predictions from Tree-based Boosting Ensembles (2019)
 	* Improving the Quality of Explanations with Local Embedding Perturbations
 
@@ -163,12 +165,7 @@ to guarantee fairness.
 6. Guarantee: 
 	* Learning interpretable models with causal guarantees (2019)
 
-## Application <a name="application"></a>:
-1. Recommendation system
-2. Ecnometrics
-3. Natural language processing
-4. Computer vision
-5. Tabular Data
+
 
 ## Useful Links <a name="useful"></a>:
 1. On Model Explainability [Link](https://everdark.github.io/k9/notebooks/ml/model_explain/model_explain.nb.html#7_explainable_boosting_machine)
