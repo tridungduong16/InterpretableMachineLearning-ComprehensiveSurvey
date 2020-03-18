@@ -143,30 +143,25 @@ to guarantee fairness.
 	* Causal learning and explanation of deep neural networks via autoencoded activations. (2018)
 	* Neural network attributions: A causal perspective. (2019)
 	* Counterfactuals uncover the modular structure of deep generative models. (2018)
-	* Explaining machine learning classifiers through diverse counterfactual explanations. (2019)	
 	* Generating counterfactual and contrastive explanations using SHAP (2019)
 4. Example-based: 
-	* [35]
-	* [46]
-	* [39]
-	* [101]
-	* [76]
-	* [86]
-	* [73]
-	* [62]
-	* [61]
-	* [33]
-	* [34]
+	* Interpretable credit application predictions with counterfactual explanations.
+	* Multimodal explanations by predicting counterfactuality in videos
+	* Generating counterfactual explanations with natural language
+	* Counterfactual explanations without opening the black box: Automated decisions and the GDPR.
+	* Explaining machine learning classifiers through diverse counterfactual explanations. (2019)
+	* Explaining deep learning models with constrained adversarial examples.
+	* Interpretable counterfactual explanations guided by prototypes.
+	* Generative counterfactual introspection for explainable deep learning.
+	* Explaining classifiers with causal concept effect (cace). (2019)
 	
 5. Fairness: 
-	* [54]
-	* [47]
-	* [68]
-	* [109]
+	* Counterfactual fairness.
+	* Avoiding discrimination through causal reasoning.
+	* Fairness through causal awareness: Learning latent-variable models for biased data.
+	* Fairness in decisionmaking – the causal explanation formula. (2018)
 6. Guarantee: 
-	* [50]
-	* [17]
-	* [88]
+	* Learning interpretable models with causal guarantees (2019)
 
 ## Application <a name="application"></a>:
 1. Recommendation system
