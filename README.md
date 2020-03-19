@@ -1,7 +1,6 @@
 # Interpretable Machine Learning:
 # Table of Contents
 1. [Intrinsic Interpretable Model](#intrinsic)
-	* [Linear Regression](#linear)
 	* [Generalized linear regression](#generalized)
 	* [Generalized addictive model](#addictive)
 	* [Bayesian model](#bayes)
@@ -11,6 +10,8 @@
 	* [Others](#other_model)
 	
 2. [Model-Specific Explanation Methods](#specify)
+	* [Knowledge distillation](#distillation)
+
 3. [Model-Agnostic](#agnostic)
 	* [Explanation by simplification](#simple)
 	* [Feature relevance explanation](#feature)
@@ -26,8 +27,6 @@
 5. [Useful Link](#useful)
 
 ## Intrinsic interpretable model <a name="intrinsic"></a>
-### Linear Regression: <a name="linear"></a>
-Linear Regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables)
 
 ### Generalized linear regression: <a name="generalized"></a>
 The generalized linear model (GLM) is a flexible generalization of ordinary linear regression that allows for response variables that have error distribution models other than a normal distribution
@@ -96,7 +95,7 @@ descent-based optimization to learn flexible representations and enable flexible
 
 
 ## Model-Specific Explanation Methods <a name="specify"></a>:
-### Knowledge distillation:
+### Knowledge distillation <a name="distillation"></a>:
 * Distilling the knowledge in a neural network (2015)
 * Distilling a neural network into a soft decision tree (2017)
 
@@ -200,8 +199,12 @@ They are designed based on a new type of conditional probability <a href="https:
 	- [Paper Link](https://papers.nips.cc/paper/6995-counterfactual-fairness.pdf)
 	- the actual world 
 	- a counterfactual world where the individual belonged to a different demographic group.
-* Avoiding discrimination through causal reasoning ***(Advances in Neural Information Processing Systems. 2017).***
+* Avoiding discrimination through causal reasoning ***(Advances in Neural Information Processing Systems. 2017).***:
+	
 * Fairness through causal awareness: Learning latent-variable models for biased data.
+	- address the problem from a data generation perspective by going beyond observational data. The authors propose to utilize causal reasoning to address the fairness problem by asking the question “What do we need to assume about the
+causal data generating process?” instead of “What should be the fairness criterion?”. 
+
 * Fairness in decision making – the causal explanation formula. ***(Thirty-Second AAAI Conference on Artificial Intelligence. 2018).***
 
 
