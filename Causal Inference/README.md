@@ -5,6 +5,10 @@
 2. [Useful Link](#link)
 
 ## Definition <a name="definition"></a>
+
+Following the original paper of Rosenbaum & Rubin 2, in a randomized trial the treatment assignment Z and the (unobservable) potential outcomes <a href="https://www.codecogs.com/eqnedit.php?latex={Y_1,&space;Y_0}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{Y_1,&space;Y_0}" title="{Y_1, Y_0}" /></a> are conditionally independent given the covariates X, i.e. <a href="https://www.codecogs.com/eqnedit.php?latex={Y_1,&space;Y_0}&space;\perp&space;Z&space;\mid&space;X." target="_blank"><img src="https://latex.codecogs.com/gif.latex?{Y_1,&space;Y_0}&space;\perp&space;Z&space;\mid&space;X." title="{Y_1, Y_0} \perp Z \mid X." /></a>
+
+
 ### Randomized controlled trials (RCTs):
 Randomized controlled trials (RCTs) are considered the gold standard approach for estimating the effects of treatments, interventions, and exposures (hereafter referred to as treatments) on outcomes.
 
@@ -41,6 +45,9 @@ IPTW is based on a simple intuition. For a randomized trial with p(Z=1)=k the pr
 
 ### Manhattan distance:
 Manhattan distance is used to measure the distance between treated instance and 
+
+### Inverse Probability of Treatment Weighting (IPTW)
+
 ## Useful Link <a name="link"></a>
 https://en.wikipedia.org/wiki/Rubin_causal_model
 https://florianwilhelm.info/2017/04/causal_inference_propensity_score/
