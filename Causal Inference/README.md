@@ -18,5 +18,7 @@ An estimate of the ***Average Causal Effect*** (also referred to as the ***Avera
 Confounding is 
 ### Propensity score matching: 
 
+### Instrumental Variables
+
 ## Useful Link <a name="link"></a>
 https://en.wikipedia.org/wiki/Rubin_causal_model
