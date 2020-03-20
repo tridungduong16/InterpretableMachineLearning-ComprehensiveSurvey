@@ -20,5 +20,8 @@ Confounding is
 
 ### Instrumental Variables
 
+### Average Treatment Effect 
+(ATE= E(Y=1)-E(Y=0))
+
 ## Useful Link <a name="link"></a>
 https://en.wikipedia.org/wiki/Rubin_causal_model
