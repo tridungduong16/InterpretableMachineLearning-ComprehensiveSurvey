@@ -49,5 +49,5 @@ Manhattan distance is used to measure the distance between treated instance and
 ### Inverse Probability of Treatment Weighting (IPTW)
 
 ## Useful Link <a name="link"></a>
-https://en.wikipedia.org/wiki/Rubin_causal_model
-https://florianwilhelm.info/2017/04/causal_inference_propensity_score/
+* https://en.wikipedia.org/wiki/Rubin_causal_model
+* https://florianwilhelm.info/2017/04/causal_inference_propensity_score/
