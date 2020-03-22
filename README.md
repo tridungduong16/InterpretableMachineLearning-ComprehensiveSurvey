@@ -197,7 +197,9 @@ They are designed based on a new type of conditional probability <a href="https:
 	- For **credit application prediction** via off-the-shelf interchangeable black-box classifiers.
 	- Propose to reweigh the distance between the features of an instance and its corresponding counterfactual with the inverse median absolute deviation
 * Multimodal explanations by predicting counterfactuality in videos ***(Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019).***
-* Generating counterfactual explanations with natural language
+* Generating counterfactual explanations with natural language:
+	- defined a method to generate **natural language counterfactual explanations**. The framework checks for evidences of a counterfactual class in the text explanation generated for the original input. It then checks if those factors exist in the counterfactual image and returns the existing ones. 
+
 * Counterfactual explanations without opening the black box: Automated decisions and the GDPR.
 	- propose to minimize the mean squared error between the model’s predictions and counterfactual outcomes as well as the distance between the original instances and their corresponding counterfactuals in the feature space.
 
@@ -220,10 +222,12 @@ They are designed based on a new type of conditional probability <a href="https:
 	- the actual world 
 	- a counterfactual world where the individual belonged to a different demographic group.
 * Avoiding discrimination through causal reasoning ***(Advances in Neural Information Processing Systems. 2017).***:
-	
+	- address the problem from a data generation perspective by going beyond observational data. The authors propose to
+utilize causal reasoning to address the fairness problem by asking the question "What do we need to assume about the
+causal data generating process?" instead of "What should be the fairness criterion?"
+
 * Fairness through causal awareness: Learning latent-variable models for biased data.
-	- address the problem from a data generation perspective by going beyond observational data. The authors propose to utilize causal reasoning to address the fairness problem by asking the question “What do we need to assume about the
-causal data generating process?” instead of “What should be the fairness criterion?”. 
+	- address the problem from a data generation perspective by going beyond observational data. The authors propose to utilize causal reasoning to address the fairness problem by asking the question “What do we need to assume about the causal data generating process?” instead of “What should be the fairness criterion?”. 
 
 * Fairness in decision making – the causal explanation formula. ***(Thirty-Second AAAI Conference on Artificial Intelligence. 2018).***
 
