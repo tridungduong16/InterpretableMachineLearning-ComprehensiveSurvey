@@ -228,17 +228,23 @@ causal data generating process?" instead of "What should be the fairness criteri
 
 * Fairness through causal awareness: Learning latent-variable models for biased data.
 	- address the problem from a data generation perspective by going beyond observational data. The authors propose to utilize causal reasoning to address the fairness problem by asking the question “What do we need to assume about the causal data generating process?” instead of “What should be the fairness criterion?”. 
-
+	- propose a causal inference model in which the sensitive attribute confounds both the treatment and the outcome. It then leverages deep learning techniques to learn the parameters of the model
 * Fairness in decision making – the causal explanation formula. ***(Thirty-Second AAAI Conference on Artificial Intelligence. 2018).***
 
 
 ### Guarantee: <a name="guarantee"></a>
 * Learning interpretable models with causal guarantees (2019) - 
 	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
-
+* Estimating individual treatment effect:  generalization boundsand  algorithms:
+	- learn
+an oracle function f which estimates the causal effect of a
+treatment for any observed instance and then learn an interpretable
+function f′ to estimate f. They further provide
+a bound for the error produced by their framework
 
 ### Ideas - Potential Research Gap
-* Counterfactual in Recommendation System
+* Counterfactual in Recommendation System:
+* Economic decision making
 
 
 ## Useful Links <a name="useful"></a>:
