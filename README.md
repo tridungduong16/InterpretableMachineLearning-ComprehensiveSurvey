@@ -166,12 +166,26 @@ descent-based optimization to learn flexible representations and enable flexible
 * Causal learning and explanation of deep neural networks via autoencoded activations. (2018):
 	- [Paper Link](https://arxiv.org/pdf/1802.00541.pdf)
 	- suggest that in order to have an effective interpretability, having a human-understandable causal model of DNN, which allows different kinds of causal interventions, is necessary. Based on this hypothesis, the authors propose an interpretability framework, which extracts humanunderstandable concepts such as eyes and ears of a cat from deep neural networks, learns the causal structure between the input, output and these concepts in an SCM and performs causal reasoning on it to gain more insights into the model.
-
 * Neural network attributions: A causal perspective. (2019)
+	- "What is the impact of the n-th filter of the m-th layer of a deep neural network on the predictions of the model?"
+	- These frameworks are mainly designed to explain the importance of each component of a deep neural network on its predictions by answering counterfactual questions such as "What would have happened to the output of the model had we had a different component in the model?".
+	- These types of questions are answered by borrowing some concepts from the causal inference literature.
+
 * Counterfactuals uncover the modular structure of deep generative models. (2018)
 * Generating counterfactual and contrastive explanations using SHAP (2019):
 	- [Paper Link](https://arxiv.org/pdf/1906.09293.pdf)
 	- Generates counterfactual explanations using shapely additive explanations (SHAP).
+	
+*  Causal  interpretations of black-box  models:
+	- state that to extract the causal interpretations from black-box models, one needs a model with good predictive performance,
+domain knowledge in the form of a causal graph, and an appropriate visualization tool.
+*  Explaining visual models bycausal  attribution:
+	- introduce a causal attribution framework to explain decisions of a classifier based on the latent factors. The framework consists of three steps:
+		(a) constructing Distributional Causal Graph which allows us to sample and compute likelihoods of the samples
+		(b) generating a counterfactual image which is as similar as possible to the original image
+		(c) estimating the effect of the modified factor by estimating the causal effect.
+
+
 ### Example-based Interpretation: <a name="example_causal"></a>
 They are designed based on a new type of conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=P(y_{x}|x^{'},y^{'})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(y_{x}|x^{'},y^{'})" title="P(y_{x}|x^{'},y^{'})" /></a>. This probability indicates how likely the outcome (label) of an observed instance, i.e., y′, would change to yx if x′ is set to x.
 
@@ -213,9 +227,13 @@ causal data generating process?” instead of “What should be the fairness cri
 	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
 
 
+### Ideas - Potential Research Gap
+* Counterfactual in Recommendation System
+
 
 ## Useful Links <a name="useful"></a>:
 1. On Model Explainability [Link](https://everdark.github.io/k9/notebooks/ml/model_explain/model_explain.nb.html#7_explainable_boosting_machine)
+
 
 
 ## Authors
