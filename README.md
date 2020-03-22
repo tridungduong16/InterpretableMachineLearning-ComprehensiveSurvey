@@ -196,7 +196,9 @@ They are designed based on a new type of conditional probability <a href="https:
 	- Propose a method to generate counterfactual examples in a high dimensional setting.
 	- For **credit application prediction** via off-the-shelf interchangeable black-box classifiers.
 	- Propose to reweigh the distance between the features of an instance and its corresponding counterfactual with the inverse median absolute deviation
+
 * Multimodal explanations by predicting counterfactuality in videos ***(Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019).***
+
 * Generating counterfactual explanations with natural language:
 	- defined a method to generate **natural language counterfactual explanations**. The framework checks for evidences of a counterfactual class in the text explanation generated for the original input. It then checks if those factors exist in the counterfactual image and returns the existing ones. 
 
@@ -206,6 +208,7 @@ They are designed based on a new type of conditional probability <a href="https:
 
 * Explaining machine learning classifiers through diverse counterfactual explanations. ***(FAT* '20: Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency)***
 	- [Paper Link](https://arxiv.org/pdf/1905.07697.pdf)
+	- [Source code](https://github.com/microsoft/DiCE)	
 	- Generating counterfactual examples which satisfy the following two criteria, (1) generated examples must be feasible given users conditions and context such as range for the features or features to be changed; (2) counterfactual examples generated for explanations should be as diverse as possible. 
 	- Maximize the point-wise distance between examples in feature-space or leverage the concept from Determinantal point processes to select a subset of samples with the diversity constraint.
 * Explaining deep learning models with constrained adversarial examples.
@@ -233,17 +236,14 @@ causal data generating process?" instead of "What should be the fairness criteri
 
 
 ### Guarantee: <a name="guarantee"></a>
-* Learning interpretable models with causal guarantees (2019) - 
+* ***Learning interpretable models with causal guarantees (2019):***
 	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
 * Estimating individual treatment effect:  generalization boundsand  algorithms:
-	- learn
-an oracle function f which estimates the causal effect of a
-treatment for any observed instance and then learn an interpretable
-function f′ to estimate f. They further provide
-a bound for the error produced by their framework
-
+	- learn an oracle function f which estimates the causal effect of a treatment for any observed instance and then learn an interpretable function f′ to estimate f. They further provide a bound for the error produced by their framework
+	- Potential outcomes framework
+	
 ### Ideas - Potential Research Gap
-* Counterfactual in Recommendation System:
+* Counterfactual in Recommendation System
 * Economic decision making
 
 
