@@ -1,6 +1,6 @@
 
 # Interpretable Machine Learning:
-# Table of Contentsa
+# Table of Contents
 1. [Intrinsic Interpretable Model](#intrinsic)
 	* [Generalized linear regression](#generalized)
 	* [Generalized addictive model](#addictive)
@@ -300,5 +300,5 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjg2MDk1N119
+eyJoaXN0b3J5IjpbLTg4Mzk1ODQ3Nl19
 -->
