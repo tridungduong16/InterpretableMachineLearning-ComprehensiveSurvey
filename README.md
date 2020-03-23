@@ -186,7 +186,7 @@ A recent proposal that overcomes both LIME and Anchor in terms of performance an
 
 * ***Harradon, Michael, Jeff Druce, and Brian Ruttenberg. "Causal learning and explanation of deep neural networks via autoencoded activations." _arXiv preprint arXiv:1802.00541_ (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1802.00541.pdf)
-	- suggest that in order to have an effective interpretability, having a human-understandable causal model of DNN, which allows different kinds of causal interventions, is necessary. Based on this hypothesis, the authors propose an interpretability framework, which extracts humanunderstandable concepts such as eyes and ears of a cat from deep neural networks, learns the causal structure between the input, output and these concepts in an SCM and performs causal reasoning on it to gain more insights into the model.
+	- suggest that in order to have an effective interpretability, having a human-understandable causal model of DNN, which allows different kinds of causal interventions, is necessary. Based on this hypothesis, the authors propose an interpretability framework, which extracts human understandable concepts such as eyes and ears of a cat from deep neural networks, learns the causal structure between the input, output and these concepts in an SCM and performs causal reasoning on it to gain more insights into the model.
 * ***Chattopadhyay, Aditya, et al. "Neural network attributions: A causal perspective." _arXiv preprint arXiv:1902.02302_ (2019).***
 	- "What is the impact of the n-th filter of the m-th layer of a deep neural network on the predictions of the model?"
 	- These frameworks are mainly designed to explain the importance of each component of a deep neural network on its predictions by answering counterfactual questions such as "What would have happened to the output of the model had we had a different component in the model?".
@@ -305,6 +305,6 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk3MDc3MjIsMTI5MTI4NDI5NywtOD
-gzOTU4NDc2XX0=
+eyJoaXN0b3J5IjpbMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMj
+kxMjg0Mjk3LC04ODM5NTg0NzZdfQ==
 -->
