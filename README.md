@@ -56,8 +56,6 @@ models with state-of-the-art accuracy.
 	- <a href="https://www.codecogs.com/eqnedit.php?latex=g(E[y])&space;=&space;\beta&space;_{0}&space;&plus;&space;\sum&space;f_j(x_j)&space;&plus;&space;\sum&space;f_{i,j}(x_i;&space;x_j)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?g(E[y])&space;=&space;\beta&space;_{0}&space;&plus;&space;\sum&space;f_j(x_j)&space;&plus;&space;\sum&space;f_{i,j}(x_i;&space;x_j)" title="g(E[y]) = \beta _{0} + \sum f_j(x_j) + \sum f_{i,j}(x_i; x_j)" /></a>
 	- GA2M builds the best GAM first and then detects and ranks all possible pairs of interactions in the residuals. The top k pairs are then included in the model (k is determined by cross-validation).
 
-* ***Lengerich, Benjamin, et al. "Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models." arXiv preprint arXiv:1911.04974 (2019).***
-	- [Paper Link](https://arxiv.org/pdf/1911.04974.pdf)
 * ***Timonen, Juho, et al. "An interpretable probabilistic machine learning method for heterogeneous longitudinal studies." arXiv preprint arXiv:1912.03549 (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1912.03549.pdf)
 	- Present a widely applicable and interpretable probabilistic machine learning method for nonparametric longitudinal data analysis using additive Gaussian process regression.
@@ -300,5 +298,5 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Mzk1ODQ3Nl19
+eyJoaXN0b3J5IjpbMTI5MTI4NDI5NywtODgzOTU4NDc2XX0=
 -->
