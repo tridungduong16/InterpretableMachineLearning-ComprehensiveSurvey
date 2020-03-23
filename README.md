@@ -292,8 +292,9 @@ sensitive attribute referenced in the example were different?
 	- [Paper link](https://arxiv.org/pdf/1901.08576.pdf)	
 	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
 
-### Evaluation 
-### Challenges 
+### Evaluation methods
+### Challenges:
+1. 
 
 ### Ideas - Potential Research Gap
 * Counterfactual in Recommendation System
@@ -310,7 +311,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDI1NTkyNSwtMTMzOTM2NzUyLDEzNT
+eyJoaXN0b3J5IjpbLTcwMTAzNDYwNiwtMTMzOTM2NzUyLDEzNT
 M4NDYzMzAsLTIwOTk3MDc3MjIsMTI5MTI4NDI5NywtODgzOTU4
 NDc2XX0=
 -->
