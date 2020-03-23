@@ -110,6 +110,7 @@ descent-based optimization to learn flexible representations and enable flexible
 * ***Bastani, Osbert, Carolyn Kim, and Hamsa Bastani. "Interpretability via model extraction." _arXiv preprint arXiv:1706.09773_ (2017).***
 	- [Paper Link](https://arxiv.org/abs/1706.09773):
 	- The authors formulate model simplification as a model extraction process by approximating a transparent model to the complex one.
+	- Given amodel <a href="https://www.codecogs.com/eqnedit.php?latex=f&space;:&space;X&space;\rightarrow&space;Y" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f&space;:&space;X&space;\rightarrow&space;Y" title="f : X \rightarrow Y" /></a>, the interpretation produced by our algorithm is an approximation T(x) ≈ f (x), where T is an interpretable model.
 
 * ***Tan, Sarah, et al. "Distill-and-compare: Auditing black-box models using transparent model distillation." _Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society_. 2018***
 	- [Paper Link](https://arxiv.org/abs/1710.06169)
@@ -305,6 +306,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkzNjc1MiwxMzUzODQ2MzMwLC0yMD
-k5NzA3NzIyLDEyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
+eyJoaXN0b3J5IjpbLTExODA3MDAzMzUsLTEzMzkzNjc1MiwxMz
+UzODQ2MzMwLC0yMDk5NzA3NzIyLDEyOTEyODQyOTcsLTg4Mzk1
+ODQ3Nl19
 -->
