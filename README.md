@@ -110,7 +110,7 @@ descent-based optimization to learn flexible representations and enable flexible
 * ***Bastani, Osbert, Carolyn Kim, and Hamsa Bastani. "Interpretability via model extraction." _arXiv preprint arXiv:1706.09773_ (2017).***
 	- [Paper Link](https://arxiv.org/abs/1706.09773):
 	- The authors formulate model simplification as a model extraction process by approximating a transparent model to the complex one.
-	- Given amodel <a href="https://www.codecogs.com/eqnedit.php?latex=f&space;:&space;X&space;\rightarrow&space;Y" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f&space;:&space;X&space;\rightarrow&space;Y" title="f : X \rightarrow Y" /></a>, the interpretation produced by our algorithm is an approximation T(x) ≈ f (x), where T is an interpretable model.
+	- Given amodel <a href="https://www.codecogs.com/eqnedit.php?latex=f&space;:&space;X&space;\rightarrow&space;Y" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f&space;:&space;X&space;\rightarrow&space;Y" title="f : X \rightarrow Y" /></a>, the interpretation produced by our algorithm is an approximation <a href="https://www.codecogs.com/eqnedit.php?latex=T(x)&space;\approx&space;f&space;(x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T(x)&space;\approx&space;f&space;(x)" title="T(x) \approx f (x)" /></a>, where T is an interpretable model.
 
 * ***Tan, Sarah, et al. "Distill-and-compare: Auditing black-box models using transparent model distillation." _Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society_. 2018***
 	- [Paper Link](https://arxiv.org/abs/1710.06169)
@@ -291,6 +291,10 @@ sensitive attribute referenced in the example were different?
 * ***Kim, Carolyn, and Osbert Bastani. "Learning Interpretable Models with Causal Guarantees." arXiv preprint arXiv:1901.08576 (2019).***
 	- [Paper link](https://arxiv.org/pdf/1901.08576.pdf)	
 	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
+
+### Evaluation 
+### Challenges 
+
 ### Ideas - Potential Research Gap
 * Counterfactual in Recommendation System
 * Economic decision making
@@ -306,7 +310,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA3MDAzMzUsLTEzMzkzNjc1MiwxMz
-UzODQ2MzMwLC0yMDk5NzA3NzIyLDEyOTEyODQyOTcsLTg4Mzk1
-ODQ3Nl19
+eyJoaXN0b3J5IjpbLTk1MDI1NTkyNSwtMTMzOTM2NzUyLDEzNT
+M4NDYzMzAsLTIwOTk3MDc3MjIsMTI5MTI4NDI5NywtODgzOTU4
+NDc2XX0=
 -->
