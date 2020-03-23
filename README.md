@@ -145,6 +145,9 @@ descent-based optimization to learn flexible representations and enable flexible
 to produce a local interpretable approximation to the otherwise complex black-box model.
 * ***Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "Anchors: High-precision model-agnostic explanations." _Thirty-Second AAAI Conference on Artificial Intelligence_. 2018.***
 	- [Paper Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982/15850)
+	- An extension of LIME using decision rules as local interpretable classifier cl is presented in Reference
+[99]. The Anchor f uses a bandit algorithm that randomly constructs the anchors with the highest coverage and respecting a user-specified precision threshold. An anchor explanation is a decision rule that sufficiently tie a prediction locally such that changes to the rest of the features values do not matter, i.e., similar instances covered by the same anchor have the same prediction outcome. Anchor is applied on tabular, images and textual datasets. Reference [110] is an antecedent of Anchor for tabular data only. It adopts a simulated annealing approach that randomly grows, shrinks, or replaces nodes in an expression tree (the comprehensible local predictor cl ). It was meant to return black box decision in forms of “programs.”
+
 * ***Lucic, Ana, Hinda Haned, and Maarten de Rijke. "Explaining Predictions from Tree-based Boosting Ensembles." _arXiv preprint arXiv:1907.02582_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1907.02582.pdf)
 * ***Jia, Yunzhe, et al. "Improving the Quality of Explanations with Local Embedding Perturbations." _Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_. 2019.***
@@ -298,5 +301,6 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTI4NDI5NywtODgzOTU4NDc2XX0=
+eyJoaXN0b3J5IjpbLTEzOTY5MTE2MDUsMTI5MTI4NDI5NywtOD
+gzOTU4NDc2XX0=
 -->
