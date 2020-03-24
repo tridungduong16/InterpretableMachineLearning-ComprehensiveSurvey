@@ -332,7 +332,7 @@ sensitive attribute referenced in the example were different?
 *  ***Hooker, Sara, et al. "A benchmark for interpretability methods in deep neural networks." _Advances in Neural Information Processing Systems. 2019.***
 	- [Paper Link]()
 * ***Schwab, Patrick, and Walter Karlen. "CXPlain: Causal explanations for model interpretation under uncertainty." _Advances in Neural Information Processing Systems. 2019.***
-	- [Paper Link]()
+	- [Paper Link](https://arxiv.org/pdf/1910.12336.pdf)
 *  ***Toneva, Mariya, and Leila Wehbe. "Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)." _Advances in Neural Information Processing Systems. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1905.11833.pdf)
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems. 2019.***
@@ -365,10 +365,10 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzM2MDc2Niw2NjgwMDQ5MDksODg2MT
-c1NzA1LDIwMjc3MTU2ODYsMTU1NzYxMTM0MywxMDkzODk5MzM0
-LDIwMzk0Mzc0NzYsLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDQsMT
-E3OTgzNDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0
-NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMi
-wxMjkxMjg0Mjk3LC04ODM5NTg0NzZdfQ==
+eyJoaXN0b3J5IjpbMTgyOTYzOTIyNywxODk3MzYwNzY2LDY2OD
+AwNDkwOSw4ODYxNzU3MDUsMjAyNzcxNTY4NiwxNTU3NjExMzQz
+LDEwOTM4OTkzMzQsMjAzOTQzNzQ3NiwtMTYxMDE1MjU2MSwtMT
+YzNzg4Mzc0NCwxMTc5ODM0NjgwLC00NTMxMTg2MjQsMzQ5MzEz
+MjM0LC03MDEwMzQ2MDYsLTEzMzkzNjc1MiwxMzUzODQ2MzMwLC
+0yMDk5NzA3NzIyLDEyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
 -->
