@@ -96,11 +96,13 @@ descent-based optimization to learn flexible representations and enable flexible
 ### Others: <a name="other_model"></a>
 * ***Ross, Andrew Slavin, Michael C. Hughes, and Finale Doshi-Velez. "Right for the right reasons: Training differentiable models by constraining their explanations." _arXiv preprint arXiv:1703.03717_ (2017).***
 	- [Paper Link](https://arxiv.org/pdf/1703.03717.pdf)
+	- Introduce amethod for efficiently explaining and regularizing differentiable models by examining and selectively penalizing their input gradients.
+	- 
 * ***Erion, Gabriel, et al. "Learning explainable models using attribution priors." _arXiv preprint arXiv:1906.10670_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1906.10670.pdf)
 	- [Source code](https://github.com/suinleelab/attributionpriors)
 	- Model priors transfer information from humans to a model by constraining the model’s parameters
-	- Model attributions transfer information from amodel to humans by explaining the model’s behavior. 
+	
 * ***Wang, Tong, and Qihang Lin. "Hybrid predictive model: When an interpretable model collaborates with a black-box model." _arXiv preprint arXiv:1905.04241_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1905.04241.pdf)
 * ***Pan, Danqing, Tong Wang, and Satoshi Hara. "Interpretable Companions for Black-Box Models." _arXiv preprint arXiv:2002.03494_ (2020).***
@@ -383,10 +385,10 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDY1NDg1LC05ODUxNjIxODYsLTI5ND
-c4MTEyNiwtNTg4NDM2NTgsMjI4MzU2MjUxLDQ2NTU2MTczLDk2
-NTExMTM1NCwzMjg0MTMwOTMsODY3MDM5MTAzLC0xNDM3OTUzOT
-c1LC0xOTc0MTQ1NCw5MTIyMzg0NTIsNTcwNzg0NjI2LC0xMzQx
-NTc0ODkwLDE4Mjk2MzkyMjcsMTg5NzM2MDc2Niw2NjgwMDQ5MD
-ksODg2MTc1NzA1LDIwMjc3MTU2ODYsMTU1NzYxMTM0M119
+eyJoaXN0b3J5IjpbLTQzOTcwMTI2OSwtMjc0NjU0ODUsLTk4NT
+E2MjE4NiwtMjk0NzgxMTI2LC01ODg0MzY1OCwyMjgzNTYyNTEs
+NDY1NTYxNzMsOTY1MTExMzU0LDMyODQxMzA5Myw4NjcwMzkxMD
+MsLTE0Mzc5NTM5NzUsLTE5NzQxNDU0LDkxMjIzODQ1Miw1NzA3
+ODQ2MjYsLTEzNDE1NzQ4OTAsMTgyOTYzOTIyNywxODk3MzYwNz
+Y2LDY2ODAwNDkwOSw4ODYxNzU3MDUsMjAyNzcxNTY4Nl19
 -->
