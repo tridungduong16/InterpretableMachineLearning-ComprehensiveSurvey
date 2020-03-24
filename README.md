@@ -260,8 +260,11 @@ They are designed based on a new type of conditional probability <a href="https:
 		+ counterfactual examples generated for explanations should be as diverse as possible. 
 	- Maximize the point-wise distance between examples in feature-space or leverage the concept from Determinantal point processes to select a subset of samples with the diversity constraint.
 * ***Moore, Jonathan, Nils Hammerla, and Chris Watkins. "Explaining Deep Learning Models with Constrained Adversarial Examples." Pacific Rim International Conference on Artificial Intelligence. Springer, Cham, 2019.***
+	- [Paper Link]()
 * ***Van Looveren, Arnaud, and Janis Klaise. "Interpretable counterfactual explanations guided by prototypes." arXiv preprint arXiv:1907.02584 (2019).***
+	- [Paper Link]()
 * ***Liu, Shusen, et al. "Generative counterfactual introspection for explainable deep learning." arXiv preprint arXiv:1907.03077 (2019).***
+	- [Paper Link]()
 * ***Goyal, Yash, Uri Shalit, and Been Kim. "Explaining Classifiers with Causal Concept Effect (CaCE)." arXiv preprint arXiv:1907.07165 (2019).***
 	- propose to explain classifiers’ decisions by measuring the Causal Concept Effect (CACE). 
 	- CACE is defined as the causal effect of a concept (such as the brightness or an object in the image) on the prediction. In order to generate counterfactuals, authors leverage a VAE-based architecture. 
@@ -334,8 +337,8 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDkwOTQ5LC0xNjM3ODgzNzQ0LDExNz
-k4MzQ2ODAsLTQ1MzExODYyNCwzNDkzMTMyMzQsLTcwMTAzNDYw
-NiwtMTMzOTM2NzUyLDEzNTM4NDYzMzAsLTIwOTk3MDc3MjIsMT
-I5MTI4NDI5NywtODgzOTU4NDc2XX0=
+eyJoaXN0b3J5IjpbLTg2NDUzMzA5NywtMTYzNzg4Mzc0NCwxMT
+c5ODM0NjgwLC00NTMxMTg2MjQsMzQ5MzEzMjM0LC03MDEwMzQ2
+MDYsLTEzMzkzNjc1MiwxMzUzODQ2MzMwLC0yMDk5NzA3NzIyLD
+EyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
 -->
