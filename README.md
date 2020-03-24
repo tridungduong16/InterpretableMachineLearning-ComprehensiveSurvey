@@ -344,11 +344,17 @@ sensitive attribute referenced in the example were different?
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems_. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1903.03894.pdf)
 ### Ideas - Potential Research Gap
-* Counterfactual in Recommendation System
-* Economic decision making
+* Counterfactual in 
+	- Recommendation System
+	- Economic decision making
+	- NLP
+	- Images
 * The link between econometric and machine learning model
 * Focus on Counterfactual Explanation
 * Try to answer that "Why" question
+* Focus on counterfactual explanation
+* Causal inference
+
 
 ## Useful Links <a name="useful"></a>:
 1. On Model Explainability [Link](https://everdark.github.io/k9/notebooks/ml/model_explain/model_explain.nb.html#7_explainable_boosting_machine)
@@ -360,10 +366,10 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2MTc1NzA1LDIwMjc3MTU2ODYsMTU1Nz
-YxMTM0MywxMDkzODk5MzM0LDIwMzk0Mzc0NzYsLTE2MTAxNTI1
-NjEsLTE2Mzc4ODM3NDQsMTE3OTgzNDY4MCwtNDUzMTE4NjI0LD
-M0OTMxMzIzNCwtNzAxMDM0NjA2LC0xMzM5MzY3NTIsMTM1Mzg0
-NjMzMCwtMjA5OTcwNzcyMiwxMjkxMjg0Mjk3LC04ODM5NTg0Nz
-ZdfQ==
+eyJoaXN0b3J5IjpbLTE1NTI2NTg3NTUsODg2MTc1NzA1LDIwMj
+c3MTU2ODYsMTU1NzYxMTM0MywxMDkzODk5MzM0LDIwMzk0Mzc0
+NzYsLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDQsMTE3OTgzNDY4MC
+wtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0NjA2LC0xMzM5
+MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkxMjg0Mj
+k3LC04ODM5NTg0NzZdfQ==
 -->
