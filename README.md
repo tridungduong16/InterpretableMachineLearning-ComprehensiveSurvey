@@ -180,6 +180,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 
 ### Others: <a name="other_agnostic"></a>
 * ***Afrabandpey, Homayun, et al. "Making Bayesian Predictive Models Interpretable: A Decision Theoretic Approach." _arXiv preprint arXiv:1910.09358_ (2019).***
+	- [Paper Link](https://arxiv.org/pdf/1910.09358.pdf)
 
 ## Causal Interpretability <a name="survey"></a>:
 
@@ -235,6 +236,7 @@ They are designed based on a new type of conditional probability <a href="https:
 	- Propose to reweigh the distance between the features of an instance and its corresponding counterfactual with the inverse median absolute deviation.
 
 * ***Kanehira, Atsushi, et al. "Multimodal explanations by predicting counterfactuality in videos." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.***
+	- [Paper Link]()
 
 * ***Hendricks, Lisa Anne, et al. "Generating counterfactual explanations with natural language." arXiv preprint arXiv:1806.09809 (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1806.09809.pdf)
@@ -332,8 +334,8 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc4ODM3NDQsMTE3OTgzNDY4MCwtND
-UzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0NjA2LC0xMzM5MzY3
-NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkxMjg0Mjk3LC
-04ODM5NTg0NzZdfQ==
+eyJoaXN0b3J5IjpbMTE4NDkwOTQ5LC0xNjM3ODgzNzQ0LDExNz
+k4MzQ2ODAsLTQ1MzExODYyNCwzNDkzMTMyMzQsLTcwMTAzNDYw
+NiwtMTMzOTM2NzUyLDEzNTM4NDYzMzAsLTIwOTk3MDc3MjIsMT
+I5MTI4NDI5NywtODgzOTU4NDc2XX0=
 -->
