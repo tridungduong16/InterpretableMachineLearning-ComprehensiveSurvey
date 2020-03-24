@@ -283,6 +283,9 @@ They are designed based on a new type of conditional probability <a href="https:
 * ***Liu, Shusen, et al. "Generative counterfactual introspection for explainable deep learning." arXiv preprint arXiv:1907.03077 (2019).***
 	- [Paper  Link](https://arxiv.org/pdf/1907.03077.pdf)
 	- propose a generative model to generate counterfactual explanations for explaining a model’s decisions.
+* ***Ghazimatin, Azin, et al. "PRINCE: Provider-side Interpretability with Counterfactual Explanations in Recommender Systems." _Proceedings of the 13th International Conference on Web Search and Data Mining_. 2020.***
+	- [Paper Link](https://arxiv.org/pdf/1911.08378.pdf)
+	- Explain the question "Why does the recommendation system give the items to users"
 ### Fairness: <a name="fairness"></a>
 Counterfactual fairnessis a notion of fairness derived from Pearl’s causal model, which considers a model is fair if for a par-ticular individual or group its prediction in the realworld is the same as that in the counterfactual worldwhere the individual(s) had belonged to a differ-ent demographic group.
 * ***Kusner, Matt J., et al. "Counterfactual fairness." _Advances in Neural Information Processing Systems_. 2017.***
@@ -375,11 +378,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTMxMTk1MjcsLTU4ODQzNjU4LDIyOD
-M1NjI1MSw0NjU1NjE3Myw5NjUxMTEzNTQsMzI4NDEzMDkzLDg2
-NzAzOTEwMywtMTQzNzk1Mzk3NSwtMTk3NDE0NTQsOTEyMjM4ND
-UyLDU3MDc4NDYyNiwtMTM0MTU3NDg5MCwxODI5NjM5MjI3LDE4
-OTczNjA3NjYsNjY4MDA0OTA5LDg4NjE3NTcwNSwyMDI3NzE1Nj
-g2LDE1NTc2MTEzNDMsMTA5Mzg5OTMzNCwyMDM5NDM3NDc2XX0=
+eyJoaXN0b3J5IjpbLTI5NDc4MTEyNiwtNTg4NDM2NTgsMjI4Mz
+U2MjUxLDQ2NTU2MTczLDk2NTExMTM1NCwzMjg0MTMwOTMsODY3
+MDM5MTAzLC0xNDM3OTUzOTc1LC0xOTc0MTQ1NCw5MTIyMzg0NT
+IsNTcwNzg0NjI2LC0xMzQxNTc0ODkwLDE4Mjk2MzkyMjcsMTg5
+NzM2MDc2Niw2NjgwMDQ5MDksODg2MTc1NzA1LDIwMjc3MTU2OD
+YsMTU1NzYxMTM0MywxMDkzODk5MzM0LDIwMzk0Mzc0NzZdfQ==
 
 -->
