@@ -363,18 +363,18 @@ sensitive attribute referenced in the example were different?
 1. On Model Explainability [Link](https://everdark.github.io/k9/notebooks/ml/model_explain/model_explain.nb.html#7_explainable_boosting_machine)
 2. http://www.cs.cornell.edu/~adith/B-exam.pdf
 3. https://www.accenture.com/us-en/blogs/technology-innovation/costabello-mcgrath-ai-counterfactual-explanations
-4. Double Machine Learning Tutorial: [Link](https://nbviewer.jupyter.org/github/kinokoberuji/Causal_Inference/blob/master/EconML%20customer%20policy.ipynb?fbclid=IwAR2Qq77Pw2My-sMpY2QZuXeXkRE-yg99knYPF-z5yUvYAvjFJiQTAnvprjA)
-5. [How to Explain the Prediction of a Machine Learning Model? https://lilianweng.github.io/lil-log/2017/08/01/how-to-explain-the-prediction-of-a-machine-learning-model.html
+4. [Double Machine Learning Tutorial](https://nbviewer.jupyter.org/github/kinokoberuji/Causal_Inference/blob/master/EconML%20customer%20policy.ipynb?fbclid=IwAR2Qq77Pw2My-sMpY2QZuXeXkRE-yg99knYPF-z5yUvYAvjFJiQTAnvprjA)
+5. [How to Explain the Prediction of a Machine Learning Model? ](https://lilianweng.github.io/lil-log/2017/08/01/how-to-explain-the-prediction-of-a-machine-learning-model.html)
 ## Authors
 
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkwODQ4OTcsLTE0Mzc5NTM5NzUsLT
-E5NzQxNDU0LDkxMjIzODQ1Miw1NzA3ODQ2MjYsLTEzNDE1NzQ4
-OTAsMTgyOTYzOTIyNywxODk3MzYwNzY2LDY2ODAwNDkwOSw4OD
-YxNzU3MDUsMjAyNzcxNTY4NiwxNTU3NjExMzQzLDEwOTM4OTkz
-MzQsMjAzOTQzNzQ3NiwtMTYxMDE1MjU2MSwtMTYzNzg4Mzc0NC
-wxMTc5ODM0NjgwLC00NTMxMTg2MjQsMzQ5MzEzMjM0LC03MDEw
-MzQ2MDZdfQ==
+eyJoaXN0b3J5IjpbODY3MDM5MTAzLC0xNDM3OTUzOTc1LC0xOT
+c0MTQ1NCw5MTIyMzg0NTIsNTcwNzg0NjI2LC0xMzQxNTc0ODkw
+LDE4Mjk2MzkyMjcsMTg5NzM2MDc2Niw2NjgwMDQ5MDksODg2MT
+c1NzA1LDIwMjc3MTU2ODYsMTU1NzYxMTM0MywxMDkzODk5MzM0
+LDIwMzk0Mzc0NzYsLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDQsMT
+E3OTgzNDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0
+NjA2XX0=
 -->
