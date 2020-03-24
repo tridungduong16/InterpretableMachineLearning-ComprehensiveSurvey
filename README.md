@@ -364,16 +364,17 @@ sensitive attribute referenced in the example were different?
 2. http://www.cs.cornell.edu/~adith/B-exam.pdf
 3. https://www.accenture.com/us-en/blogs/technology-innovation/costabello-mcgrath-ai-counterfactual-explanations
 4. Double Machine Learning Tutorial: [Link](https://nbviewer.jupyter.org/github/kinokoberuji/Causal_Inference/blob/master/EconML%20customer%20policy.ipynb?fbclid=IwAR2Qq77Pw2My-sMpY2QZuXeXkRE-yg99knYPF-z5yUvYAvjFJiQTAnvprjA)
+5. https://lilianweng.github.io/lil-log/2017/08/01/how-to-explain-the-prediction-of-a-machine-learning-model.html
 ## Authors
 
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQxNDU0LDkxMjIzODQ1Miw1NzA3OD
-Q2MjYsLTEzNDE1NzQ4OTAsMTgyOTYzOTIyNywxODk3MzYwNzY2
-LDY2ODAwNDkwOSw4ODYxNzU3MDUsMjAyNzcxNTY4NiwxNTU3Nj
-ExMzQzLDEwOTM4OTkzMzQsMjAzOTQzNzQ3NiwtMTYxMDE1MjU2
-MSwtMTYzNzg4Mzc0NCwxMTc5ODM0NjgwLC00NTMxMTg2MjQsMz
-Q5MzEzMjM0LC03MDEwMzQ2MDYsLTEzMzkzNjc1MiwxMzUzODQ2
-MzMwXX0=
+eyJoaXN0b3J5IjpbLTE0Mzc5NTM5NzUsLTE5NzQxNDU0LDkxMj
+IzODQ1Miw1NzA3ODQ2MjYsLTEzNDE1NzQ4OTAsMTgyOTYzOTIy
+NywxODk3MzYwNzY2LDY2ODAwNDkwOSw4ODYxNzU3MDUsMjAyNz
+cxNTY4NiwxNTU3NjExMzQzLDEwOTM4OTkzMzQsMjAzOTQzNzQ3
+NiwtMTYxMDE1MjU2MSwtMTYzNzg4Mzc0NCwxMTc5ODM0NjgwLC
+00NTMxMTg2MjQsMzQ5MzEzMjM0LC03MDEwMzQ2MDYsLTEzMzkz
+Njc1Ml19
 -->
