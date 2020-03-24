@@ -9,6 +9,9 @@
 Following the original paper of Rosenbaum & Rubin 2, in a randomized trial the treatment assignment Z and the (unobservable) potential outcomes <a href="https://www.codecogs.com/eqnedit.php?latex={Y_1,&space;Y_0}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{Y_1,&space;Y_0}" title="{Y_1, Y_0}" /></a> are conditionally independent given the covariates X, i.e. <a href="https://www.codecogs.com/eqnedit.php?latex={Y_1,&space;Y_0}&space;\perp&space;Z&space;\mid&space;X." target="_blank"><img src="https://latex.codecogs.com/gif.latex?{Y_1,&space;Y_0}&space;\perp&space;Z&space;\mid&space;X." title="{Y_1, Y_0} \perp Z \mid X." /></a>
 
 
+One of the main differences between (supervised) Machine Learning and Econometrics is that the former is mostly concerned with making accurate predictions, while the latter cares more about unbiased parameter estimation. In fact, in ML models, parameters are often intentionally biased if this improves prediction accuracy. But in certain cases, ML might be preferred to econometric methods - for example if the number of variables is large. The question is then how do we reap the benefits of ML algorithms if our goal is ***inference and not prediction***? Chernozhukov et al. address this issue with a method called Double/Debiased Machine Learning (DML). DML allows us to use a range of ML algorithms such as Random Forests, Gradient Boosting and Neural Networks to obtain unbiased parameter estimates.
+
+
 ### Randomized controlled trials (RCTs):
 Randomized controlled trials (RCTs) are considered the gold standard approach for estimating the effects of treatments, interventions, and exposures (hereafter referred to as treatments) on outcomes.
 
@@ -47,6 +50,20 @@ IPTW is based on a simple intuition. For a randomized trial with p(Z=1)=k the pr
 Manhattan distance is used to measure the distance between treated instance and 
 
 ### Inverse Probability of Treatment Weighting (IPTW)
+
+
+### Double Machine Learning
+Chernozhukov et al. address this question by proposing a method called Double Machine Learning (DML). This technique applies to the case in which we want to explain:
+	- an outcome variable (e.g. educational attainment)
+	- a number of control variables (e.g. age of the child, income of the parents etc.)
+	- a treatment/policy variable (e.g. whether the family benefited from a certain policy), which itself also depends on the control variables. 
+
+What we are really interested in is the effect of the policy on the outcome, and we wish to find an estimate of the effect that is as close to the truth (unbiased) as possible.
+
+	- We fit a preliminary ML algorithm to predict the outcome variable using the control variables;	
+	- We fit a second ML algorithm to partial out the effect of the control variables on the policy variable.
+
+
 
 ## Useful Link <a name="link"></a>
 * https://en.wikipedia.org/wiki/Rubin_causal_model
