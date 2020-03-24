@@ -345,7 +345,7 @@ sensitive attribute referenced in the example were different?
 ### Ideas - Potential Research Gap
 * Counterfactual in Recommendation System
 * Economic decision making
-* Counterfactual explanation
+* 
 
 ## Useful Links <a name="useful"></a>:
 1. On Model Explainability [Link](https://everdark.github.io/k9/notebooks/ml/model_explain/model_explain.nb.html#7_explainable_boosting_machine)
@@ -357,7 +357,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTY5NjI5MCwxMDkzODk5MzM0LDIwMz
+eyJoaXN0b3J5IjpbMTU1NzYxMTM0MywxMDkzODk5MzM0LDIwMz
 k0Mzc0NzYsLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDQsMTE3OTgz
 NDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0NjA2LC
 0xMzM5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkx
