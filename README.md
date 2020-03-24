@@ -341,6 +341,7 @@ sensitive attribute referenced in the example were different?
 	- Train causal explanation (CXPlain) models that learn to estimate to what degree certain inputs cause outputs in another machine-learning model. 
 	- CXPlain can, once trained, be used to explain the target model in little time, and enables the quantification of the uncertainty associated with its feature importance estimates via bootstrap ensembling.
 	- The core component of CXPlain is the causal objective that enables us to optimise explanation models to learn to explain another predictive model.
+	- 
 *  ***Toneva, Mariya, and Leila Wehbe. "Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)." _Advances in Neural Information Processing Systems. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1905.11833.pdf)
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems. 2019.***
@@ -374,7 +375,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzYxNjYxLDMyODQxMzA5Myw4NjcwMz
+eyJoaXN0b3J5IjpbOTY1MTExMzU0LDMyODQxMzA5Myw4NjcwMz
 kxMDMsLTE0Mzc5NTM5NzUsLTE5NzQxNDU0LDkxMjIzODQ1Miw1
 NzA3ODQ2MjYsLTEzNDE1NzQ4OTAsMTgyOTYzOTIyNywxODk3Mz
 YwNzY2LDY2ODAwNDkwOSw4ODYxNzU3MDUsMjAyNzcxNTY4Niwx
