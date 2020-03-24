@@ -273,7 +273,6 @@ is based on three measures of transmission from cause to
 effect namely counterfactual direct (Ctf-DE), indirect (Ctf-
 IE), and spurious (Ctf-SE) effects
 
-
 * ***Chiappa, Silvia. "Path-specific counterfactual fairness." In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, pp. 7801-7808. 2019.***
 	- [Paper Link]((https://www.aaai.org/ojs/index.php/AAAI/article/download/4777/4655))
 
@@ -324,7 +323,8 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzExODYyNCwzNDkzMTMyMzQsLTcwMT
-AzNDYwNiwtMTMzOTM2NzUyLDEzNTM4NDYzMzAsLTIwOTk3MDc3
-MjIsMTI5MTI4NDI5NywtODgzOTU4NDc2XX0=
+eyJoaXN0b3J5IjpbMTIyMTI3NzgzOCwtNDUzMTE4NjI0LDM0OT
+MxMzIzNCwtNzAxMDM0NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMz
+MCwtMjA5OTcwNzcyMiwxMjkxMjg0Mjk3LC04ODM5NTg0NzZdfQ
+==
 -->
