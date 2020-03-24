@@ -307,6 +307,8 @@ sensitive attribute referenced in the example were different?
 *  ***Toneva, Mariya, and Leila Wehbe. "Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)." _Advances in Neural Information Processing Systems. 2019.***
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems. 2019.***
 *  ***Ghorbani, Amirata, et al. "Towards automatic concept-based explanations." _Advances in Neural Information Processing Systems_. 2019.***
+* ***Ignatiev, Alexey, Nina Narodytska, and Joao Marques-Silva. "On Relating Explanations and Adversarial Examples." _Advances in Neural Information Processing Systems_. 2019.***
+* ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems_. 2019.***
 ### Ideas - Potential Research Gap
 * Counterfactual in Recommendation System
 * Economic decision making
@@ -322,7 +324,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEwMTQ0MTAsMzQ5MzEzMjM0LC03MD
-EwMzQ2MDYsLTEzMzkzNjc1MiwxMzUzODQ2MzMwLC0yMDk5NzA3
-NzIyLDEyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
+eyJoaXN0b3J5IjpbLTQ1MzExODYyNCwzNDkzMTMyMzQsLTcwMT
+AzNDYwNiwtMTMzOTM2NzUyLDEzNTM4NDYzMzAsLTIwOTk3MDc3
+MjIsMTI5MTI4NDI5NywtODgzOTU4NDc2XX0=
 -->
