@@ -338,6 +338,8 @@ sensitive attribute referenced in the example were different?
 * ***Schwab, Patrick, and Walter Karlen. "CXPlain: Causal explanations for model interpretation under uncertainty." _Advances in Neural Information Processing Systems. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1910.12336.pdf)
 	- [Source code](https://github.com/d909b/cxplain)
+	- Train causal explanation (CXPlain) models that learn to estimate to what degree certain inputs cause outputs in another machine-learning model. 
+	- CXPlain can, once trained, be used to explain the target model in little time, and enables the quantification of the uncertainty associated with its feature importance estimates via bootstrap ensembling.
 *  ***Toneva, Mariya, and Leila Wehbe. "Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)." _Advances in Neural Information Processing Systems. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1905.11833.pdf)
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems. 2019.***
@@ -371,11 +373,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4NDEzMDkzLDg2NzAzOTEwMywtMTQzNz
-k1Mzk3NSwtMTk3NDE0NTQsOTEyMjM4NDUyLDU3MDc4NDYyNiwt
-MTM0MTU3NDg5MCwxODI5NjM5MjI3LDE4OTczNjA3NjYsNjY4MD
-A0OTA5LDg4NjE3NTcwNSwyMDI3NzE1Njg2LDE1NTc2MTEzNDMs
-MTA5Mzg5OTMzNCwyMDM5NDM3NDc2LC0xNjEwMTUyNTYxLC0xNj
-M3ODgzNzQ0LDExNzk4MzQ2ODAsLTQ1MzExODYyNCwzNDkzMTMy
-MzRdfQ==
+eyJoaXN0b3J5IjpbMjE0NTc2MDk2OSwzMjg0MTMwOTMsODY3MD
+M5MTAzLC0xNDM3OTUzOTc1LC0xOTc0MTQ1NCw5MTIyMzg0NTIs
+NTcwNzg0NjI2LC0xMzQxNTc0ODkwLDE4Mjk2MzkyMjcsMTg5Nz
+M2MDc2Niw2NjgwMDQ5MDksODg2MTc1NzA1LDIwMjc3MTU2ODYs
+MTU1NzYxMTM0MywxMDkzODk5MzM0LDIwMzk0Mzc0NzYsLTE2MT
+AxNTI1NjEsLTE2Mzc4ODM3NDQsMTE3OTgzNDY4MCwtNDUzMTE4
+NjI0XX0=
 -->
