@@ -301,8 +301,7 @@ sensitive attribute referenced in the example were different?
 * ***Kim, Carolyn, and Osbert Bastani. "Learning Interpretable Models with Causal Guarantees." arXiv preprint arXiv:1901.08576 (2019).***
 	- [Paper link](https://arxiv.org/pdf/1901.08576.pdf)	
 	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
-+
-### Evaluation methods
+### Evaluation methods:
 ### Challenges:
 
 
@@ -333,8 +332,8 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzExNjYwMSwxMTc5ODM0NjgwLC00NT
-MxMTg2MjQsMzQ5MzEzMjM0LC03MDEwMzQ2MDYsLTEzMzkzNjc1
-MiwxMzUzODQ2MzMwLC0yMDk5NzA3NzIyLDEyOTEyODQyOTcsLT
-g4Mzk1ODQ3Nl19
+eyJoaXN0b3J5IjpbLTE2Mzc4ODM3NDQsMTE3OTgzNDY4MCwtND
+UzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0NjA2LC0xMzM5MzY3
+NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkxMjg0Mjk3LC
+04ODM5NTg0NzZdfQ==
 -->
