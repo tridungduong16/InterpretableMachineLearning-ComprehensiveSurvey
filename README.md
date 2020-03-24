@@ -86,9 +86,11 @@ descent-based optimization to learn flexible representations and enable flexible
  
 ### Disentangled Representation Learning. <a name="represent"></a>
 * ***Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).***
+	- [Paper Link]()
 * ***Chen, Xi, et al. "Infogan: Interpretable representation learning by information maximizing generative adversarial nets." _Advances in neural information processing systems_. 2016.***
+	- [Paper Link]()
 * ***Higgins, Irina, et al. "beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework." _Iclr_ 2.5 (2017): 6.***
-
+	- [Paper Link]()
 ### Others: <a name="other_model"></a>
 * ***Ross, Andrew Slavin, Michael C. Hughes, and Finale Doshi-Velez. "Right for the right reasons: Training differentiable models by constraining their explanations." _arXiv preprint arXiv:1703.03717_ (2017).***
 * ***Erion, Gabriel, et al. "Learning explainable models using attribution priors." _arXiv preprint arXiv:1906.10670_ (2019).***
@@ -331,7 +333,8 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwMjkwMjMyLC00NTMxMTg2MjQsMzQ5Mz
-EzMjM0LC03MDEwMzQ2MDYsLTEzMzkzNjc1MiwxMzUzODQ2MzMw
-LC0yMDk5NzA3NzIyLDEyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
+eyJoaXN0b3J5IjpbMTE3OTgzNDY4MCwtNDUzMTE4NjI0LDM0OT
+MxMzIzNCwtNzAxMDM0NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMz
+MCwtMjA5OTcwNzcyMiwxMjkxMjg0Mjk3LC04ODM5NTg0NzZdfQ
+==
 -->
