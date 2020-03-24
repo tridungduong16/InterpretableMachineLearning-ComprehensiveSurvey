@@ -340,6 +340,7 @@ sensitive attribute referenced in the example were different?
 	- [Source code](https://github.com/d909b/cxplain)
 	- Train causal explanation (CXPlain) models that learn to estimate to what degree certain inputs cause outputs in another machine-learning model. 
 	- CXPlain can, once trained, be used to explain the target model in little time, and enables the quantification of the uncertainty associated with its feature importance estimates via bootstrap ensembling.
+	- The core component of CXPlain is the causal objective that enables us to optimise explanation models to learn to explain another predictive model.
 *  ***Toneva, Mariya, and Leila Wehbe. "Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)." _Advances in Neural Information Processing Systems. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1905.11833.pdf)
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems. 2019.***
@@ -373,11 +374,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTc2MDk2OSwzMjg0MTMwOTMsODY3MD
-M5MTAzLC0xNDM3OTUzOTc1LC0xOTc0MTQ1NCw5MTIyMzg0NTIs
-NTcwNzg0NjI2LC0xMzQxNTc0ODkwLDE4Mjk2MzkyMjcsMTg5Nz
-M2MDc2Niw2NjgwMDQ5MDksODg2MTc1NzA1LDIwMjc3MTU2ODYs
-MTU1NzYxMTM0MywxMDkzODk5MzM0LDIwMzk0Mzc0NzYsLTE2MT
-AxNTI1NjEsLTE2Mzc4ODM3NDQsMTE3OTgzNDY4MCwtNDUzMTE4
-NjI0XX0=
+eyJoaXN0b3J5IjpbMTA3NzYxNjYxLDMyODQxMzA5Myw4NjcwMz
+kxMDMsLTE0Mzc5NTM5NzUsLTE5NzQxNDU0LDkxMjIzODQ1Miw1
+NzA3ODQ2MjYsLTEzNDE1NzQ4OTAsMTgyOTYzOTIyNywxODk3Mz
+YwNzY2LDY2ODAwNDkwOSw4ODYxNzU3MDUsMjAyNzcxNTY4Niwx
+NTU3NjExMzQzLDEwOTM4OTkzMzQsMjAzOTQzNzQ3NiwtMTYxMD
+E1MjU2MSwtMTYzNzg4Mzc0NCwxMTc5ODM0NjgwLC00NTMxMTg2
+MjRdfQ==
 -->
