@@ -25,7 +25,8 @@
 	* [Example-based Interpretation](#example_causal)
 	* [Fairness](#fairness)
 	* [Guarantee](#guarantee)
-5. [Useful Link](#useful)
+5. [State-of-the-art and recent research](#state)
+6. [Useful Link](#useful)
 
 ## Intrinsic interpretable model <a name="intrinsic"></a>
 
@@ -311,7 +312,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTAzNDYwNiwtMTMzOTM2NzUyLDEzNT
-M4NDYzMzAsLTIwOTk3MDc3MjIsMTI5MTI4NDI5NywtODgzOTU4
-NDc2XX0=
+eyJoaXN0b3J5IjpbLTc3MzkyMjYwNywtNzAxMDM0NjA2LC0xMz
+M5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkxMjg0
+Mjk3LC04ODM5NTg0NzZdfQ==
 -->
