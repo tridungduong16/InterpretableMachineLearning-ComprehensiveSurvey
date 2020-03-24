@@ -323,7 +323,8 @@ sensitive attribute referenced in the example were different?
 ### Evaluation methods:
 ### Challenges:
 ### Others, state-of-the-art and recent research: <a name="state"></a>
-* ***
+* ***Rudin, Cynthia. "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead." _Nature Machine Intelligence_ 1.5 (2019): 206-215.***
+	- [Paper Link](https://arxiv.org/pdf/1811.10154.pdf)
  * ***Kim, Wonjae, and Yoonho Lee. Learning Dynamics of Attention: Human Prior for Interpretable Machine Reasoning.  Advances in Neural Information Processing Systems 2019***
 	 - [Paper Link](https://arxiv.org/pdf/1905.11666.pdf)
  *  ***Heo, Juyeon, Sunghwan Joo, and Taesup Moon. "Fooling neural network interpretations via adversarial model manipulation." _Advances in Neural Information Processing Systems. 2019.***
@@ -368,11 +369,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI5NTg2NjYsNTcwNzg0NjI2LC0xMz
-QxNTc0ODkwLDE4Mjk2MzkyMjcsMTg5NzM2MDc2Niw2NjgwMDQ5
-MDksODg2MTc1NzA1LDIwMjc3MTU2ODYsMTU1NzYxMTM0MywxMD
-kzODk5MzM0LDIwMzk0Mzc0NzYsLTE2MTAxNTI1NjEsLTE2Mzc4
-ODM3NDQsMTE3OTgzNDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNC
-wtNzAxMDM0NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5
-OTcwNzcyMl19
+eyJoaXN0b3J5IjpbOTEyMjM4NDUyLDU3MDc4NDYyNiwtMTM0MT
+U3NDg5MCwxODI5NjM5MjI3LDE4OTczNjA3NjYsNjY4MDA0OTA5
+LDg4NjE3NTcwNSwyMDI3NzE1Njg2LDE1NTc2MTEzNDMsMTA5Mz
+g5OTMzNCwyMDM5NDM3NDc2LC0xNjEwMTUyNTYxLC0xNjM3ODgz
+NzQ0LDExNzk4MzQ2ODAsLTQ1MzExODYyNCwzNDkzMTMyMzQsLT
+cwMTAzNDYwNiwtMTMzOTM2NzUyLDEzNTM4NDYzMzAsLTIwOTk3
+MDc3MjJdfQ==
 -->
