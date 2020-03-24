@@ -121,9 +121,9 @@ descent-based optimization to learn flexible representations and enable flexible
 * ***Tan, Sarah, et al. "Distill-and-compare: Auditing black-box models using transparent model distillation." _Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society_. 2018***
 	- [Paper Link](https://arxiv.org/abs/1710.06169)
 * ***Lakkaraju, Himabindu, et al. "Interpretable & explorable approximations of black box models." _arXiv preprint arXiv:1707.01154_ (2017).***
-	- [Paper Link]()
+	- [Paper Link](https://arxiv.org/pdf/1707.01154.pdf)
 * ***Mishra, Saumitra, Bob L. Sturm, and Simon Dixon. "Local Interpretable Model-Agnostic Explanations for Music Content Analysis." _ISMIR_. 2017.***
-	- [Paper Link]()
+	- [Paper Link](https://www.eecs.qmul.ac.uk/~simond/pub/2017/MishraSturmDixon-ISMIR2017.pdf)
 * ***Deng, H. "Interpreting tree ensembles with intrees (2014)." _arXiv preprint arXiv:1408.5456_.***
 	- [Paper Link]()
 * ***Hara, Satoshi, and Kohei Hayashi. "Making tree ensembles interpretable: A Bayesian model selection approach." _arXiv preprint arXiv:1606.09066_ (2016).***
@@ -333,8 +333,8 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTgzNDY4MCwtNDUzMTE4NjI0LDM0OT
-MxMzIzNCwtNzAxMDM0NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMz
-MCwtMjA5OTcwNzcyMiwxMjkxMjg0Mjk3LC04ODM5NTg0NzZdfQ
-==
+eyJoaXN0b3J5IjpbMjE0Njk5NTMxOSwxMTc5ODM0NjgwLC00NT
+MxMTg2MjQsMzQ5MzEzMjM0LC03MDEwMzQ2MDYsLTEzMzkzNjc1
+MiwxMzUzODQ2MzMwLC0yMDk5NzA3NzIyLDEyOTEyODQyOTcsLT
+g4Mzk1ODQ3Nl19
 -->
