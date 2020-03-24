@@ -74,6 +74,7 @@ models with state-of-the-art accuracy.
 ### Rule-based classifiers: <a name="rule"></a>
 * ***Wang, Tong. "Multi-value rule sets for interpretable classification with feature-efficient representations." _Advances in Neural Information Processing Systems_. 2018.***
 	- [Paper Link](http://papers.nips.cc/paper/8281-multi-value-rule-sets-for-interpretable-classification-with-feature-efficient-representations.pdf)
+	- 
 ### Attention mechanism: <a name="attention"></a>	
 * ***Arik, Sercan O., and Tomas Pfister. "TabNet: Attentive Interpretable Tabular Learning." arXiv preprint arXiv:1908.07442 (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1908.07442.pdf)
@@ -382,11 +383,10 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTE2MjE4NiwtMjk0NzgxMTI2LC01OD
-g0MzY1OCwyMjgzNTYyNTEsNDY1NTYxNzMsOTY1MTExMzU0LDMy
-ODQxMzA5Myw4NjcwMzkxMDMsLTE0Mzc5NTM5NzUsLTE5NzQxND
-U0LDkxMjIzODQ1Miw1NzA3ODQ2MjYsLTEzNDE1NzQ4OTAsMTgy
-OTYzOTIyNywxODk3MzYwNzY2LDY2ODAwNDkwOSw4ODYxNzU3MD
-UsMjAyNzcxNTY4NiwxNTU3NjExMzQzLDEwOTM4OTkzMzRdfQ==
-
+eyJoaXN0b3J5IjpbLTI3NDY1NDg1LC05ODUxNjIxODYsLTI5ND
+c4MTEyNiwtNTg4NDM2NTgsMjI4MzU2MjUxLDQ2NTU2MTczLDk2
+NTExMTM1NCwzMjg0MTMwOTMsODY3MDM5MTAzLC0xNDM3OTUzOT
+c1LC0xOTc0MTQ1NCw5MTIyMzg0NTIsNTcwNzg0NjI2LC0xMzQx
+NTc0ODkwLDE4Mjk2MzkyMjcsMTg5NzM2MDc2Niw2NjgwMDQ5MD
+ksODg2MTc1NzA1LDIwMjc3MTU2ODYsMTU1NzYxMTM0M119
 -->
