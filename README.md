@@ -125,7 +125,7 @@ descent-based optimization to learn flexible representations and enable flexible
 * ***Mishra, Saumitra, Bob L. Sturm, and Simon Dixon. "Local Interpretable Model-Agnostic Explanations for Music Content Analysis." _ISMIR_. 2017.***
 	- [Paper Link](https://www.eecs.qmul.ac.uk/~simond/pub/2017/MishraSturmDixon-ISMIR2017.pdf)
 * ***Deng, H. "Interpreting tree ensembles with intrees (2014)." _arXiv preprint arXiv:1408.5456_.***
-	- [Paper Link]()
+	- [Paper Link](https://arxiv.org/pdf/1408.5456.pdf)
 * ***Hara, Satoshi, and Kohei Hayashi. "Making tree ensembles interpretable: A Bayesian model selection approach." _arXiv preprint arXiv:1606.09066_ (2016).***
 	- [Paper link](http://proceedings.mlr.press/v84/hara18a.html)
 	- Presents the usage of two models (simple and complex) being the former the one in charge of interpretation and the latter of prediction by means of Expectation-Maximization and Kullback-Leibler divergence.
@@ -333,8 +333,8 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0Njk5NTMxOSwxMTc5ODM0NjgwLC00NT
-MxMTg2MjQsMzQ5MzEzMjM0LC03MDEwMzQ2MDYsLTEzMzkzNjc1
-MiwxMzUzODQ2MzMwLC0yMDk5NzA3NzIyLDEyOTEyODQyOTcsLT
-g4Mzk1ODQ3Nl19
+eyJoaXN0b3J5IjpbLTEwNDMzODE4MTksMTE3OTgzNDY4MCwtND
+UzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0NjA2LC0xMzM5MzY3
+NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkxMjg0Mjk3LC
+04ODM5NTg0NzZdfQ==
 -->
