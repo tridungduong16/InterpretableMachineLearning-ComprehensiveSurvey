@@ -103,7 +103,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Source code](https://github.com/suinleelab/attributionpriors)
 	- Model priors transfer information from humans to a model by constraining the model’s parameters
 	- Demonstrate the broad applicability of attribution priors (Ω) by presentingthree distinct examples that regularize models to behave more intuitively in three different domains.
-	- 
+	- Encode meaningful domain knowledge as differentiable functions of feature attributions
 	
 * ***Wang, Tong, and Qihang Lin. "Hybrid predictive model: When an interpretable model collaborates with a black-box model." _arXiv preprint arXiv:1905.04241_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1905.04241.pdf)
@@ -387,7 +387,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ4MzA4MywtMjc0NjU0ODUsLTk4NT
+eyJoaXN0b3J5IjpbLTE5NTEyMDM4MSwtMjc0NjU0ODUsLTk4NT
 E2MjE4NiwtMjk0NzgxMTI2LC01ODg0MzY1OCwyMjgzNTYyNTEs
 NDY1NTYxNzMsOTY1MTExMzU0LDMyODQxMzA5Myw4NjcwMzkxMD
 MsLTE0Mzc5NTM5NzUsLTE5NzQxNDU0LDkxMjIzODQ1Miw1NzA3
