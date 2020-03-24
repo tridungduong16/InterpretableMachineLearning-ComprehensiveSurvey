@@ -304,7 +304,8 @@ sensitive attribute referenced in the example were different?
 * ***Chen, Chaofan, et al. "This looks like that: deep learning for interpretable image recognition." _Advances in Neural Information Processing Systems. 2019.***
 *  ***Hooker, Sara, et al. "A benchmark for interpretability methods in deep neural networks." _Advances in Neural Information Processing Systems. 2019.***
 * ***Schwab, Patrick, and Walter Karlen. "CXPlain: Causal explanations for model interpretation under uncertainty." _Advances in Neural Information Processing Systems. 2019.***
-* 
+*  ***Toneva, Mariya, and Leila Wehbe. "Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)." _Advances in Neural Information Processing Systems. 2019.***
+* ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems. 2019.***
 ### Ideas - Potential Research Gap
 * Counterfactual in Recommendation System
 * Economic decision making
@@ -320,7 +321,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDcyNTY1NywtNzAxMDM0NjA2LC0xMz
-M5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkxMjg0
-Mjk3LC04ODM5NTg0NzZdfQ==
+eyJoaXN0b3J5IjpbMzQ5MzEzMjM0LC03MDEwMzQ2MDYsLTEzMz
+kzNjc1MiwxMzUzODQ2MzMwLC0yMDk5NzA3NzIyLDEyOTEyODQy
+OTcsLTg4Mzk1ODQ3Nl19
 -->
