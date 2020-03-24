@@ -315,15 +315,15 @@ sensitive attribute referenced in the example were different?
 	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
 ### Evaluation methods:
 ### Challenges:
-
+	
 
 ### State-of-the-art and recent research: <a name="state"></a>
  * ***Kim, Wonjae, and Yoonho Lee. Learning Dynamics of Attention: Human Prior for Interpretable Machine Reasoning.  Advances in Neural Information Processing Systems 2019***
-	 - [Paper Link]()
+	 - [Paper Link](https://arxiv.org/pdf/1905.11666.pdf)
  *  ***Heo, Juyeon, Sunghwan Joo, and Taesup Moon. "Fooling neural network interpretations via adversarial model manipulation." _Advances in Neural Information Processing Systems. 2019.***
-	 - [Paper Link]()
+	 - [Paper Link](https://arxiv.org/pdf/1902.02041.pdf)
 * ***Wu, Chieh, et al. "Solving Interpretable Kernel Dimensionality Reduction." _Advances in Neural Information Processing Systems. 2019.***
-	- [Paper Link]()
+	- [Paper Link](https://arxiv.org/pdf/1909.03093.pdf)
 * ***Chen, Chaofan, et al. "This looks like that: deep learning for interpretable image recognition." _Advances in Neural Information Processing Systems. 2019.***
 	- [Paper Link]()
 *  ***Hooker, Sara, et al. "A benchmark for interpretability methods in deep neural networks." _Advances in Neural Information Processing Systems. 2019.***
@@ -355,7 +355,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTc0Mjg0NiwtMTYxMDE1MjU2MSwtMT
+eyJoaXN0b3J5IjpbLTUwNjAzODY5NywtMTYxMDE1MjU2MSwtMT
 YzNzg4Mzc0NCwxMTc5ODM0NjgwLC00NTMxMTg2MjQsMzQ5MzEz
 MjM0LC03MDEwMzQ2MDYsLTEzMzkzNjc1MiwxMzUzODQ2MzMwLC
 0yMDk5NzA3NzIyLDEyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
