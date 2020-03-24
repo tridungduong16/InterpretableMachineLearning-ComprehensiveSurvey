@@ -119,8 +119,9 @@ descent-based optimization to learn flexible representations and enable flexible
 * ***Tan, Sarah, et al. "Distill-and-compare: Auditing black-box models using transparent model distillation." _Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society_. 2018***
 	- [Paper Link](https://arxiv.org/abs/1710.06169)
 * ***Lakkaraju, Himabindu, et al. "Interpretable & explorable approximations of black box models." _arXiv preprint arXiv:1707.01154_ (2017).***
+	- [Paper Link]()
 * ***Mishra, Saumitra, Bob L. Sturm, and Simon Dixon. "Local Interpretable Model-Agnostic Explanations for Music Content Analysis." _ISMIR_. 2017.***
-* 
+	- [Paper Link]()
 * ***Deng, H. "Interpreting tree ensembles with intrees (2014)." _arXiv preprint arXiv:1408.5456_.***
 	- [Paper Link]()
 * ***Hara, Satoshi, and Kohei Hayashi. "Making tree ensembles interpretable: A Bayesian model selection approach." _arXiv preprint arXiv:1606.09066_ (2016).***
@@ -143,7 +144,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Paper Link](http://www.jmlr.org/papers/volume11/strumbelj10a/strumbelj10a.pdf)
 * ***Chen, Hugh, Scott Lundberg, and Su-In Lee. "Explaining Models by Propagating Shapley Values of Local Components." _arXiv preprint arXiv:1911.11888_ (2019).***
 * ***Auret, Lidia, and Chris Aldrich. "Interpretation of nonlinear relationships between process variables by use of random forests." _Minerals Engineering_ 35 (2012): 27-42.***
-
+	- [Paper Link]()
 ### Local Explanations: <a name="local"></a>
 * ***Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "" Why should i trust you?" Explaining the predictions of any classifier." _Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining_. 2016.***
 	- [Paper Link](https://arxiv.org/pdf/1602.04938.pdf)
@@ -155,7 +156,8 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 	- An extension of LIME using decision rules as local interpretable classifier cl is presented. The Anchor f uses a bandit algorithm that randomly constructs the anchors with the highest coverage and respecting a user-specified precision threshold. An anchor explanation is a decision rule that sufficiently tie a prediction locally such that changes to the rest of the features values do not matter, i.e., similar instances covered by the same anchor have the same prediction outcome. Anchor is applied on tabular, images and textual datasets. Reference [110] is an antecedent of Anchor for tabular data only. It adopts a simulated annealing approach that randomly grows, shrinks, or replaces nodes in an expression tree (the comprehensible local predictor cl ). It was meant to return black box decision in forms of “programs.”
 
 * ***Guidotti, Riccardo, et al. "Local rule-based explanations of black box decision systems." _arXiv preprint arXiv:1805.10820_ (2018).***
-A recent proposal that overcomes both LIME and Anchor in terms of performance and clarityvof the explanations is LORE (LOcal Rule-based Explanations) [37]. LORE implements function f by learning a local interpretable predictor cl on a synthetic neighborhood generated through a genetic algorithm approach. Then, it derives from the logic of cl , represented by a decision tree, an explanation e consisting of: a decision rule explaining the reasons of the decision, and a set of counterfactual rules, suggesting the changes in the instance’s features that lead to a different outcome
+	- [Paper Link]()
+	-  A recent proposal that overcomes both LIME and Anchor in terms of performance and clarityvof the explanations is LORE (LOcal Rule-based Explanations) [37]. LORE implements function f by learning a local interpretable predictor cl on a synthetic neighborhood generated through a genetic algorithm approach. Then, it derives from the logic of cl , represented by a decision tree, an explanation e consisting of: a decision rule explaining the reasons of the decision, and a set of counterfactual rules, suggesting the changes in the instance’s features that lead to a different outcome
 
 
 
@@ -328,8 +330,8 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjU5NTcwNiwtNDUzMTE4NjI0LDM0OT
-MxMzIzNCwtNzAxMDM0NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMz
-MCwtMjA5OTcwNzcyMiwxMjkxMjg0Mjk3LC04ODM5NTg0NzZdfQ
-==
+eyJoaXN0b3J5IjpbLTE0NTk1NjQzNDksLTQ1MzExODYyNCwzND
+kzMTMyMzQsLTcwMTAzNDYwNiwtMTMzOTM2NzUyLDEzNTM4NDYz
+MzAsLTIwOTk3MDc3MjIsMTI5MTI4NDI5NywtODgzOTU4NDc2XX
+0=
 -->
