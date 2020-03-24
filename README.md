@@ -99,7 +99,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- Model priors transfer information from humans to a model by constraining the model’s parameters
 	- Model attributions transfer information from amodel to humans by explaining the model’s behavior. 
 * ***Wang, Tong, and Qihang Lin. "Hybrid predictive model: When an interpretable model collaborates with a black-box model." _arXiv preprint arXiv:1905.04241_ (2019).***
-	- [Paper Link]()
+	- [Paper Link](https://arxiv.org/pdf/1905.04241.pdf)
 * ***Pan, Danqing, Tong Wang, and Satoshi Hara. "Interpretable Companions for Black-Box Models." _arXiv preprint arXiv:2002.03494_ (2020).***
 	- [Paper Link](https://arxiv.org/pdf/2002.03494.pdf)
 	- The companion model is trained from data and the predictions of the black-box model, with the objective combining area under the transparency-accuracy curve and model complexity.
@@ -286,6 +286,7 @@ utilize causal reasoning to address the fairness problem by asking the question 
 causal data generating process?" instead of "What should be the fairness criterion?"
 
 * ***Zhang, Junzhe, and Elias Bareinboim. "Fairness in decision-making—the causal explanation formula." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.***
+	- [Paper Link]()
 	- propose a metric (i.e., causal explanations) to quantitatively
 measure the fairness of an algorithm. This measure
 is based on three measures of transmission from cause to
@@ -326,6 +327,7 @@ sensitive attribute referenced in the example were different?
 *  ***Ghorbani, Amirata, et al. "Towards automatic concept-based explanations." _Advances in Neural Information Processing Systems_. 2019.***
 * ***Ignatiev, Alexey, Nina Narodytska, and Joao Marques-Silva. "On Relating Explanations and Adversarial Examples." _Advances in Neural Information Processing Systems_. 2019.***
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems_. 2019.***
+	- [Paper Link]()
 ### Ideas - Potential Research Gap
 * Counterfactual in Recommendation System
 * Economic decision making
@@ -341,7 +343,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzA5MjI4OCwtMTYzNzg4Mzc0NCwxMT
+eyJoaXN0b3J5IjpbLTQ3MjIyMzU4NSwtMTYzNzg4Mzc0NCwxMT
 c5ODM0NjgwLC00NTMxMTg2MjQsMzQ5MzEzMjM0LC03MDEwMzQ2
 MDYsLTEzMzkzNjc1MiwxMzUzODQ2MzMwLC0yMDk5NzA3NzIyLD
 EyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
