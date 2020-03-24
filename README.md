@@ -155,6 +155,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Source code](https://github.com/marcotcr/lime)
 	- often use simple linear models as the student model
 to produce a local interpretable approximation to the otherwise complex black-box model.
+	- build alocally interpretable model (a linear model in LIME, and patternsin aLIME) in the newly generated neighborhood of a test instance;the local model is then used as the local explanation. In both LIMEand aLIME, random perturbation is used to generate the neigh-bors
 * ***Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "Anchors: High-precision model-agnostic explanations." _Thirty-Second AAAI Conference on Artificial Intelligence_. 2018.***
 	- [Paper Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982/15850)
 	- An extension of LIME using decision rules as local interpretable classifier cl is presented. The Anchor f uses a bandit algorithm that randomly constructs the anchors with the highest coverage and respecting a user-specified precision threshold. An anchor explanation is a decision rule that sufficiently tie a prediction locally such that changes to the rest of the features values do not matter, i.e., similar instances covered by the same anchor have the same prediction outcome. Anchor is applied on tabular, images and textual datasets. Reference [110] is an antecedent of Anchor for tabular data only. It adopts a simulated annealing approach that randomly grows, shrinks, or replaces nodes in an expression tree (the comprehensible local predictor cl ). It was meant to return black box decision in forms of “programs.”
@@ -357,9 +358,9 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzYxMTM0MywxMDkzODk5MzM0LDIwMz
-k0Mzc0NzYsLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDQsMTE3OTgz
-NDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0NjA2LC
-0xMzM5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkx
-Mjg0Mjk3LC04ODM5NTg0NzZdfQ==
+eyJoaXN0b3J5IjpbMjAyNzcxNTY4NiwxNTU3NjExMzQzLDEwOT
+M4OTkzMzQsMjAzOTQzNzQ3NiwtMTYxMDE1MjU2MSwtMTYzNzg4
+Mzc0NCwxMTc5ODM0NjgwLC00NTMxMTg2MjQsMzQ5MzEzMjM0LC
+03MDEwMzQ2MDYsLTEzMzkzNjc1MiwxMzUzODQ2MzMwLC0yMDk5
+NzA3NzIyLDEyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
 -->
