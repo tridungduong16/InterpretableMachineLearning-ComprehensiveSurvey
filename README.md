@@ -301,6 +301,9 @@ sensitive attribute referenced in the example were different?
  * ***Kim, Wonjae, and Yoonho Lee. Learning Dynamics of Attention: Human Prior for Interpretable Machine Reasoning.  Advances in Neural Information Processing Systems. 2019. ***
  *  ***Heo, Juyeon, Sunghwan Joo, and Taesup Moon. "Fooling neural network interpretations via adversarial model manipulation." _Advances in Neural Information Processing Systems. 2019.***
 * ***Wu, Chieh, et al. "Solving Interpretable Kernel Dimensionality Reduction." _Advances in Neural Information Processing Systems. 2019.***
+* ***Chen, Chaofan, et al. "This looks like that: deep learning for interpretable image recognition." _Advances in Neural Information Processing Systems. 2019.***
+*  ***Hooker, Sara, et al. "A benchmark for interpretability methods in deep neural networks." _Advances in Neural Information Processing Systems. 2019.***
+* ***Schwab, Patrick, and Walter Karlen. "CXPlain: Causal explanations for model interpretation under uncertainty." _Advances in Neural Information Processing Systems. 2019.***
 * 
 ### Ideas - Potential Research Gap
 * Counterfactual in Recommendation System
@@ -317,7 +320,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Nzk4MTUzNywtNzAxMDM0NjA2LC0xMz
+eyJoaXN0b3J5IjpbMTA5NDcyNTY1NywtNzAxMDM0NjA2LC0xMz
 M5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkxMjg0
 Mjk3LC04ODM5NTg0NzZdfQ==
 -->
