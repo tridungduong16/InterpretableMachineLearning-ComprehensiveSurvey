@@ -281,7 +281,7 @@ They are designed based on a new type of conditional probability <a href="https:
 	- CACE is defined as the causal effect of a concept (such as the brightness or an object in the image) on the prediction. In order to generate counterfactuals, authors leverage a VAE-based architecture. 
 * ***Liu, Shusen, et al. "Generative counterfactual introspection for explainable deep learning." arXiv preprint arXiv:1907.03077 (2019).***
 	- [Paper  Link](https://arxiv.org/pdf/1907.03077.pdf)
-	- propose a generative model to generate counterfactual explanations for explaining a model’s decisions
+	- propose a generative model to generate counterfactual explanations for explaining a model’s decisions.
 ### Fairness: <a name="fairness"></a>
 Counterfactual fairnessis a notion of fairness derived from Pearl’s causal model, which considers a model is fair if for a par-ticular individual or group its prediction in the realworld is the same as that in the counterfactual worldwhere the individual(s) had belonged to a differ-ent demographic group.
 * ***Kusner, Matt J., et al. "Counterfactual fairness." _Advances in Neural Information Processing Systems_. 2017.***
@@ -341,7 +341,6 @@ sensitive attribute referenced in the example were different?
 	- Train causal explanation (CXPlain) models that learn to estimate to what degree certain inputs cause outputs in another machine-learning model. 
 	- CXPlain can, once trained, be used to explain the target model in little time, and enables the quantification of the uncertainty associated with its feature importance estimates via bootstrap ensembling.
 	- The core component of CXPlain is the causal objective that enables us to optimise explanation models to learn to explain another predictive model.
-	- 
 *  ***Toneva, Mariya, and Leila Wehbe. "Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)." _Advances in Neural Information Processing Systems. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1905.11833.pdf)
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems. 2019.***
@@ -375,11 +374,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1MTExMzU0LDMyODQxMzA5Myw4NjcwMz
-kxMDMsLTE0Mzc5NTM5NzUsLTE5NzQxNDU0LDkxMjIzODQ1Miw1
-NzA3ODQ2MjYsLTEzNDE1NzQ4OTAsMTgyOTYzOTIyNywxODk3Mz
-YwNzY2LDY2ODAwNDkwOSw4ODYxNzU3MDUsMjAyNzcxNTY4Niwx
-NTU3NjExMzQzLDEwOTM4OTkzMzQsMjAzOTQzNzQ3NiwtMTYxMD
-E1MjU2MSwtMTYzNzg4Mzc0NCwxMTc5ODM0NjgwLC00NTMxMTg2
-MjRdfQ==
+eyJoaXN0b3J5IjpbNDY1NTYxNzMsOTY1MTExMzU0LDMyODQxMz
+A5Myw4NjcwMzkxMDMsLTE0Mzc5NTM5NzUsLTE5NzQxNDU0LDkx
+MjIzODQ1Miw1NzA3ODQ2MjYsLTEzNDE1NzQ4OTAsMTgyOTYzOT
+IyNywxODk3MzYwNzY2LDY2ODAwNDkwOSw4ODYxNzU3MDUsMjAy
+NzcxNTY4NiwxNTU3NjExMzQzLDEwOTM4OTkzMzQsMjAzOTQzNz
+Q3NiwtMTYxMDE1MjU2MSwtMTYzNzg4Mzc0NCwxMTc5ODM0Njgw
+XX0=
 -->
