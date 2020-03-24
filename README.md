@@ -205,7 +205,8 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 
 * ***Harradon, Michael, Jeff Druce, and Brian Ruttenberg. "Causal learning and explanation of deep neural networks via autoencoded activations." _arXiv preprint arXiv:1802.00541_ (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1802.00541.pdf)
-	- suggest that in order to have an effective interpretability, having a human-understandable causal model of DNN, which allows different kinds of causal interventions, is necessary. Based on this hypothesis, the authors propose an interpretability framework, which extracts human understandable concepts such as eyes and ears of a cat from deep neural networks, learns the causal structure between the input, output and these concepts in an SCM and performs causal reasoning on it to gain more insights into the model.
+	- suggest that in order to have an effective interpretability, having a human-understandable causal model of DNN, which allows different kinds of causal interventions, is necessary. 
+	- Based on this hypothesis, the authors propose an interpretability framework, which extracts human understandable concepts such as eyes and ears of a cat from deep neural networks, learns the causal structure between the input, output and these concepts in an SCM and performs causal reasoning on it to gain more insights into the model.
 * ***Chattopadhyay, Aditya, et al. "Neural network attributions: A causal perspective." _arXiv preprint arXiv:1902.02302_ (2019).***
 	- [Paper Link]()
 	- "What is the impact of the n-th filter of the m-th layer of a deep neural network on the predictions of the model?"
@@ -374,11 +375,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODQzNjU4LDIyODM1NjI1MSw0NjU1Nj
-E3Myw5NjUxMTEzNTQsMzI4NDEzMDkzLDg2NzAzOTEwMywtMTQz
-Nzk1Mzk3NSwtMTk3NDE0NTQsOTEyMjM4NDUyLDU3MDc4NDYyNi
-wtMTM0MTU3NDg5MCwxODI5NjM5MjI3LDE4OTczNjA3NjYsNjY4
-MDA0OTA5LDg4NjE3NTcwNSwyMDI3NzE1Njg2LDE1NTc2MTEzND
-MsMTA5Mzg5OTMzNCwyMDM5NDM3NDc2LC0xNjEwMTUyNTYxXX0=
+eyJoaXN0b3J5IjpbLTE0OTMxMTk1MjcsLTU4ODQzNjU4LDIyOD
+M1NjI1MSw0NjU1NjE3Myw5NjUxMTEzNTQsMzI4NDEzMDkzLDg2
+NzAzOTEwMywtMTQzNzk1Mzk3NSwtMTk3NDE0NTQsOTEyMjM4ND
+UyLDU3MDc4NDYyNiwtMTM0MTU3NDg5MCwxODI5NjM5MjI3LDE4
+OTczNjA3NjYsNjY4MDA0OTA5LDg4NjE3NTcwNSwyMDI3NzE1Nj
+g2LDE1NTc2MTEzNDMsMTA5Mzg5OTMzNCwyMDM5NDM3NDc2XX0=
 
 -->
