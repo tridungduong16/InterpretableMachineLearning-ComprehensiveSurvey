@@ -292,10 +292,14 @@ sensitive attribute referenced in the example were different?
 * ***Kim, Carolyn, and Osbert Bastani. "Learning Interpretable Models with Causal Guarantees." arXiv preprint arXiv:1901.08576 (2019).***
 	- [Paper link](https://arxiv.org/pdf/1901.08576.pdf)	
 	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
-
++
 ### Evaluation methods
 ### Challenges:
-1. 
+
+
+### State-of-the-art and recent research: <a name="state"></a>
+ * ***Kim, Wonjae, and Yoonho Lee. Learning Dynamics of Attention: Human Prior for Interpretable Machine Reasoning.  _Advances in Neural Information Processing Systems_. 2019. ***
+ * * ***Garg, Sahaj, Vincent Perot, Nicole Limtiaco, Ankur Taly, Ed H. Chi, and Alex Beutel. "Counterfactual fairness in text classification through robustness." In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, pp. 219-226. 2019.***
 
 ### Ideas - Potential Research Gap
 * Counterfactual in Recommendation System
@@ -312,7 +316,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzkyMjYwNywtNzAxMDM0NjA2LC0xMz
+eyJoaXN0b3J5IjpbMjExNTUwMzkwOSwtNzAxMDM0NjA2LC0xMz
 M5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkxMjg0
 Mjk3LC04ODM5NTg0NzZdfQ==
 -->
