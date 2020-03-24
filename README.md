@@ -203,6 +203,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 	- [Paper Link](https://arxiv.org/pdf/1802.00541.pdf)
 	- suggest that in order to have an effective interpretability, having a human-understandable causal model of DNN, which allows different kinds of causal interventions, is necessary. Based on this hypothesis, the authors propose an interpretability framework, which extracts human understandable concepts such as eyes and ears of a cat from deep neural networks, learns the causal structure between the input, output and these concepts in an SCM and performs causal reasoning on it to gain more insights into the model.
 * ***Chattopadhyay, Aditya, et al. "Neural network attributions: A causal perspective." _arXiv preprint arXiv:1902.02302_ (2019).***
+	- [Paper Link]()
 	- "What is the impact of the n-th filter of the m-th layer of a deep neural network on the predictions of the model?"
 	- These frameworks are mainly designed to explain the importance of each component of a deep neural network on its predictions by answering counterfactual questions such as "What would have happened to the output of the model had we had a different component in the model?".
 	- These types of questions are answered by borrowing some concepts from the causal inference literature.
@@ -296,7 +297,7 @@ effect namely counterfactual direct (Ctf-DE), indirect (Ctf-
 IE), and spurious (Ctf-SE) effects
 
 * ***Chiappa, Silvia. "Path-specific counterfactual fairness." In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, pp. 7801-7808. 2019.***
-	- [Paper Link]((https://www.aaai.org/ojs/index.php/AAAI/article/download/4777/4655))
+	- [Paper Link](https://www.aaai.org/ojs/index.php/AAAI/article/download/4777/4655)
 
 * ***Russell, Chris, Matt J. Kusner, Joshua Loftus, and Ricardo Silva. "When worlds collide: integrating different counterfactual assumptions in fairness." In Advances in Neural Information Processing Systems, pp. 6414-6423. 2017.***
 	- [Paper Link](http://papers.nips.cc/paper/7220-when-worlds-collide-integrating-different-counterfactual-assumptions-in-fairness.pdf)
@@ -315,8 +316,6 @@ sensitive attribute referenced in the example were different?
 	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
 ### Evaluation methods:
 ### Challenges:
-	
-
 ### State-of-the-art and recent research: <a name="state"></a>
  * ***Kim, Wonjae, and Yoonho Lee. Learning Dynamics of Attention: Human Prior for Interpretable Machine Reasoning.  Advances in Neural Information Processing Systems 2019***
 	 - [Paper Link](https://arxiv.org/pdf/1905.11666.pdf)
@@ -355,7 +354,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjAzODY5NywtMTYxMDE1MjU2MSwtMT
+eyJoaXN0b3J5IjpbMjAzOTQzNzQ3NiwtMTYxMDE1MjU2MSwtMT
 YzNzg4Mzc0NCwxMTc5ODM0NjgwLC00NTMxMTg2MjQsMzQ5MzEz
 MjM0LC03MDEwMzQ2MDYsLTEzMzkzNjc1MiwxMzUzODQ2MzMwLC
 0yMDk5NzA3NzIyLDEyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
