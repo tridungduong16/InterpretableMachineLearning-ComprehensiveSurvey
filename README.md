@@ -160,11 +160,11 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 	- build alocally interpretable model (a linear model in LIME, and patternsin aLIME) in the newly generated neighborhood of a test instance;the local model is then used as the local explanation. In both LIMEand aLIME, random perturbation is used to generate the neigh-bors
 * ***Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "Anchors: High-precision model-agnostic explanations." _Thirty-Second AAAI Conference on Artificial Intelligence_. 2018.***
 	- [Paper Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982/15850)
-	- An extension of LIME using decision rules as local interpretable classifier cl is presented. The Anchor f uses a bandit algorithm that randomly constructs the anchors with the highest coverage and respecting a user-specified precision threshold. An anchor explanation is a decision rule that sufficiently tie a prediction locally such that changes to the rest of the features values do not matter, i.e., similar instances covered by the same anchor have the same prediction outcome. Anchor is applied on tabular, images and textual datasets. Reference [110] is an antecedent of Anchor for tabular data only. It adopts a simulated annealing approach that randomly grows, shrinks, or replaces nodes in an expression tree (the comprehensible local predictor cl ). It was meant to return black box decision in forms of “programs.”
+	- An extension of LIME using decision rules as local interpretable classifier cl is presented. The Anchor f uses a bandit algorithm that randomly constructs the anchors with the highest coverage and respecting a user-specified precision threshold. An anchor explanation is a decision rule that sufficiently tie a prediction locally such that changes to the rest of the features values do not matter, i.e., similar instances covered by the same anchor have the same prediction outcome. Anchor is applied on tabular, images and textual datasets. 
 
 * ***Guidotti, Riccardo, et al. "Local rule-based explanations of black box decision systems." _arXiv preprint arXiv:1805.10820_ (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1805.10820.pdf)
-	-  A recent proposal that overcomes both LIME and Anchor in terms of performance and clarityvof the explanations is LORE (LOcal Rule-based Explanations) [37]. LORE implements function f by learning a local interpretable predictor cl on a synthetic neighborhood generated through a genetic algorithm approach. Then, it derives from the logic of cl , represented by a decision tree, an explanation e consisting of: a decision rule explaining the reasons of the decision, and a set of counterfactual rules, suggesting the changes in the instance’s features that lead to a different outcome
+	-  A recent proposal that overcomes both LIME and Anchor in terms of performance and clarityvof the explanations is LORE (LOcal Rule-based Explanations). LORE implements function f by learning a local interpretable predictor cl on a synthetic neighborhood generated through a genetic algorithm approach. Then, it derives from the logic of cl , represented by a decision tree, an explanation e consisting of: a decision rule explaining the reasons of the decision, and a set of counterfactual rules, suggesting the changes in the instance’s features that lead to a different outcome
 
 
 
@@ -374,11 +374,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NTYxNzMsOTY1MTExMzU0LDMyODQxMz
-A5Myw4NjcwMzkxMDMsLTE0Mzc5NTM5NzUsLTE5NzQxNDU0LDkx
-MjIzODQ1Miw1NzA3ODQ2MjYsLTEzNDE1NzQ4OTAsMTgyOTYzOT
-IyNywxODk3MzYwNzY2LDY2ODAwNDkwOSw4ODYxNzU3MDUsMjAy
-NzcxNTY4NiwxNTU3NjExMzQzLDEwOTM4OTkzMzQsMjAzOTQzNz
-Q3NiwtMTYxMDE1MjU2MSwtMTYzNzg4Mzc0NCwxMTc5ODM0Njgw
-XX0=
+eyJoaXN0b3J5IjpbMjI4MzU2MjUxLDQ2NTU2MTczLDk2NTExMT
+M1NCwzMjg0MTMwOTMsODY3MDM5MTAzLC0xNDM3OTUzOTc1LC0x
+OTc0MTQ1NCw5MTIyMzg0NTIsNTcwNzg0NjI2LC0xMzQxNTc0OD
+kwLDE4Mjk2MzkyMjcsMTg5NzM2MDc2Niw2NjgwMDQ5MDksODg2
+MTc1NzA1LDIwMjc3MTU2ODYsMTU1NzYxMTM0MywxMDkzODk5Mz
+M0LDIwMzk0Mzc0NzYsLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDRd
+fQ==
 -->
