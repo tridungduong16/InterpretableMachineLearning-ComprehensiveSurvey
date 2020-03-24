@@ -211,8 +211,10 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 	- Generates counterfactual explanations using shapely additive explanations (SHAP).
 	
 *  ***Zhao, Qingyuan, and Trevor Hastie. "Causal interpretations of black-box models." Journal of Business & Economic Statistics (2019): 1-10.***
+	- [Paper Link](https://web.stanford.edu/~hastie/Papers/pdp_zhao.pdf)
 	- state that to extract the causal interpretations from black-box models, one needs a model with good predictive performance, domain knowledge in the form of a causal graph, and an appropriate visualization tool.
 *  ***Martínez, Álvaro Parafita, and Jordi Vitrià Marca. "Explaining Visual Models by Causal Attribution." 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW). IEEE, 2019.***
+	- [Paper Link](https://arxiv.org/abs/1909.08891)
 	- introduce a causal attribution framework to explain decisions of a classifier based on the latent factors. The framework consists of three steps:
 		+ constructing Distributional Causal Graph which allows us to sample and compute likelihoods of the samples
 		+ generating a counterfactual image which is as similar as possible to the original image
@@ -236,7 +238,7 @@ They are designed based on a new type of conditional probability <a href="https:
 	- Propose to reweigh the distance between the features of an instance and its corresponding counterfactual with the inverse median absolute deviation.
 
 * ***Kanehira, Atsushi, et al. "Multimodal explanations by predicting counterfactuality in videos." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.***
-	- [Paper Link]()
+	- [Paper Link](https://arxiv.org/pdf/1812.01263.pdf)
 
 * ***Hendricks, Lisa Anne, et al. "Generating counterfactual explanations with natural language." arXiv preprint arXiv:1806.09809 (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1806.09809.pdf)
@@ -337,7 +339,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDUzMzA5NywtMTYzNzg4Mzc0NCwxMT
+eyJoaXN0b3J5IjpbMTQ0NjkzNDQ4MywtMTYzNzg4Mzc0NCwxMT
 c5ODM0NjgwLC00NTMxMTg2MjQsMzQ5MzEzMjM0LC03MDEwMzQ2
 MDYsLTEzMzkzNjc1MiwxMzUzODQ2MzMwLC0yMDk5NzA3NzIyLD
 EyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
