@@ -67,7 +67,7 @@ models with state-of-the-art accuracy.
 *  ***Kim, Been, Cynthia Rudin, and Julie A. Shah. "The bayesian case model: A generative approach for case-based reasoning and prototype classification." Advances in Neural Information Processing Systems. 2014.***
 	- [Paper Link](https://beenkim.github.io/papers/KimRudinShahNIPS2014.pdf)
 * ***Darwen, Paul J. "Bayesian model averaging for river flow prediction." Applied Intelligence 49.1 (2019): 103-111.***
-
+	- [Paper Link](https://link.springer.com/content/pdf/10.1007/s10489-018-1232-0.pdf)
 
 
 ### Rule-based classifiers: <a name="rule"></a>
@@ -365,10 +365,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTYzOTIyNywxODk3MzYwNzY2LDY2OD
-AwNDkwOSw4ODYxNzU3MDUsMjAyNzcxNTY4NiwxNTU3NjExMzQz
-LDEwOTM4OTkzMzQsMjAzOTQzNzQ3NiwtMTYxMDE1MjU2MSwtMT
-YzNzg4Mzc0NCwxMTc5ODM0NjgwLC00NTMxMTg2MjQsMzQ5MzEz
-MjM0LC03MDEwMzQ2MDYsLTEzMzkzNjc1MiwxMzUzODQ2MzMwLC
-0yMDk5NzA3NzIyLDEyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
+eyJoaXN0b3J5IjpbLTEzNDE1NzQ4OTAsMTgyOTYzOTIyNywxOD
+k3MzYwNzY2LDY2ODAwNDkwOSw4ODYxNzU3MDUsMjAyNzcxNTY4
+NiwxNTU3NjExMzQzLDEwOTM4OTkzMzQsMjAzOTQzNzQ3NiwtMT
+YxMDE1MjU2MSwtMTYzNzg4Mzc0NCwxMTc5ODM0NjgwLC00NTMx
+MTg2MjQsMzQ5MzEzMjM0LC03MDEwMzQ2MDYsLTEzMzkzNjc1Mi
+wxMzUzODQ2MzMwLC0yMDk5NzA3NzIyLDEyOTEyODQyOTcsLTg4
+Mzk1ODQ3Nl19
 -->
