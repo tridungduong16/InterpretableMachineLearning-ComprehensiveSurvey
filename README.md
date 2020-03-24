@@ -170,6 +170,10 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 
 * ***Lucic, Ana, Hinda Haned, and Maarten de Rijke. "Explaining Predictions from Tree-based Boosting Ensembles." _arXiv preprint arXiv:1907.02582_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1907.02582.pdf)
+	- Most existing methods for counterfactual explanations are 
+		* model-agnostic, so they do not take into account the structure of the original model
+		* involve building a surrogate model on top of the original model, which is not guaranteed to represent the original model accurately.
+
 * ***Jia, Yunzhe, et al. "Improving the Quality of Explanations with Local Embedding Perturbations." _Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_. 2019.***
 	- [Paper Link](https://people.eng.unimelb.edu.au/baileyj/papers/KDD2019.pdf)
 	- propose a local intrinsic dimensionality (LID) based locality constraint. Based on this, we then propose a new neighborhood generation method. Our method first fits a local embedding/subspace around a given instance using the LID of the test instance as the target dimensionality, then generates neighbors in the local embedding and projects them back to the original space. 
@@ -378,11 +382,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDc4MTEyNiwtNTg4NDM2NTgsMjI4Mz
-U2MjUxLDQ2NTU2MTczLDk2NTExMTM1NCwzMjg0MTMwOTMsODY3
-MDM5MTAzLC0xNDM3OTUzOTc1LC0xOTc0MTQ1NCw5MTIyMzg0NT
-IsNTcwNzg0NjI2LC0xMzQxNTc0ODkwLDE4Mjk2MzkyMjcsMTg5
-NzM2MDc2Niw2NjgwMDQ5MDksODg2MTc1NzA1LDIwMjc3MTU2OD
-YsMTU1NzYxMTM0MywxMDkzODk5MzM0LDIwMzk0Mzc0NzZdfQ==
+eyJoaXN0b3J5IjpbLTk4NTE2MjE4NiwtMjk0NzgxMTI2LC01OD
+g0MzY1OCwyMjgzNTYyNTEsNDY1NTYxNzMsOTY1MTExMzU0LDMy
+ODQxMzA5Myw4NjcwMzkxMDMsLTE0Mzc5NTM5NzUsLTE5NzQxND
+U0LDkxMjIzODQ1Miw1NzA3ODQ2MjYsLTEzNDE1NzQ4OTAsMTgy
+OTYzOTIyNywxODk3MzYwNzY2LDY2ODAwNDkwOSw4ODYxNzU3MD
+UsMjAyNzcxNTY4NiwxNTU3NjExMzQzLDEwOTM4OTkzMzRdfQ==
 
 -->
