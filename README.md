@@ -357,18 +357,18 @@ sensitive attribute referenced in the example were different?
 
 ## Useful Links <a name="useful"></a>:
 1. On Model Explainability [Link](https://everdark.github.io/k9/notebooks/ml/model_explain/model_explain.nb.html#7_explainable_boosting_machine)
-
-
+2. http://www.cs.cornell.edu/~adith/B-exam.pdf
+3. https://www.accenture.com/us-en/blogs/technology-innovation/costabello-mcgrath-ai-counterfactual-explanations
 
 ## Authors
 
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4MDA0OTA5LDg4NjE3NTcwNSwyMDI3Nz
-E1Njg2LDE1NTc2MTEzNDMsMTA5Mzg5OTMzNCwyMDM5NDM3NDc2
-LC0xNjEwMTUyNTYxLC0xNjM3ODgzNzQ0LDExNzk4MzQ2ODAsLT
-Q1MzExODYyNCwzNDkzMTMyMzQsLTcwMTAzNDYwNiwtMTMzOTM2
-NzUyLDEzNTM4NDYzMzAsLTIwOTk3MDc3MjIsMTI5MTI4NDI5Ny
-wtODgzOTU4NDc2XX0=
+eyJoaXN0b3J5IjpbMTg5NzM2MDc2Niw2NjgwMDQ5MDksODg2MT
+c1NzA1LDIwMjc3MTU2ODYsMTU1NzYxMTM0MywxMDkzODk5MzM0
+LDIwMzk0Mzc0NzYsLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDQsMT
+E3OTgzNDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0
+NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMi
+wxMjkxMjg0Mjk3LC04ODM5NTg0NzZdfQ==
 -->
