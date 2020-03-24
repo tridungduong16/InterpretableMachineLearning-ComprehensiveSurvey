@@ -273,9 +273,11 @@ They are designed based on a new type of conditional probability <a href="https:
 * ***Liu, Shusen, et al. "Generative counterfactual introspection for explainable deep learning." arXiv preprint arXiv:1907.03077 (2019).***
 	- [Paper Link]()
 * ***Goyal, Yash, Uri Shalit, and Been Kim. "Explaining Classifiers with Causal Concept Effect (CaCE)." arXiv preprint arXiv:1907.07165 (2019).***
+	- [Paper Link](https://arxiv.org/pdf/1907.07165.pdf)
 	- propose to explain classifiers’ decisions by measuring the Causal Concept Effect (CACE). 
 	- CACE is defined as the causal effect of a concept (such as the brightness or an object in the image) on the prediction. In order to generate counterfactuals, authors leverage a VAE-based architecture. 
 * ***Liu, Shusen, et al. "Generative counterfactual introspection for explainable deep learning." arXiv preprint arXiv:1907.03077 (2019).***
+	- [Paper  Link](https://arxiv.org/pdf/1907.03077.pdf)
 	- propose a generative model to generate counterfactual explanations for explaining a model’s decisions
 ### Fairness: <a name="fairness"></a>
 Counterfactual fairnessis a notion of fairness derived from Pearl’s causal model, which considers a model is fair if for a par-ticular individual or group its prediction in the realworld is the same as that in the counterfactual worldwhere the individual(s) had belonged to a differ-ent demographic group.
@@ -355,9 +357,9 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Mzg5OTMzNCwyMDM5NDM3NDc2LC0xNj
-EwMTUyNTYxLC0xNjM3ODgzNzQ0LDExNzk4MzQ2ODAsLTQ1MzEx
-ODYyNCwzNDkzMTMyMzQsLTcwMTAzNDYwNiwtMTMzOTM2NzUyLD
-EzNTM4NDYzMzAsLTIwOTk3MDc3MjIsMTI5MTI4NDI5NywtODgz
-OTU4NDc2XX0=
+eyJoaXN0b3J5IjpbLTM1OTY5NjI5MCwxMDkzODk5MzM0LDIwMz
+k0Mzc0NzYsLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDQsMTE3OTgz
+NDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0NjA2LC
+0xMzM5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkx
+Mjg0Mjk3LC04ODM5NTg0NzZdfQ==
 -->
