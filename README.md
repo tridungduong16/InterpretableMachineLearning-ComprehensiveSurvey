@@ -282,6 +282,7 @@ Counterfactual fairnessis a notion of fairness derived from Pearl’s causal mod
 	- the actual world 
 	- a counterfactual world where the individual belonged to a different demographic group.
 * ***Kilbertus, Niki, et al. "Avoiding discrimination through causal reasoning." Advances in Neural Information Processing Systems. 2017.***
+	- [Paper Link](https://arxiv.org/pdf/1706.02744.pdf)
 	- address the problem from a data generation perspective by going beyond observational data. The authors propose to
 utilize causal reasoning to address the fairness problem by asking the question "What do we need to assume about the
 causal data generating process?" instead of "What should be the fairness criterion?"
@@ -338,7 +339,7 @@ sensitive attribute referenced in the example were different?
 * ***Ignatiev, Alexey, Nina Narodytska, and Joao Marques-Silva. "On Relating Explanations and Adversarial Examples." _Advances in Neural Information Processing Systems_. 2019.***
 	- [Paper Link]()
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems_. 2019.***
-	- [Paper Link]()
+	- [Paper Link](https://arxiv.org/pdf/1903.03894.pdf)
 ### Ideas - Potential Research Gap
 * Counterfactual in Recommendation System
 * Economic decision making
@@ -354,8 +355,8 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDQsMT
-E3OTgzNDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0
-NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMi
-wxMjkxMjg0Mjk3LC04ODM5NTg0NzZdfQ==
+eyJoaXN0b3J5IjpbMjUzMDgwODU1LC0xNjEwMTUyNTYxLC0xNj
+M3ODgzNzQ0LDExNzk4MzQ2ODAsLTQ1MzExODYyNCwzNDkzMTMy
+MzQsLTcwMTAzNDYwNiwtMTMzOTM2NzUyLDEzNTM4NDYzMzAsLT
+IwOTk3MDc3MjIsMTI5MTI4NDI5NywtODgzOTU4NDc2XX0=
 -->
