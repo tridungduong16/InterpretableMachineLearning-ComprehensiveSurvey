@@ -101,7 +101,7 @@ descent-based optimization to learn flexible representations and enable flexible
 * ***Wang, Tong, and Qihang Lin. "Hybrid predictive model: When an interpretable model collaborates with a black-box model." _arXiv preprint arXiv:1905.04241_ (2019).***
 	- [Paper Link]()
 * ***Pan, Danqing, Tong Wang, and Satoshi Hara. "Interpretable Companions for Black-Box Models." _arXiv preprint arXiv:2002.03494_ (2020).***
-	- [Paper Link]()
+	- [Paper Link](https://arxiv.org/pdf/2002.03494.pdf)
 	- The companion model is trained from data and the predictions of the black-box model, with the objective combining area under the transparency-accuracy curve and model complexity.
 
 
@@ -176,8 +176,9 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 * ***Kim, Been, Rajiv Khanna, and Oluwasanmi O. Koyejo. "Examples are not enough, learn to criticize! criticism for interpretability." Advances in neural information processing systems. 2016.***
 	- [Paper Link](https://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability.pdf)
 * ***Goudet, Olivier, et al. "Learning functional causal models with generative neural networks." Explainable and Interpretable Models in Computer Vision and Machine Learning. Springer, Cham, 2018. 39-80.***
+	- [Paper Link]()
 * ***Lopez-Paz, David, et al. "Discovering causal signals in images." _Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition_. 2017.***
-
+	- [Paper Link]()
 ### Others: <a name="other_agnostic"></a>
 * ***Afrabandpey, Homayun, et al. "Making Bayesian Predictive Models Interpretable: A Decision Theoretic Approach." _arXiv preprint arXiv:1910.09358_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1910.09358.pdf)
@@ -206,6 +207,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 	- These types of questions are answered by borrowing some concepts from the causal inference literature.
 
 * ***Besserve, Michel, Rémy Sun, and Bernhard Schölkopf. "Counterfactuals uncover the modular structure of deep generative models." _arXiv preprint arXiv:1812.03253_ (2018).***
+	- [Paper Link]()
 * ***Rathi, Shubham. "Generating counterfactual and contrastive explanations using SHAP." arXiv preprint arXiv:1906.09293 (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1906.09293.pdf)
 	- Generates counterfactual explanations using shapely additive explanations (SHAP).
@@ -339,7 +341,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjkzNDQ4MywtMTYzNzg4Mzc0NCwxMT
+eyJoaXN0b3J5IjpbMTc0NzA5MjI4OCwtMTYzNzg4Mzc0NCwxMT
 c5ODM0NjgwLC00NTMxMTg2MjQsMzQ5MzEzMjM0LC03MDEwMzQ2
 MDYsLTEzMzkzNjc1MiwxMzUzODQ2MzMwLC0yMDk5NzA3NzIyLD
 EyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
