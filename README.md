@@ -319,13 +319,21 @@ sensitive attribute referenced in the example were different?
  * ***Kim, Wonjae, and Yoonho Lee. Learning Dynamics of Attention: Human Prior for Interpretable Machine Reasoning.  Advances in Neural Information Processing Systems 2019***
  *  ***Heo, Juyeon, Sunghwan Joo, and Taesup Moon. "Fooling neural network interpretations via adversarial model manipulation." _Advances in Neural Information Processing Systems. 2019.***
 * ***Wu, Chieh, et al. "Solving Interpretable Kernel Dimensionality Reduction." _Advances in Neural Information Processing Systems. 2019.***
+	- [
 * ***Chen, Chaofan, et al. "This looks like that: deep learning for interpretable image recognition." _Advances in Neural Information Processing Systems. 2019.***
+	- [Paper Link]()
 *  ***Hooker, Sara, et al. "A benchmark for interpretability methods in deep neural networks." _Advances in Neural Information Processing Systems. 2019.***
+	- [Paper Link]()
 * ***Schwab, Patrick, and Walter Karlen. "CXPlain: Causal explanations for model interpretation under uncertainty." _Advances in Neural Information Processing Systems. 2019.***
+	- [Paper Link]()
 *  ***Toneva, Mariya, and Leila Wehbe. "Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)." _Advances in Neural Information Processing Systems. 2019.***
+	- [Paper Link]()
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems. 2019.***
+	- [Paper Link]()
 *  ***Ghorbani, Amirata, et al. "Towards automatic concept-based explanations." _Advances in Neural Information Processing Systems_. 2019.***
+	- [Paper Link]()
 * ***Ignatiev, Alexey, Nina Narodytska, and Joao Marques-Silva. "On Relating Explanations and Adversarial Examples." _Advances in Neural Information Processing Systems_. 2019.***
+	- [Paper Link]()
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems_. 2019.***
 	- [Paper Link]()
 ### Ideas - Potential Research Gap
@@ -343,8 +351,8 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjIyMzU4NSwtMTYzNzg4Mzc0NCwxMT
-c5ODM0NjgwLC00NTMxMTg2MjQsMzQ5MzEzMjM0LC03MDEwMzQ2
-MDYsLTEzMzkzNjc1MiwxMzUzODQ2MzMwLC0yMDk5NzA3NzIyLD
-EyOTEyODQyOTcsLTg4Mzk1ODQ3Nl19
+eyJoaXN0b3J5IjpbLTE4ODYyMDM2MjMsLTE2Mzc4ODM3NDQsMT
+E3OTgzNDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0
+NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMi
+wxMjkxMjg0Mjk3LC04ODM5NTg0NzZdfQ==
 -->
