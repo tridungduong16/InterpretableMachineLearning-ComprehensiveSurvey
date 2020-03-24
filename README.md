@@ -172,7 +172,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 	- [Paper Link](https://arxiv.org/pdf/1907.02582.pdf)
 * ***Jia, Yunzhe, et al. "Improving the Quality of Explanations with Local Embedding Perturbations." _Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_. 2019.***
 	- [Paper Link](https://people.eng.unimelb.edu.au/baileyj/papers/KDD2019.pdf)
-	- propose a local intrinsic dimensional-ity (LID) based locality constraint. Based on this, we then propose anew neighborhood generation method. Our method first fits a localembedding/subspace around a given instance using the LID of thetest instance as the target dimensionality, then generates neighborsin the local embedding and projects them back to the original space. 
+	- propose a local intrinsic dimensionality (LID) based locality constraint. Based on this, we then propose a new neighborhood generation method. Our method first fits a local embedding/subspace around a given instance using the LID of the test instance as the target dimensionality, then generates neighbors in the local embedding and projects them back to the original space. 
 ### Example-based explantions: <a name="example_agnostic"></a>
 * ***Wachter, Sandra, Brent Mittelstadt, and Chris Russell. "Counterfactual explanations without opening the black box: Automated decisions and the GDPR." _Harv. JL & Tech._ 31 (2017): 841.***
 	- [Paper Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
@@ -374,11 +374,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4MzU2MjUxLDQ2NTU2MTczLDk2NTExMT
-M1NCwzMjg0MTMwOTMsODY3MDM5MTAzLC0xNDM3OTUzOTc1LC0x
-OTc0MTQ1NCw5MTIyMzg0NTIsNTcwNzg0NjI2LC0xMzQxNTc0OD
-kwLDE4Mjk2MzkyMjcsMTg5NzM2MDc2Niw2NjgwMDQ5MDksODg2
-MTc1NzA1LDIwMjc3MTU2ODYsMTU1NzYxMTM0MywxMDkzODk5Mz
-M0LDIwMzk0Mzc0NzYsLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDRd
-fQ==
+eyJoaXN0b3J5IjpbLTU4ODQzNjU4LDIyODM1NjI1MSw0NjU1Nj
+E3Myw5NjUxMTEzNTQsMzI4NDEzMDkzLDg2NzAzOTEwMywtMTQz
+Nzk1Mzk3NSwtMTk3NDE0NTQsOTEyMjM4NDUyLDU3MDc4NDYyNi
+wtMTM0MTU3NDg5MCwxODI5NjM5MjI3LDE4OTczNjA3NjYsNjY4
+MDA0OTA5LDg4NjE3NTcwNSwyMDI3NzE1Njg2LDE1NTc2MTEzND
+MsMTA5Mzg5OTMzNCwyMDM5NDM3NDc2LC0xNjEwMTUyNTYxXX0=
+
 -->
