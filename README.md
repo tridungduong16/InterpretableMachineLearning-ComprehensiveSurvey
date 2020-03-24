@@ -97,15 +97,18 @@ descent-based optimization to learn flexible representations and enable flexible
 	- Model priors transfer information from humans to a model by constraining the model’s parameters
 	- Model attributions transfer information from amodel to humans by explaining the model’s behavior. 
 * ***Wang, Tong, and Qihang Lin. "Hybrid predictive model: When an interpretable model collaborates with a black-box model." _arXiv preprint arXiv:1905.04241_ (2019).***
+	- [Paper Link]()
 * ***Pan, Danqing, Tong Wang, and Satoshi Hara. "Interpretable Companions for Black-Box Models." _arXiv preprint arXiv:2002.03494_ (2020).***
+	- [Paper Link]()
 	- The companion model is trained from data and the predictions of the black-box model, with the objective combining area under the transparency-accuracy curve and model complexity.
 
 
 ## Model-Specific Explanation Methods <a name="specify"></a>:
 ### Knowledge distillation <a name="distillation"></a>:
 * ***Hinton, Geoffrey, Oriol Vinyals, and Jeff Dean. "Distilling the knowledge in a neural network." arXiv preprint arXiv:1503.02531 (2015).***
+	- [Paper Link]()
 * ***Frosst, Nicholas, and Geoffrey Hinton. "Distilling a neural network into a soft decision tree." arXiv preprint arXiv:1711.09784 (2017).***
-
+	- [Paper Link]()
 ## Model-Agnostic <a name="agnostic"></a> :
 ### Explanation by simplification: <a name="simple"></a>
 * ***Bastani, Osbert, Carolyn Kim, and Hamsa Bastani. "Interpretability via model extraction." _arXiv preprint arXiv:1706.09773_ (2017).***
@@ -117,7 +120,9 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Paper Link](https://arxiv.org/abs/1710.06169)
 * ***Lakkaraju, Himabindu, et al. "Interpretable & explorable approximations of black box models." _arXiv preprint arXiv:1707.01154_ (2017).***
 * ***Mishra, Saumitra, Bob L. Sturm, and Simon Dixon. "Local Interpretable Model-Agnostic Explanations for Music Content Analysis." _ISMIR_. 2017.***
+* 
 * ***Deng, H. "Interpreting tree ensembles with intrees (2014)." _arXiv preprint arXiv:1408.5456_.***
+	- [Paper Link]()
 * ***Hara, Satoshi, and Kohei Hayashi. "Making tree ensembles interpretable: A Bayesian model selection approach." _arXiv preprint arXiv:1606.09066_ (2016).***
 	- [Paper link](http://proceedings.mlr.press/v84/hara18a.html)
 	- Presents the usage of two models (simple and complex) being the former the one in charge of interpretation and the latter of prediction by means of Expectation-Maximization and Kullback-Leibler divergence.
@@ -323,7 +328,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTI3NzgzOCwtNDUzMTE4NjI0LDM0OT
+eyJoaXN0b3J5IjpbLTM2NjU5NTcwNiwtNDUzMTE4NjI0LDM0OT
 MxMzIzNCwtNzAxMDM0NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMz
 MCwtMjA5OTcwNzcyMiwxMjkxMjg0Mjk3LC04ODM5NTg0NzZdfQ
 ==
