@@ -287,7 +287,7 @@ utilize causal reasoning to address the fairness problem by asking the question 
 causal data generating process?" instead of "What should be the fairness criterion?"
 
 * ***Zhang, Junzhe, and Elias Bareinboim. "Fairness in decision-making—the causal explanation formula." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.***
-	- [Paper Link]()
+	- [Paper Link](https://www.cs.purdue.edu/homes/eb/r30.pdf)
 	- propose a metric (i.e., causal explanations) to quantitatively
 measure the fairness of an algorithm. This measure
 is based on three measures of transmission from cause to
@@ -354,7 +354,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc0NjI2MTMsLTE2Mzc4ODM3NDQsMT
+eyJoaXN0b3J5IjpbLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDQsMT
 E3OTgzNDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0
 NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMi
 wxMjkxMjg0Mjk3LC04ODM5NTg0NzZdfQ==
