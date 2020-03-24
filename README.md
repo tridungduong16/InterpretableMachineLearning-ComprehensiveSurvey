@@ -93,6 +93,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Paper Link]()
 ### Others: <a name="other_model"></a>
 * ***Ross, Andrew Slavin, Michael C. Hughes, and Finale Doshi-Velez. "Right for the right reasons: Training differentiable models by constraining their explanations." _arXiv preprint arXiv:1703.03717_ (2017).***
+	- [Paper Link](https://arxiv.org/pdf/1703.03717.pdf)
 * ***Erion, Gabriel, et al. "Learning explainable models using attribution priors." _arXiv preprint arXiv:1906.10670_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1906.10670.pdf)
 	- [Source code](https://github.com/suinleelab/attributionpriors)
@@ -353,8 +354,8 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4MzkzODExLC0xNjM3ODgzNzQ0LDExNz
-k4MzQ2ODAsLTQ1MzExODYyNCwzNDkzMTMyMzQsLTcwMTAzNDYw
-NiwtMTMzOTM2NzUyLDEzNTM4NDYzMzAsLTIwOTk3MDc3MjIsMT
-I5MTI4NDI5NywtODgzOTU4NDc2XX0=
+eyJoaXN0b3J5IjpbLTE3MTc0NjI2MTMsLTE2Mzc4ODM3NDQsMT
+E3OTgzNDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0
+NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMi
+wxMjkxMjg0Mjk3LC04ODM5NTg0NzZdfQ==
 -->
