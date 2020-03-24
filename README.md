@@ -124,6 +124,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Paper Link](https://arxiv.org/abs/1710.06169)
 * ***Lakkaraju, Himabindu, et al. "Interpretable & explorable approximations of black box models." _arXiv preprint arXiv:1707.01154_ (2017).***
 	- [Paper Link](https://arxiv.org/pdf/1707.01154.pdf)
+	- To this end, we develop a novel objective functionwhich allows us to learn (with optimality guarantees), a small num-ber of compactdecision setseach of which explains the behaviorof the black box model in unambiguous, well-defined regions offeature space
 * ***Mishra, Saumitra, Bob L. Sturm, and Simon Dixon. "Local Interpretable Model-Agnostic Explanations for Music Content Analysis." _ISMIR_. 2017.***
 	- [Paper Link](https://www.eecs.qmul.ac.uk/~simond/pub/2017/MishraSturmDixon-ISMIR2017.pdf)
 * ***Deng, H. "Interpreting tree ensembles with intrees (2014)." _arXiv preprint arXiv:1408.5456_.***
@@ -366,11 +367,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwNzg0NjI2LC0xMzQxNTc0ODkwLDE4Mj
-k2MzkyMjcsMTg5NzM2MDc2Niw2NjgwMDQ5MDksODg2MTc1NzA1
-LDIwMjc3MTU2ODYsMTU1NzYxMTM0MywxMDkzODk5MzM0LDIwMz
-k0Mzc0NzYsLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDQsMTE3OTgz
-NDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0NjA2LC
-0xMzM5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkx
-Mjg0Mjk3XX0=
+eyJoaXN0b3J5IjpbLTIwMTkxODMzMjgsNTcwNzg0NjI2LC0xMz
+QxNTc0ODkwLDE4Mjk2MzkyMjcsMTg5NzM2MDc2Niw2NjgwMDQ5
+MDksODg2MTc1NzA1LDIwMjc3MTU2ODYsMTU1NzYxMTM0MywxMD
+kzODk5MzM0LDIwMzk0Mzc0NzYsLTE2MTAxNTI1NjEsLTE2Mzc4
+ODM3NDQsMTE3OTgzNDY4MCwtNDUzMTE4NjI0LDM0OTMxMzIzNC
+wtNzAxMDM0NjA2LC0xMzM5MzY3NTIsMTM1Mzg0NjMzMCwtMjA5
+OTcwNzcyMl19
 -->
