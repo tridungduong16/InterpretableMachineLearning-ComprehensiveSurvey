@@ -352,7 +352,6 @@ sensitive attribute referenced in the example were different?
 * The link between econometric and machine learning model
 * Focus on Counterfactual Explanation
 * Try to answer that "Why" question
-* Focus on counterfactual explanation
 * Causal inference
 
 
@@ -366,10 +365,10 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI2NTg3NTUsODg2MTc1NzA1LDIwMj
-c3MTU2ODYsMTU1NzYxMTM0MywxMDkzODk5MzM0LDIwMzk0Mzc0
-NzYsLTE2MTAxNTI1NjEsLTE2Mzc4ODM3NDQsMTE3OTgzNDY4MC
-wtNDUzMTE4NjI0LDM0OTMxMzIzNCwtNzAxMDM0NjA2LC0xMzM5
-MzY3NTIsMTM1Mzg0NjMzMCwtMjA5OTcwNzcyMiwxMjkxMjg0Mj
-k3LC04ODM5NTg0NzZdfQ==
+eyJoaXN0b3J5IjpbNjY4MDA0OTA5LDg4NjE3NTcwNSwyMDI3Nz
+E1Njg2LDE1NTc2MTEzNDMsMTA5Mzg5OTMzNCwyMDM5NDM3NDc2
+LC0xNjEwMTUyNTYxLC0xNjM3ODgzNzQ0LDExNzk4MzQ2ODAsLT
+Q1MzExODYyNCwzNDkzMTMyMzQsLTcwMTAzNDYwNiwtMTMzOTM2
+NzUyLDEzNTM4NDYzMzAsLTIwOTk3MDc3MjIsMTI5MTI4NDI5Ny
+wtODgzOTU4NDc2XX0=
 -->
