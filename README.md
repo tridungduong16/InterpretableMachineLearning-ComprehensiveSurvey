@@ -96,8 +96,7 @@ descent-based optimization to learn flexible representations and enable flexible
 ### Others: <a name="other_model"></a>
 * ***Ross, Andrew Slavin, Michael C. Hughes, and Finale Doshi-Velez. "Right for the right reasons: Training differentiable models by constraining their explanations." _arXiv preprint arXiv:1703.03717_ (2017).***
 	- [Paper Link](https://arxiv.org/pdf/1703.03717.pdf)
-	- Introduce amethod for efficiently explaining and regularizing differentiable models by examining and selectively penalizing their input gradients.
-	- 
+	- Introduce a method for efficiently explaining and regularizing differentiable models by examining and selectively penalizing their input gradients.
 * ***Erion, Gabriel, et al. "Learning explainable models using attribution priors." _arXiv preprint arXiv:1906.10670_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1906.10670.pdf)
 	- [Source code](https://github.com/suinleelab/attributionpriors)
@@ -392,11 +391,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxNjAwNjM1LDEyMTY1MzM5MjYsMTE0ND
-I2NjE2LC0xNDg0NTExNTA3LC0yNzQ2NTQ4NSwtOTg1MTYyMTg2
-LC0yOTQ3ODExMjYsLTU4ODQzNjU4LDIyODM1NjI1MSw0NjU1Nj
-E3Myw5NjUxMTEzNTQsMzI4NDEzMDkzLDg2NzAzOTEwMywtMTQz
-Nzk1Mzk3NSwtMTk3NDE0NTQsOTEyMjM4NDUyLDU3MDc4NDYyNi
-wtMTM0MTU3NDg5MCwxODI5NjM5MjI3LDE4OTczNjA3NjZdfQ==
+eyJoaXN0b3J5IjpbMTY0ODkxMTUyMCw2NjE2MDA2MzUsMTIxNj
+UzMzkyNiwxMTQ0MjY2MTYsLTE0ODQ1MTE1MDcsLTI3NDY1NDg1
+LC05ODUxNjIxODYsLTI5NDc4MTEyNiwtNTg4NDM2NTgsMjI4Mz
+U2MjUxLDQ2NTU2MTczLDk2NTExMTM1NCwzMjg0MTMwOTMsODY3
+MDM5MTAzLC0xNDM3OTUzOTc1LC0xOTc0MTQ1NCw5MTIyMzg0NT
+IsNTcwNzg0NjI2LC0xMzQxNTc0ODkwLDE4Mjk2MzkyMjddfQ==
 
 -->
