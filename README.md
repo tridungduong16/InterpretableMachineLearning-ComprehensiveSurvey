@@ -366,6 +366,7 @@ sensitive attribute referenced in the example were different?
 	- [Paper Link](https://papers.nips.cc/paper/9717-on-relating-explanations-and-adversarial-examples.pdf)
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems_. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1903.03894.pdf)
+	- ***model-agnostic approach*** for providing inter-pretable explanations for predictions of any GNN-based model on any graph-basedmachine learning task.
 ### Ideas - Potential Research Gap
 * Counterfactual in 
 	- Recommendation System
@@ -389,10 +390,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDI2NjE2LC0xNDg0NTExNTA3LC0yNz
-Q2NTQ4NSwtOTg1MTYyMTg2LC0yOTQ3ODExMjYsLTU4ODQzNjU4
-LDIyODM1NjI1MSw0NjU1NjE3Myw5NjUxMTEzNTQsMzI4NDEzMD
-kzLDg2NzAzOTEwMywtMTQzNzk1Mzk3NSwtMTk3NDE0NTQsOTEy
-MjM4NDUyLDU3MDc4NDYyNiwtMTM0MTU3NDg5MCwxODI5NjM5Mj
-I3LDE4OTczNjA3NjYsNjY4MDA0OTA5LDg4NjE3NTcwNV19
+eyJoaXN0b3J5IjpbMTI2OTcxNDc2NywxMTQ0MjY2MTYsLTE0OD
+Q1MTE1MDcsLTI3NDY1NDg1LC05ODUxNjIxODYsLTI5NDc4MTEy
+NiwtNTg4NDM2NTgsMjI4MzU2MjUxLDQ2NTU2MTczLDk2NTExMT
+M1NCwzMjg0MTMwOTMsODY3MDM5MTAzLC0xNDM3OTUzOTc1LC0x
+OTc0MTQ1NCw5MTIyMzg0NTIsNTcwNzg0NjI2LC0xMzQxNTc0OD
+kwLDE4Mjk2MzkyMjcsMTg5NzM2MDc2Niw2NjgwMDQ5MDldfQ==
+
 -->
