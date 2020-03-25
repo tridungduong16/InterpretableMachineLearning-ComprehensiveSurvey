@@ -367,6 +367,7 @@ sensitive attribute referenced in the example were different?
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems_. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1903.03894.pdf)
 	- ***model-agnostic approach*** for providing inter-pretable explanations for predictions of any GNN-based model on any graph-basedmachine learning task.
+	- GNNEXPLAINER as an optimization task that maximizes the mutual information between a GNN’s predic-tion and distribution of possible subgraph structures
 ### Ideas - Potential Research Gap
 * Counterfactual in 
 	- Recommendation System
@@ -390,7 +391,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTcxNDc2NywxMTQ0MjY2MTYsLTE0OD
+eyJoaXN0b3J5IjpbMTIxNjUzMzkyNiwxMTQ0MjY2MTYsLTE0OD
 Q1MTE1MDcsLTI3NDY1NDg1LC05ODUxNjIxODYsLTI5NDc4MTEy
 NiwtNTg4NDM2NTgsMjI4MzU2MjUxLDQ2NTU2MTczLDk2NTExMT
 M1NCwzMjg0MTMwOTMsODY3MDM5MTAzLC0xNDM3OTUzOTc1LC0x
