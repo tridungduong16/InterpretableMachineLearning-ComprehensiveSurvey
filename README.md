@@ -121,7 +121,7 @@ descent-based optimization to learn flexible representations and enable flexible
 ## Model-Agnostic <a name="agnostic"></a> :
 ### Explanation by simplification: <a name="simple"></a>
 * ***Bastani, Osbert, Carolyn Kim, and Hamsa Bastani. "Interpretability via model extraction." _arXiv preprint arXiv:1706.09773_ (2017).***
-	- [Paper Link](https://arxiv.org/abs/1706.09773):
+	- [Paper Link](https://arxiv.org/abs/1706.09773)
 	- The authors formulate model simplification as a model extraction process by approximating a transparent model to the complex one.
 	- Given amodel <a href="https://www.codecogs.com/eqnedit.php?latex=f&space;:&space;X&space;\rightarrow&space;Y" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f&space;:&space;X&space;\rightarrow&space;Y" title="f : X \rightarrow Y" /></a>, the interpretation produced by our algorithm is an approximation <a href="https://www.codecogs.com/eqnedit.php?latex=T(x)&space;\approx&space;f&space;(x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T(x)&space;\approx&space;f&space;(x)" title="T(x) \approx f (x)" /></a>, where T is an interpretable model.
 
@@ -391,11 +391,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODkxMTUyMCw2NjE2MDA2MzUsMTIxNj
-UzMzkyNiwxMTQ0MjY2MTYsLTE0ODQ1MTE1MDcsLTI3NDY1NDg1
-LC05ODUxNjIxODYsLTI5NDc4MTEyNiwtNTg4NDM2NTgsMjI4Mz
-U2MjUxLDQ2NTU2MTczLDk2NTExMTM1NCwzMjg0MTMwOTMsODY3
-MDM5MTAzLC0xNDM3OTUzOTc1LC0xOTc0MTQ1NCw5MTIyMzg0NT
-IsNTcwNzg0NjI2LC0xMzQxNTc0ODkwLDE4Mjk2MzkyMjddfQ==
+eyJoaXN0b3J5IjpbLTExNTY3Njc0NTQsMTY0ODkxMTUyMCw2Nj
+E2MDA2MzUsMTIxNjUzMzkyNiwxMTQ0MjY2MTYsLTE0ODQ1MTE1
+MDcsLTI3NDY1NDg1LC05ODUxNjIxODYsLTI5NDc4MTEyNiwtNT
+g4NDM2NTgsMjI4MzU2MjUxLDQ2NTU2MTczLDk2NTExMTM1NCwz
+Mjg0MTMwOTMsODY3MDM5MTAzLC0xNDM3OTUzOTc1LC0xOTc0MT
+Q1NCw5MTIyMzg0NTIsNTcwNzg0NjI2LC0xMzQxNTc0ODkwXX0=
 
 -->
