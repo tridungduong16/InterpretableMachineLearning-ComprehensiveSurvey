@@ -257,7 +257,6 @@ They are designed based on a new type of conditional probability <a href="https:
 
 * ***Kanehira, Atsushi, et al. "Multimodal explanations by predicting counterfactuality in videos." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1812.01263.pdf)
-
 * ***Hendricks, Lisa Anne, et al. "Generating counterfactual explanations with natural language." arXiv preprint arXiv:1806.09809 (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1806.09809.pdf)
 	- define a method to generate **natural language counterfactual explanations**. The framework checks for evidences of a counterfactual class in the text explanation generated for the original input. It then checks if those factors exist in the counterfactual image and returns the existing ones. 
@@ -391,7 +390,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY3Njc0NTQsMTY0ODkxMTUyMCw2Nj
+eyJoaXN0b3J5IjpbLTIwNTY5NTcxNjgsMTY0ODkxMTUyMCw2Nj
 E2MDA2MzUsMTIxNjUzMzkyNiwxMTQ0MjY2MTYsLTE0ODQ1MTE1
 MDcsLTI3NDY1NDg1LC05ODUxNjIxODYsLTI5NDc4MTEyNiwtNT
 g4NDM2NTgsMjI4MzU2MjUxLDQ2NTU2MTczLDk2NTExMTM1NCwz
