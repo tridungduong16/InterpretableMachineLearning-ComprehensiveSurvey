@@ -341,6 +341,7 @@ sensitive attribute referenced in the example were different?
 	- [Paper Link](https://arxiv.org/pdf/1811.10154.pdf)
  * ***Kim, Wonjae, and Yoonho Lee. Learning Dynamics of Attention: Human Prior for Interpretable Machine Reasoning.  Advances in Neural Information Processing Systems 2019***
 	 - [Paper Link](https://arxiv.org/pdf/1905.11666.pdf)
+	 - [Source code](https://github.com/kakao/DAFT)
  *  ***Heo, Juyeon, Sunghwan Joo, and Taesup Moon. "Fooling neural network interpretations via adversarial model manipulation." _Advances in Neural Information Processing Systems. 2019.***
 	 - [Paper Link](https://arxiv.org/pdf/1902.02041.pdf)
 * ***Wu, Chieh, et al. "Solving Interpretable Kernel Dimensionality Reduction." _Advances in Neural Information Processing Systems. 2019.***
@@ -388,11 +389,10 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ1MTE1MDcsLTI3NDY1NDg1LC05OD
-UxNjIxODYsLTI5NDc4MTEyNiwtNTg4NDM2NTgsMjI4MzU2MjUx
-LDQ2NTU2MTczLDk2NTExMTM1NCwzMjg0MTMwOTMsODY3MDM5MT
-AzLC0xNDM3OTUzOTc1LC0xOTc0MTQ1NCw5MTIyMzg0NTIsNTcw
-Nzg0NjI2LC0xMzQxNTc0ODkwLDE4Mjk2MzkyMjcsMTg5NzM2MD
-c2Niw2NjgwMDQ5MDksODg2MTc1NzA1LDIwMjc3MTU2ODZdfQ==
-
+eyJoaXN0b3J5IjpbMTE0NDI2NjE2LC0xNDg0NTExNTA3LC0yNz
+Q2NTQ4NSwtOTg1MTYyMTg2LC0yOTQ3ODExMjYsLTU4ODQzNjU4
+LDIyODM1NjI1MSw0NjU1NjE3Myw5NjUxMTEzNTQsMzI4NDEzMD
+kzLDg2NzAzOTEwMywtMTQzNzk1Mzk3NSwtMTk3NDE0NTQsOTEy
+MjM4NDUyLDU3MDc4NDYyNiwtMTM0MTU3NDg5MCwxODI5NjM5Mj
+I3LDE4OTczNjA3NjYsNjY4MDA0OTA5LDg4NjE3NTcwNV19
 -->
