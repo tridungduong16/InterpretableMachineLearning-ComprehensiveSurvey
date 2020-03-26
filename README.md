@@ -216,11 +216,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 	- [Paper Link](https://arxiv.org/pdf/1802.00541.pdf)
 	- suggest that in order to have an effective interpretability, having a human-understandable causal model of DNN, which allows different kinds of causal interventions, is necessary. 
 	- Based on this hypothesis, the authors propose an interpretability framework, which extracts human understandable concepts such as eyes and ears of a cat from deep neural networks, learns the causal structure between the input, output and these concepts in an SCM and performs causal reasoning on it to gain more insights into the model.
-* ***Chattopadhyay, Aditya, et al. "Neural network attributions: A causal perspective." _arXiv preprint arXiv:1902.02302_ (2019).***
-	- [Paper Link]()
-	- "What is the impact of the n-th filter of the m-th layer of a deep neural network on the predictions of the model?"
-	- These frameworks are mainly designed to explain the importance of each component of a deep neural network on its predictions by answering counterfactual questions such as "What would have happened to the output of the model had we had a different component in the model?".
-	- These types of questions are answered by borrowing some concepts from the causal inference literature.
+
 
 * ***Besserve, Michel, Rémy Sun, and Bernhard Schölkopf. "Counterfactuals uncover the modular structure of deep generative models." _arXiv preprint arXiv:1812.03253_ (2018).***
 	- [Paper Link]()
@@ -231,13 +227,19 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 *  ***Zhao, Qingyuan, and Trevor Hastie. "Causal interpretations of black-box models." Journal of Business & Economic Statistics (2019): 1-10.***
 	- [Paper Link](https://web.stanford.edu/~hastie/Papers/pdp_zhao.pdf)
 	- state that to extract the causal interpretations from black-box models, one needs a model with good predictive performance, domain knowledge in the form of a causal graph, and an appropriate visualization tool.
-*  ***Martínez, Álvaro Parafita, and Jordi Vitrià Marca. "Explaining Visual Models by Causal Attribution." 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW). IEEE, 2019.***
+*  ***Martínez, Álvaro Parafita, and Jordi Vitrià Marca. "Explaining Visual Models by Causal Attribution." 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW). IEEE, 2019.[81]***
 	- [Paper Link](https://arxiv.org/abs/1909.08891)
 	- introduce a causal attribution framework to explain decisions of a classifier based on the latent factors. The framework consists of three steps:
 		+ constructing Distributional Causal Graph which allows us to sample and compute likelihoods of the samples
 		+ generating a counterfactual image which is as similar as possible to the original image
 		+ estimating the effect of the modified factor by estimating the causal effect.
 
+* ***Chattopadhyay, Aditya, et al. "Neural network attributions: A causal perspective." _arXiv preprint arXiv:1902.02302_ (2019).***
+	- [Paper Link]()
+	- "What is the impact of the n-th filter of the m-th layer of a deep neural network on the predictions of the model?"
+	- These frameworks are mainly designed to explain the importance of each component of a deep neural network on its predictions by answering counterfactual questions such as "What would have happened to the output of the model had we had a different component in the model?".
+	- These types of questions are answered by borrowing some concepts from the causal inference literature.
+	- 
 *  ***Bau, David, et al. "Gan dissection: Visualizing and understanding generative adversarial networks." _arXiv preprint arXiv:1811.10597_ (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1811.10597.pdf)
 	* Causal interpretation has also gained a lot of attention in Generative Adversarial Networks (GANs) interpretability.
@@ -390,11 +392,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTY5NTcxNjgsMTY0ODkxMTUyMCw2Nj
-E2MDA2MzUsMTIxNjUzMzkyNiwxMTQ0MjY2MTYsLTE0ODQ1MTE1
-MDcsLTI3NDY1NDg1LC05ODUxNjIxODYsLTI5NDc4MTEyNiwtNT
-g4NDM2NTgsMjI4MzU2MjUxLDQ2NTU2MTczLDk2NTExMTM1NCwz
-Mjg0MTMwOTMsODY3MDM5MTAzLC0xNDM3OTUzOTc1LC0xOTc0MT
-Q1NCw5MTIyMzg0NTIsNTcwNzg0NjI2LC0xMzQxNTc0ODkwXX0=
+eyJoaXN0b3J5IjpbMTQ3NTEyNjk3MCwtMjA1Njk1NzE2OCwxNj
+Q4OTExNTIwLDY2MTYwMDYzNSwxMjE2NTMzOTI2LDExNDQyNjYx
+NiwtMTQ4NDUxMTUwNywtMjc0NjU0ODUsLTk4NTE2MjE4NiwtMj
+k0NzgxMTI2LC01ODg0MzY1OCwyMjgzNTYyNTEsNDY1NTYxNzMs
+OTY1MTExMzU0LDMyODQxMzA5Myw4NjcwMzkxMDMsLTE0Mzc5NT
+M5NzUsLTE5NzQxNDU0LDkxMjIzODQ1Miw1NzA3ODQ2MjZdfQ==
 
 -->
