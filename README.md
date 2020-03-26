@@ -136,6 +136,8 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Paper Link](https://www.eecs.qmul.ac.uk/~simond/pub/2017/MishraSturmDixon-ISMIR2017.pdf)
 * ***Deng, H. "Interpreting tree ensembles with intrees (2014)." _arXiv preprint arXiv:1408.5456_.***
 	- [Paper Link](https://arxiv.org/pdf/1408.5456.pdf)
+	- The inTrees framework extracts rules from tree ensembles by treating tradeoffs among the frequency of the rules appearing in the trees, the errors made by the predictions, and the length of the rules. The fundamental difficulty with inTrees is that its target is limited to the classification tree ensembles. Regression tree ensembles are first transformed into the classification ones by discretizing the output, and then inTrees is applied to extract the rules. The number of discretization levels remains as a tuning parameter, which severely affects the resulting rules.
+
 * ***Hara, Satoshi, and Kohei Hayashi. "Making tree ensembles interpretable: A Bayesian model selection approach." _arXiv preprint arXiv:1606.09066_ (2016).***
 	- [Paper link](http://proceedings.mlr.press/v84/hara18a.html)
 	- Presents the usage of two models (simple and complex) being the former the one in charge of interpretation and the latter of prediction by means of Expectation-Maximization and Kullback-Leibler divergence.
@@ -395,11 +397,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTYwMzQyLC0xMDg0MDE0NDM2LDI1OD
-U0NzU5MCwtMjA1Njk1NzE2OCwxNjQ4OTExNTIwLDY2MTYwMDYz
-NSwxMjE2NTMzOTI2LDExNDQyNjYxNiwtMTQ4NDUxMTUwNywtMj
-c0NjU0ODUsLTk4NTE2MjE4NiwtMjk0NzgxMTI2LC01ODg0MzY1
-OCwyMjgzNTYyNTEsNDY1NTYxNzMsOTY1MTExMzU0LDMyODQxMz
-A5Myw4NjcwMzkxMDMsLTE0Mzc5NTM5NzUsLTE5NzQxNDU0XX0=
+eyJoaXN0b3J5IjpbLTc0NTQ5NjQ4NywyMTE5NjAzNDIsLTEwOD
+QwMTQ0MzYsMjU4NTQ3NTkwLC0yMDU2OTU3MTY4LDE2NDg5MTE1
+MjAsNjYxNjAwNjM1LDEyMTY1MzM5MjYsMTE0NDI2NjE2LC0xND
+g0NTExNTA3LC0yNzQ2NTQ4NSwtOTg1MTYyMTg2LC0yOTQ3ODEx
+MjYsLTU4ODQzNjU4LDIyODM1NjI1MSw0NjU1NjE3Myw5NjUxMT
+EzNTQsMzI4NDEzMDkzLDg2NzAzOTEwMywtMTQzNzk1Mzk3NV19
 
 -->
