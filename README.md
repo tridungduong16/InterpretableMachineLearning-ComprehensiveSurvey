@@ -145,7 +145,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- Derive a Bayesian model selection algorithm that optimizes the simplified model while maintaining the prediction performance
 		* Adopt the probabilistic model for representing ensemble trees
 		* Bayesian model selection algorithm called factorized asymptotic Bayesian (FAB) inference for finding the parameters.
-	-  **Paper**: Hara, Satoshi, and Kohei Hayashi (2016) propose a probabilistic model representation for ensemble trees, and then search for optimal simple model whose their paramater by using factorized asymptotic inference (FAB). 
+	-  **Paper**: Hara, Satoshi, and Kohei Hayashi (2016) adopt a probabilistic model representation for ensemble trees, and then search for optimal simple model whose their paramater by using factorized asymptotic inference (FAB). 
 ### Feature relevance explanation: <a name="feature"></a>
 * ***Koh, Pang Wei, and Percy Liang. "Understanding black-box predictions via influence functions." _Proceedings of the 34th International Conference on Machine Learning-Volume 70_. JMLR. org, 2017.***
 	- [Paper Link](https://arxiv.org/pdf/1703.04730.pdf)
@@ -397,11 +397,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYwNjA4MTEsLTc0NTQ5NjQ4NywyMT
-E5NjAzNDIsLTEwODQwMTQ0MzYsMjU4NTQ3NTkwLC0yMDU2OTU3
-MTY4LDE2NDg5MTE1MjAsNjYxNjAwNjM1LDEyMTY1MzM5MjYsMT
-E0NDI2NjE2LC0xNDg0NTExNTA3LC0yNzQ2NTQ4NSwtOTg1MTYy
-MTg2LC0yOTQ3ODExMjYsLTU4ODQzNjU4LDIyODM1NjI1MSw0Nj
-U1NjE3Myw5NjUxMTEzNTQsMzI4NDEzMDkzLDg2NzAzOTEwM119
-
+eyJoaXN0b3J5IjpbMTU0NjM1NjE5OSwtMTMxNjA2MDgxMSwtNz
+Q1NDk2NDg3LDIxMTk2MDM0MiwtMTA4NDAxNDQzNiwyNTg1NDc1
+OTAsLTIwNTY5NTcxNjgsMTY0ODkxMTUyMCw2NjE2MDA2MzUsMT
+IxNjUzMzkyNiwxMTQ0MjY2MTYsLTE0ODQ1MTE1MDcsLTI3NDY1
+NDg1LC05ODUxNjIxODYsLTI5NDc4MTEyNiwtNTg4NDM2NTgsMj
+I4MzU2MjUxLDQ2NTU2MTczLDk2NTExMTM1NCwzMjg0MTMwOTNd
+fQ==
 -->
