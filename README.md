@@ -145,9 +145,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- Derive a Bayesian model selection algorithm that optimizes the simplified model while maintaining the prediction performance
 		* Adopt the probabilistic model for representing ensemble trees
 		* Bayesian model selection algorithm called factorized asymptotic Bayesian (FAB) inference for finding the parameters.
-	-  **Paper**: Hara, Satoshi, and Kohei Hayashi (2016) try to combine the several regions created by ensembles tree by the simpler one. In order to deal with this problem, they represent ensemble model as a probabilistic model and the find the optimal simple one with parameter optimizing by factorized asymptotic inference (FAB)
-
-adopt a probabilistic model representation for ensemble trees, and then search for optimal simple model whose their paramater by using factorized asymptotic inference (FAB). 
+	-  **Paper**: Hara, Satoshi, and Kohei Hayashi (2016) try to combine the several regions created by ensembles tree by the simpler one. In order to deal with this problem, they represent ensemble model as a probabilistic model and the find the optimal simpler one with parameters optimizing by factorized asymptotic inference (FAB)
 ### Feature relevance explanation: <a name="feature"></a>
 * ***Koh, Pang Wei, and Percy Liang. "Understanding black-box predictions via influence functions." _Proceedings of the 34th International Conference on Machine Learning-Volume 70_. JMLR. org, 2017.***
 	- [Paper Link](https://arxiv.org/pdf/1703.04730.pdf)
@@ -399,11 +397,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNTczMTQsLTEzMTYwNjA4MTEsLTc0NT
-Q5NjQ4NywyMTE5NjAzNDIsLTEwODQwMTQ0MzYsMjU4NTQ3NTkw
-LC0yMDU2OTU3MTY4LDE2NDg5MTE1MjAsNjYxNjAwNjM1LDEyMT
-Y1MzM5MjYsMTE0NDI2NjE2LC0xNDg0NTExNTA3LC0yNzQ2NTQ4
-NSwtOTg1MTYyMTg2LC0yOTQ3ODExMjYsLTU4ODQzNjU4LDIyOD
-M1NjI1MSw0NjU1NjE3Myw5NjUxMTEzNTQsMzI4NDEzMDkzXX0=
-
+eyJoaXN0b3J5IjpbLTE2OTg1MzQwNDEsLTEzMTYwNjA4MTEsLT
+c0NTQ5NjQ4NywyMTE5NjAzNDIsLTEwODQwMTQ0MzYsMjU4NTQ3
+NTkwLC0yMDU2OTU3MTY4LDE2NDg5MTE1MjAsNjYxNjAwNjM1LD
+EyMTY1MzM5MjYsMTE0NDI2NjE2LC0xNDg0NTExNTA3LC0yNzQ2
+NTQ4NSwtOTg1MTYyMTg2LC0yOTQ3ODExMjYsLTU4ODQzNjU4LD
+IyODM1NjI1MSw0NjU1NjE3Myw5NjUxMTEzNTQsMzI4NDEzMDkz
+XX0=
 -->
