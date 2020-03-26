@@ -151,6 +151,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Paper Link](https://arxiv.org/pdf/1703.04730.pdf)
 	- influence function is a measure of how strongly the model parameters or predictions depend on a training instance. Instead of deleting the instance, the method upweights the instance in the loss by a very small step. This method involves approximating the loss around the current model parameters using the gradient and Hessian matrix.
 	- **Paper**: Koh, Pang Wei, and Percy Liang try to answer the counterfactual question that how the model prediction will be changed without an training instance. Therefore, they use the influence function to approximate the paramaters when upweighting instance $z$
+	- 
 * ***Lundberg, Scott M., and Su-In Lee. "A unified approach to interpreting model predictions." _Advances in neural information processing systems_. 2017.**
 	- [Paper Link](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
 	- [Source code](https://github.com/slundberg/shap)
@@ -398,11 +399,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NzkwNTI1LC02NDYwODg4MDksLTE1ND
-g5NzIzMiwtMTMxNjA2MDgxMSwtNzQ1NDk2NDg3LDIxMTk2MDM0
-MiwtMTA4NDAxNDQzNiwyNTg1NDc1OTAsLTIwNTY5NTcxNjgsMT
-Y0ODkxMTUyMCw2NjE2MDA2MzUsMTIxNjUzMzkyNiwxMTQ0MjY2
-MTYsLTE0ODQ1MTE1MDcsLTI3NDY1NDg1LC05ODUxNjIxODYsLT
-I5NDc4MTEyNiwtNTg4NDM2NTgsMjI4MzU2MjUxLDQ2NTU2MTcz
-XX0=
+eyJoaXN0b3J5IjpbLTE2OTEwMzk1MDAsLTY0NjA4ODgwOSwtMT
+U0ODk3MjMyLC0xMzE2MDYwODExLC03NDU0OTY0ODcsMjExOTYw
+MzQyLC0xMDg0MDE0NDM2LDI1ODU0NzU5MCwtMjA1Njk1NzE2OC
+wxNjQ4OTExNTIwLDY2MTYwMDYzNSwxMjE2NTMzOTI2LDExNDQy
+NjYxNiwtMTQ4NDUxMTUwNywtMjc0NjU0ODUsLTk4NTE2MjE4Ni
+wtMjk0NzgxMTI2LC01ODg0MzY1OCwyMjgzNTYyNTEsNDY1NTYx
+NzNdfQ==
 -->
