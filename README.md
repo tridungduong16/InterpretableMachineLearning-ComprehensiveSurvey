@@ -150,7 +150,8 @@ descent-based optimization to learn flexible representations and enable flexible
 * ***Koh, Pang Wei, and Percy Liang. "Understanding black-box predictions via influence functions." _Proceedings of the 34th International Conference on Machine Learning-Volume 70_. JMLR. org, 2017.***
 	- [Paper Link](https://arxiv.org/pdf/1703.04730.pdf)
 	- influence function is a measure of how strongly the model parameters or predictions depend on a training instance. Instead of deleting the instance, the method upweights the instance in the loss by a very small step. This method involves approximating the loss around the current model parameters using the gradient and Hessian matrix.
-	- **Paper** Koh, Pang Wei, and Percy Liang propose an influence function which measures the strongly connection between the model's prediction with a training instance. 
+	- **Paper** Koh, Pang Wei, and Percy Liang try to answer the question that how the model prediction will be changed without an trai
+propose an influence function which measures the strongly connection between the model's prediction with a training instance. 
 * ***Lundberg, Scott M., and Su-In Lee. "A unified approach to interpreting model predictions." _Advances in neural information processing systems_. 2017.**
 	- [Paper Link](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
 	- [Source code](https://github.com/slundberg/shap)
@@ -398,11 +399,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg5NzIzMiwtMTMxNjA2MDgxMSwtNz
-Q1NDk2NDg3LDIxMTk2MDM0MiwtMTA4NDAxNDQzNiwyNTg1NDc1
-OTAsLTIwNTY5NTcxNjgsMTY0ODkxMTUyMCw2NjE2MDA2MzUsMT
-IxNjUzMzkyNiwxMTQ0MjY2MTYsLTE0ODQ1MTE1MDcsLTI3NDY1
-NDg1LC05ODUxNjIxODYsLTI5NDc4MTEyNiwtNTg4NDM2NTgsMj
-I4MzU2MjUxLDQ2NTU2MTczLDk2NTExMTM1NCwzMjg0MTMwOTNd
-fQ==
+eyJoaXN0b3J5IjpbLTE5ODA1NzEwMTEsLTE1NDg5NzIzMiwtMT
+MxNjA2MDgxMSwtNzQ1NDk2NDg3LDIxMTk2MDM0MiwtMTA4NDAx
+NDQzNiwyNTg1NDc1OTAsLTIwNTY5NTcxNjgsMTY0ODkxMTUyMC
+w2NjE2MDA2MzUsMTIxNjUzMzkyNiwxMTQ0MjY2MTYsLTE0ODQ1
+MTE1MDcsLTI3NDY1NDg1LC05ODUxNjIxODYsLTI5NDc4MTEyNi
+wtNTg4NDM2NTgsMjI4MzU2MjUxLDQ2NTU2MTczLDk2NTExMTM1
+NF19
 -->
