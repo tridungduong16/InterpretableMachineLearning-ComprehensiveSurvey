@@ -208,7 +208,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 * Average Causal Effect: 
 	- because casual effects vary over individuals and are not observable, they can not be measured at the individual level
 ### Model-based: <a name="base_causal"></a>
-* ***Narendra, Tanmayee, et al. "Explaining deep learning models using causal inference." _arXiv preprint arXiv:1811.04376_ (2018).***
+* ***Narendra, Tanmayee, et al. "Explaining deep learning models using causal inference." _arXiv preprint arXiv:1811.04376_ (2018). [77]***
 	- [Paper Link](https://arxiv.org/pdf/1811.04376.pdf)
 	- Consider the DNN as an structural causal model, apply a function on each filter of the model to obtain the targeted value such as variance or expected value of each filter and reason on the obtained SCM.
 
@@ -392,10 +392,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4NTQ3NTkwLC0yMDU2OTU3MTY4LDE2ND
-g5MTE1MjAsNjYxNjAwNjM1LDEyMTY1MzM5MjYsMTE0NDI2NjE2
-LC0xNDg0NTExNTA3LC0yNzQ2NTQ4NSwtOTg1MTYyMTg2LC0yOT
-Q3ODExMjYsLTU4ODQzNjU4LDIyODM1NjI1MSw0NjU1NjE3Myw5
-NjUxMTEzNTQsMzI4NDEzMDkzLDg2NzAzOTEwMywtMTQzNzk1Mz
-k3NSwtMTk3NDE0NTQsOTEyMjM4NDUyLDU3MDc4NDYyNl19
+eyJoaXN0b3J5IjpbLTEwODQwMTQ0MzYsMjU4NTQ3NTkwLC0yMD
+U2OTU3MTY4LDE2NDg5MTE1MjAsNjYxNjAwNjM1LDEyMTY1MzM5
+MjYsMTE0NDI2NjE2LC0xNDg0NTExNTA3LC0yNzQ2NTQ4NSwtOT
+g1MTYyMTg2LC0yOTQ3ODExMjYsLTU4ODQzNjU4LDIyODM1NjI1
+MSw0NjU1NjE3Myw5NjUxMTEzNTQsMzI4NDEzMDkzLDg2NzAzOT
+EwMywtMTQzNzk1Mzk3NSwtMTk3NDE0NTQsOTEyMjM4NDUyXX0=
+
 -->
