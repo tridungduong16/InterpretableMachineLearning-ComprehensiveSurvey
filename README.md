@@ -234,12 +234,12 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 		+ generating a counterfactual image which is as similar as possible to the original image
 		+ estimating the effect of the modified factor by estimating the causal effect.
 
-* ***Chattopadhyay, Aditya, et al. "Neural network attributions: A causal perspective." _arXiv preprint arXiv:1902.02302_ (2019).***
-	- [Paper Link]()
+* ***Chattopadhyay, Aditya, et al. "Neural network attributions: A causal perspective." _arXiv preprint arXiv:1902.02302_ (2019). [12]***
+	- [Paper Link](https://arxiv.org/pdf/1902.02302.pdf)
 	- "What is the impact of the n-th filter of the m-th layer of a deep neural network on the predictions of the model?"
 	- These frameworks are mainly designed to explain the importance of each component of a deep neural network on its predictions by answering counterfactual questions such as "What would have happened to the output of the model had we had a different component in the model?".
 	- These types of questions are answered by borrowing some concepts from the causal inference literature.
-	- 
+
 *  ***Bau, David, et al. "Gan dissection: Visualizing and understanding generative adversarial networks." _arXiv preprint arXiv:1811.10597_ (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1811.10597.pdf)
 	* Causal interpretation has also gained a lot of attention in Generative Adversarial Networks (GANs) interpretability.
@@ -392,11 +392,10 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTEyNjk3MCwtMjA1Njk1NzE2OCwxNj
-Q4OTExNTIwLDY2MTYwMDYzNSwxMjE2NTMzOTI2LDExNDQyNjYx
-NiwtMTQ4NDUxMTUwNywtMjc0NjU0ODUsLTk4NTE2MjE4NiwtMj
-k0NzgxMTI2LC01ODg0MzY1OCwyMjgzNTYyNTEsNDY1NTYxNzMs
-OTY1MTExMzU0LDMyODQxMzA5Myw4NjcwMzkxMDMsLTE0Mzc5NT
-M5NzUsLTE5NzQxNDU0LDkxMjIzODQ1Miw1NzA3ODQ2MjZdfQ==
-
+eyJoaXN0b3J5IjpbMjU4NTQ3NTkwLC0yMDU2OTU3MTY4LDE2ND
+g5MTE1MjAsNjYxNjAwNjM1LDEyMTY1MzM5MjYsMTE0NDI2NjE2
+LC0xNDg0NTExNTA3LC0yNzQ2NTQ4NSwtOTg1MTYyMTg2LC0yOT
+Q3ODExMjYsLTU4ODQzNjU4LDIyODM1NjI1MSw0NjU1NjE3Myw5
+NjUxMTEzNTQsMzI4NDEzMDkzLDg2NzAzOTEwMywtMTQzNzk1Mz
+k3NSwtMTk3NDE0NTQsOTEyMjM4NDUyLDU3MDc4NDYyNl19
 -->
