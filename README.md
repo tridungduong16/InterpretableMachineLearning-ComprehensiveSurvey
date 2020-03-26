@@ -218,6 +218,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 * ***Narendra, Tanmayee, et al. "Explaining deep learning models using causal inference." _arXiv preprint arXiv:1811.04376_ (2018). [77]***
 	- [Paper Link](https://arxiv.org/pdf/1811.04376.pdf)
 	- Consider the DNN as an structural causal model, apply a function on each filter of the model to obtain the targeted value such as variance or expected value of each filter and reason on the obtained SCM.
+	- Narendra, Tanmayee, et al (2018) propose a causal framework to reas
 
 * ***Harradon, Michael, Jeff Druce, and Brian Ruttenberg. "Causal learning and explanation of deep neural networks via autoencoded activations." _arXiv preprint arXiv:1802.00541_ (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1802.00541.pdf)
@@ -399,11 +400,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA5Nzc2OTgsLTE2OTEwMzk1MDAsLT
-Y0NjA4ODgwOSwtMTU0ODk3MjMyLC0xMzE2MDYwODExLC03NDU0
-OTY0ODcsMjExOTYwMzQyLC0xMDg0MDE0NDM2LDI1ODU0NzU5MC
-wtMjA1Njk1NzE2OCwxNjQ4OTExNTIwLDY2MTYwMDYzNSwxMjE2
-NTMzOTI2LDExNDQyNjYxNiwtMTQ4NDUxMTUwNywtMjc0NjU0OD
-UsLTk4NTE2MjE4NiwtMjk0NzgxMTI2LC01ODg0MzY1OCwyMjgz
-NTYyNTFdfQ==
+eyJoaXN0b3J5IjpbLTEzNjg4MzQ2NCwtMTAzMDk3NzY5OCwtMT
+Y5MTAzOTUwMCwtNjQ2MDg4ODA5LC0xNTQ4OTcyMzIsLTEzMTYw
+NjA4MTEsLTc0NTQ5NjQ4NywyMTE5NjAzNDIsLTEwODQwMTQ0Mz
+YsMjU4NTQ3NTkwLC0yMDU2OTU3MTY4LDE2NDg5MTE1MjAsNjYx
+NjAwNjM1LDEyMTY1MzM5MjYsMTE0NDI2NjE2LC0xNDg0NTExNT
+A3LC0yNzQ2NTQ4NSwtOTg1MTYyMTg2LC0yOTQ3ODExMjYsLTU4
+ODQzNjU4XX0=
 -->
