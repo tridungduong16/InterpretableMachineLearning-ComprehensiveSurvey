@@ -218,7 +218,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 * ***Narendra, Tanmayee, et al. "Explaining deep learning models using causal inference." _arXiv preprint arXiv:1811.04376_ (2018). [77]***
 	- [Paper Link](https://arxiv.org/pdf/1811.04376.pdf)
 	- Consider the DNN as an structural causal model, apply a function on each filter of the model to obtain the targeted value such as variance or expected value of each filter and reason on the obtained SCM.
-	- **Paper**: The simple way to evaluate the importance of each filter or component in DNN is to build different models with diverse architectures. However, training different model is extremely computationally expensive. Narendra, Tanmayee, et al (2018) propose a causal framework to analyze each element of DNN, and provide a simple solution to validate the result of causal model. They finally rank each component of DNN base on their importance. 
+	- **Paper**: The simple way to evaluate the importance of each filter or component in DNN is to build different models with diverse architectures. However, training different models is extremely computationally expensive. Narendra, Tanmayee, et al (2018) propose a causal framework to analyze each element of DNN, and provide a simple solution to validate the result of causal model. They finally rank each component of DNN base on their importance. 
 
 * ***Harradon, Michael, Jeff Druce, and Brian Ruttenberg. "Causal learning and explanation of deep neural networks via autoencoded activations." _arXiv preprint arXiv:1802.00541_ (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1802.00541.pdf)
@@ -400,11 +400,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMzIzMjY0LDE0MTUxMzcxMzUsLTEwMz
-A5Nzc2OTgsLTE2OTEwMzk1MDAsLTY0NjA4ODgwOSwtMTU0ODk3
-MjMyLC0xMzE2MDYwODExLC03NDU0OTY0ODcsMjExOTYwMzQyLC
-0xMDg0MDE0NDM2LDI1ODU0NzU5MCwtMjA1Njk1NzE2OCwxNjQ4
-OTExNTIwLDY2MTYwMDYzNSwxMjE2NTMzOTI2LDExNDQyNjYxNi
-wtMTQ4NDUxMTUwNywtMjc0NjU0ODUsLTk4NTE2MjE4NiwtMjk0
-NzgxMTI2XX0=
+eyJoaXN0b3J5IjpbMTA3MzI5OTc5LDI4MTMyMzI2NCwxNDE1MT
+M3MTM1LC0xMDMwOTc3Njk4LC0xNjkxMDM5NTAwLC02NDYwODg4
+MDksLTE1NDg5NzIzMiwtMTMxNjA2MDgxMSwtNzQ1NDk2NDg3LD
+IxMTk2MDM0MiwtMTA4NDAxNDQzNiwyNTg1NDc1OTAsLTIwNTY5
+NTcxNjgsMTY0ODkxMTUyMCw2NjE2MDA2MzUsMTIxNjUzMzkyNi
+wxMTQ0MjY2MTYsLTE0ODQ1MTE1MDcsLTI3NDY1NDg1LC05ODUx
+NjIxODZdfQ==
 -->
