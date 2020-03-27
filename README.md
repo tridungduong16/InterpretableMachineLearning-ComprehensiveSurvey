@@ -293,8 +293,6 @@ They are designed based on a new type of conditional probability <a href="https:
 	- [Paper Link]()
 * ***Van Looveren, Arnaud, and Janis Klaise. "Interpretable counterfactual explanations guided by prototypes." arXiv preprint arXiv:1907.02584 (2019).***
 	- [Paper Link]()
-* ***Liu, Shusen, et al. "Generative counterfactual introspection for explainable deep learning." arXiv preprint arXiv:1907.03077 (2019).***
-	- [Paper Link]()
 * ***Goyal, Yash, Uri Shalit, and Been Kim. "Explaining Classifiers with Causal Concept Effect (CaCE)." arXiv preprint arXiv:1907.07165 (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1907.07165.pdf)
 	- propose to explain classifiers’ decisions by measuring the Causal Concept Effect (CACE). 
@@ -402,11 +400,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA4Njc2MTIsLTE2MzQ1ODg2NjUsMT
-A3MzI5OTc5LDI4MTMyMzI2NCwxNDE1MTM3MTM1LC0xMDMwOTc3
-Njk4LC0xNjkxMDM5NTAwLC02NDYwODg4MDksLTE1NDg5NzIzMi
-wtMTMxNjA2MDgxMSwtNzQ1NDk2NDg3LDIxMTk2MDM0MiwtMTA4
-NDAxNDQzNiwyNTg1NDc1OTAsLTIwNTY5NTcxNjgsMTY0ODkxMT
-UyMCw2NjE2MDA2MzUsMTIxNjUzMzkyNiwxMTQ0MjY2MTYsLTE0
-ODQ1MTE1MDddfQ==
+eyJoaXN0b3J5IjpbMTgzNTI2MzU3NiwtMTYzNDU4ODY2NSwxMD
+czMjk5NzksMjgxMzIzMjY0LDE0MTUxMzcxMzUsLTEwMzA5Nzc2
+OTgsLTE2OTEwMzk1MDAsLTY0NjA4ODgwOSwtMTU0ODk3MjMyLC
+0xMzE2MDYwODExLC03NDU0OTY0ODcsMjExOTYwMzQyLC0xMDg0
+MDE0NDM2LDI1ODU0NzU5MCwtMjA1Njk1NzE2OCwxNjQ4OTExNT
+IwLDY2MTYwMDYzNSwxMjE2NTMzOTI2LDExNDQyNjYxNiwtMTQ4
+NDUxMTUwN119
 -->
