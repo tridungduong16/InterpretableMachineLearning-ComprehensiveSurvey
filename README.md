@@ -218,6 +218,8 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 ### Model-based: <a name="base_causal"></a>
 * ***Artelt, André, and Barbara Hammer. "Convex Density Constraints for Computing Plausible Counterfactual Explanations." _arXiv preprint arXiv:2002.04862_ (2020).***
 
+* ***Bertossi, Leopoldo, et al. "Causality-based Explanation of Classification Outcomes." _arXiv preprint arXiv:2003.06868_ (2020).***
+* 
 * ***Guidotti, Riccardo, et al. "Factual and Counterfactual Explanations for Black Box Decision Making." _IEEE Intelligent Systems_ (2019).***
 
 * ***Narendra, Tanmayee, et al. "Explaining deep learning models using causal inference." _arXiv preprint arXiv:1811.04376_ (2018). [77]***
@@ -421,11 +423,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMTI3NDI0LC04NjczMDQ0NjAsLTExNT
-I3MTA2MTEsLTEwMDcxMzU4MzEsODQ1MjQzMjkyLC03MDc5NzYz
-ODQsMTk0MjQzNDk0NywyMTQ1NDM0OTU4LC0xMzgwOTcwMDk2LD
-E4MzQzMzIwNzEsLTE1OTI5Nzk4MzMsLTk5NjkwMzA3NCwxODM1
-MjYzNTc2LC0xNjM0NTg4NjY1LDEwNzMyOTk3OSwyODEzMjMyNj
-QsMTQxNTEzNzEzNSwtMTAzMDk3NzY5OCwtMTY5MTAzOTUwMCwt
-NjQ2MDg4ODA5XX0=
+eyJoaXN0b3J5IjpbLTE3NDE2NjYxMTUsLTg2NzMwNDQ2MCwtMT
+E1MjcxMDYxMSwtMTAwNzEzNTgzMSw4NDUyNDMyOTIsLTcwNzk3
+NjM4NCwxOTQyNDM0OTQ3LDIxNDU0MzQ5NTgsLTEzODA5NzAwOT
+YsMTgzNDMzMjA3MSwtMTU5Mjk3OTgzMywtOTk2OTAzMDc0LDE4
+MzUyNjM1NzYsLTE2MzQ1ODg2NjUsMTA3MzI5OTc5LDI4MTMyMz
+I2NCwxNDE1MTM3MTM1LC0xMDMwOTc3Njk4LC0xNjkxMDM5NTAw
+LC02NDYwODg4MDldfQ==
 -->
