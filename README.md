@@ -248,6 +248,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 		+ constructing Distributional Causal Graph which allows us to sample and compute likelihoods of the samples
 		+ generating a counterfactual image which is as similar as possible to the original image
 		+ estimating the effect of the modified factor by estimating the causal effect.
+	- **Paper:** 
 
 * ***Chattopadhyay, Aditya, et al. "Neural network attributions: A causal perspective." _arXiv preprint arXiv:1902.02302_ (2019). [12]***
 	- [Paper Link](https://arxiv.org/pdf/1902.02302.pdf)
@@ -423,11 +424,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDY0MjUzNywxNDIzNjY1MjcxLC00Nz
-I5NDA1NDAsMjAxNDM5ODc1NiwtMTU5MTIzMzczMSw2NjgzMzU0
-MTgsLTE3NDE2NjYxMTUsLTg2NzMwNDQ2MCwtMTE1MjcxMDYxMS
-wtMTAwNzEzNTgzMSw4NDUyNDMyOTIsLTcwNzk3NjM4NCwxOTQy
-NDM0OTQ3LDIxNDU0MzQ5NTgsLTEzODA5NzAwOTYsMTgzNDMzMj
-A3MSwtMTU5Mjk3OTgzMywtOTk2OTAzMDc0LDE4MzUyNjM1NzYs
-LTE2MzQ1ODg2NjVdfQ==
+eyJoaXN0b3J5IjpbLTc5NjgxOTU1MiwtNzg0NjQyNTM3LDE0Mj
+M2NjUyNzEsLTQ3Mjk0MDU0MCwyMDE0Mzk4NzU2LC0xNTkxMjMz
+NzMxLDY2ODMzNTQxOCwtMTc0MTY2NjExNSwtODY3MzA0NDYwLC
+0xMTUyNzEwNjExLC0xMDA3MTM1ODMxLDg0NTI0MzI5MiwtNzA3
+OTc2Mzg0LDE5NDI0MzQ5NDcsMjE0NTQzNDk1OCwtMTM4MDk3MD
+A5NiwxODM0MzMyMDcxLC0xNTkyOTc5ODMzLC05OTY5MDMwNzQs
+MTgzNTI2MzU3Nl19
 -->
