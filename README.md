@@ -103,7 +103,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- Demonstrate the broad applicability of attribution priors (Ω) by presentingthree distinct examples that regularize models to behave more intuitively in three different domains.
 	- Encode meaningful domain knowledge as differentiable functions of feature attributions
 	- Propose a feature attribution method, called expected gradients, and describe why it is anatural choice for attribution priors. Expected gradients is an extension of integrated gradients with fewer hyperparameter choices. Like several other attribution methods, integrated gradients aimsto explain the difference between a model’s current prediction and the prediction that model would make when given a baseline input.
-	- **Paper:** 
+	- **Paper:** Erion, Gabriel, et al.
 * ***Wang, Tong, and Qihang Lin. "Hybrid predictive model: When an interpretable model collaborates with a black-box model." _arXiv preprint arXiv:1905.04241_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1905.04241.pdf)
 * ***Pan, Danqing, Tong Wang, and Satoshi Hara. "Interpretable Companions for Black-Box Models." _arXiv preprint arXiv:2002.03494_ (2020).***
@@ -422,11 +422,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjY0MzUzLDIwMTQzOTg3NTYsLTE1OT
-EyMzM3MzEsNjY4MzM1NDE4LC0xNzQxNjY2MTE1LC04NjczMDQ0
-NjAsLTExNTI3MTA2MTEsLTEwMDcxMzU4MzEsODQ1MjQzMjkyLC
-03MDc5NzYzODQsMTk0MjQzNDk0NywyMTQ1NDM0OTU4LC0xMzgw
-OTcwMDk2LDE4MzQzMzIwNzEsLTE1OTI5Nzk4MzMsLTk5NjkwMz
-A3NCwxODM1MjYzNTc2LC0xNjM0NTg4NjY1LDEwNzMyOTk3OSwy
-ODEzMjMyNjRdfQ==
+eyJoaXN0b3J5IjpbLTQ3Mjk0MDU0MCwyMDE0Mzk4NzU2LC0xNT
+kxMjMzNzMxLDY2ODMzNTQxOCwtMTc0MTY2NjExNSwtODY3MzA0
+NDYwLC0xMTUyNzEwNjExLC0xMDA3MTM1ODMxLDg0NTI0MzI5Mi
+wtNzA3OTc2Mzg0LDE5NDI0MzQ5NDcsMjE0NTQzNDk1OCwtMTM4
+MDk3MDA5NiwxODM0MzMyMDcxLC0xNTkyOTc5ODMzLC05OTY5MD
+MwNzQsMTgzNTI2MzU3NiwtMTYzNDU4ODY2NSwxMDczMjk5Nzks
+MjgxMzIzMjY0XX0=
 -->
