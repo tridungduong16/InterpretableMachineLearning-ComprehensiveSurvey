@@ -169,7 +169,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Source code](https://github.com/marcotcr/lime)
 	- often use simple linear models as the student model
 to produce a local interpretable approximation to the otherwise complex black-box model.
-	- build alocally interpretable model (a linear model in LIME, and patternsin aLIME) in the newly generated neighborhood of a test instance;the local model is then used as the local explanation. In both LIME and aLIME, random perturbation is used to generate the neigh-bors
+	- build a locally interpretable model (a linear model in LIME, and patterns in aLIME) in the newly generated neighborhood of a test instance;the local model is then used as the local explanation. In both LIME and aLIME, random perturbation is used to generate the neigh-bors
 * ***Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "Anchors: High-precision model-agnostic explanations." _Thirty-Second AAAI Conference on Artificial Intelligence_. 2018.***
 	- [Paper Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16982/15850)
 	- An extension of LIME using decision rules as local interpretable classifier cl is presented. The Anchor f uses a bandit algorithm that randomly constructs the anchors with the highest coverage and respecting a user-specified precision threshold. An anchor explanation is a decision rule that sufficiently tie a prediction locally such that changes to the rest of the features values do not matter, i.e., similar instances covered by the same anchor have the same prediction outcome. Anchor is applied on tabular, images and textual datasets. 
@@ -400,11 +400,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTI2MzU3NiwtMTYzNDU4ODY2NSwxMD
-czMjk5NzksMjgxMzIzMjY0LDE0MTUxMzcxMzUsLTEwMzA5Nzc2
-OTgsLTE2OTEwMzk1MDAsLTY0NjA4ODgwOSwtMTU0ODk3MjMyLC
-0xMzE2MDYwODExLC03NDU0OTY0ODcsMjExOTYwMzQyLC0xMDg0
-MDE0NDM2LDI1ODU0NzU5MCwtMjA1Njk1NzE2OCwxNjQ4OTExNT
-IwLDY2MTYwMDYzNSwxMjE2NTMzOTI2LDExNDQyNjYxNiwtMTQ4
-NDUxMTUwN119
+eyJoaXN0b3J5IjpbLTk5NjkwMzA3NCwxODM1MjYzNTc2LC0xNj
+M0NTg4NjY1LDEwNzMyOTk3OSwyODEzMjMyNjQsMTQxNTEzNzEz
+NSwtMTAzMDk3NzY5OCwtMTY5MTAzOTUwMCwtNjQ2MDg4ODA5LC
+0xNTQ4OTcyMzIsLTEzMTYwNjA4MTEsLTc0NTQ5NjQ4NywyMTE5
+NjAzNDIsLTEwODQwMTQ0MzYsMjU4NTQ3NTkwLC0yMDU2OTU3MT
+Y4LDE2NDg5MTE1MjAsNjYxNjAwNjM1LDEyMTY1MzM5MjYsMTE0
+NDI2NjE2XX0=
 -->
