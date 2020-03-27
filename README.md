@@ -227,7 +227,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 
 
 * ***Besserve, Michel, Rémy Sun, and Bernhard Schölkopf. "Counterfactuals uncover the modular structure of deep generative models." _arXiv preprint arXiv:1812.03253_ (2018).***
-	- [Paper Link]()
+	- [Paper Link](https://arxiv.org/pdf/1812.03253.pdf)
 * ***Rathi, Shubham. "Generating counterfactual and contrastive explanations using SHAP." arXiv preprint arXiv:1906.09293 (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1906.09293.pdf)
 	- Generates counterfactual explanations using shapely additive explanations (SHAP).
@@ -407,11 +407,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2OTkyNzg4LDE4MzQzMzIwNzEsLTE1OT
-I5Nzk4MzMsLTk5NjkwMzA3NCwxODM1MjYzNTc2LC0xNjM0NTg4
-NjY1LDEwNzMyOTk3OSwyODEzMjMyNjQsMTQxNTEzNzEzNSwtMT
-AzMDk3NzY5OCwtMTY5MTAzOTUwMCwtNjQ2MDg4ODA5LC0xNTQ4
-OTcyMzIsLTEzMTYwNjA4MTEsLTc0NTQ5NjQ4NywyMTE5NjAzND
-IsLTEwODQwMTQ0MzYsMjU4NTQ3NTkwLC0yMDU2OTU3MTY4LDE2
-NDg5MTE1MjBdfQ==
+eyJoaXN0b3J5IjpbLTEzODA5NzAwOTYsMTgzNDMzMjA3MSwtMT
+U5Mjk3OTgzMywtOTk2OTAzMDc0LDE4MzUyNjM1NzYsLTE2MzQ1
+ODg2NjUsMTA3MzI5OTc5LDI4MTMyMzI2NCwxNDE1MTM3MTM1LC
+0xMDMwOTc3Njk4LC0xNjkxMDM5NTAwLC02NDYwODg4MDksLTE1
+NDg5NzIzMiwtMTMxNjA2MDgxMSwtNzQ1NDk2NDg3LDIxMTk2MD
+M0MiwtMTA4NDAxNDQzNiwyNTg1NDc1OTAsLTIwNTY5NTcxNjgs
+MTY0ODkxMTUyMF19
 -->
