@@ -353,11 +353,7 @@ sensitive attribute referenced in the example were different?
 * ***Kim, Carolyn, and Osbert Bastani. "Learning Interpretable Models with Causal Guarantees." arXiv preprint arXiv:1901.08576 (2019).***
 	- [Paper link](https://arxiv.org/pdf/1901.08576.pdf)	
 	- propose a framework to bridge the gap between causal and interpretable models by transforming any algorithm into an interpretable individual treatment effect estimation framework.
-	- propose a general framework for
-learning interpretable models with causal guarantees. In
-particular, given any supervised learning algorithm A for
-learning interpretable models, our framework converts A
-into an algorithm A~ for learning interpretable models ^ :
+	- propose a general framework for learning interpretable models with causal guarantees. In particular, given any supervised learning algorithm A for learning interpretable models, our framework converts A into an algorithm A~ for learning interpretable models ^ :
 X ! Y that predict the ITE  (x) 2 Y of an individual with
 covariates x 2 X. Furthermore, we provide guarantees on
 the performance of the models learned using A~.
@@ -421,11 +417,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcxMzU4MzEsODQ1MjQzMjkyLC03MD
-c5NzYzODQsMTk0MjQzNDk0NywyMTQ1NDM0OTU4LC0xMzgwOTcw
-MDk2LDE4MzQzMzIwNzEsLTE1OTI5Nzk4MzMsLTk5NjkwMzA3NC
-wxODM1MjYzNTc2LC0xNjM0NTg4NjY1LDEwNzMyOTk3OSwyODEz
-MjMyNjQsMTQxNTEzNzEzNSwtMTAzMDk3NzY5OCwtMTY5MTAzOT
-UwMCwtNjQ2MDg4ODA5LC0xNTQ4OTcyMzIsLTEzMTYwNjA4MTEs
-LTc0NTQ5NjQ4N119
+eyJoaXN0b3J5IjpbLTExNTI3MTA2MTEsLTEwMDcxMzU4MzEsOD
+Q1MjQzMjkyLC03MDc5NzYzODQsMTk0MjQzNDk0NywyMTQ1NDM0
+OTU4LC0xMzgwOTcwMDk2LDE4MzQzMzIwNzEsLTE1OTI5Nzk4Mz
+MsLTk5NjkwMzA3NCwxODM1MjYzNTc2LC0xNjM0NTg4NjY1LDEw
+NzMyOTk3OSwyODEzMjMyNjQsMTQxNTEzNzEzNSwtMTAzMDk3Nz
+Y5OCwtMTY5MTAzOTUwMCwtNjQ2MDg4ODA5LC0xNTQ4OTcyMzIs
+LTEzMTYwNjA4MTFdfQ==
 -->
