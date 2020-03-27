@@ -156,6 +156,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Source code](https://github.com/slundberg/shap)
 	- SHAP Tree explainer: which focuses on polynomial time fast SHAP value estimation specific for tree and ensemble tree
 	- SHAP Deep Explainer: is the high speed approximation SHAP value for deep learning model
+	- **Paper:**: Lundberg, Scott M., and Su-In Lee. propose a way to 
 * ***Kononenko, Igor. "An efficient explanation of individual classifications using game theory." _Journal of Machine Learning Research_ 11.Jan (2010): 1-18.***
 	- [Paper Link](http://www.jmlr.org/papers/volume11/strumbelj10a/strumbelj10a.pdf)
 * ***Chen, Hugh, Scott Lundberg, and Su-In Lee. "Explaining Models by Propagating Shapley Values of Local Components." _arXiv preprint arXiv:1911.11888_ (2019).***
@@ -422,11 +423,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzY2NTI3MSwtNDcyOTQwNTQwLDIwMT
-QzOTg3NTYsLTE1OTEyMzM3MzEsNjY4MzM1NDE4LC0xNzQxNjY2
-MTE1LC04NjczMDQ0NjAsLTExNTI3MTA2MTEsLTEwMDcxMzU4Mz
-EsODQ1MjQzMjkyLC03MDc5NzYzODQsMTk0MjQzNDk0NywyMTQ1
-NDM0OTU4LC0xMzgwOTcwMDk2LDE4MzQzMzIwNzEsLTE1OTI5Nz
-k4MzMsLTk5NjkwMzA3NCwxODM1MjYzNTc2LC0xNjM0NTg4NjY1
-LDEwNzMyOTk3OV19
+eyJoaXN0b3J5IjpbLTc4NDY0MjUzNywxNDIzNjY1MjcxLC00Nz
+I5NDA1NDAsMjAxNDM5ODc1NiwtMTU5MTIzMzczMSw2NjgzMzU0
+MTgsLTE3NDE2NjYxMTUsLTg2NzMwNDQ2MCwtMTE1MjcxMDYxMS
+wtMTAwNzEzNTgzMSw4NDUyNDMyOTIsLTcwNzk3NjM4NCwxOTQy
+NDM0OTQ3LDIxNDU0MzQ5NTgsLTEzODA5NzAwOTYsMTgzNDMzMj
+A3MSwtMTU5Mjk3OTgzMywtOTk2OTAzMDc0LDE4MzUyNjM1NzYs
+LTE2MzQ1ODg2NjVdfQ==
 -->
