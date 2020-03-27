@@ -415,16 +415,17 @@ the performance of the models learned using A~.
 4. [Double Machine Learning Tutorial](https://nbviewer.jupyter.org/github/kinokoberuji/Causal_Inference/blob/master/EconML%20customer%20policy.ipynb?fbclid=IwAR2Qq77Pw2My-sMpY2QZuXeXkRE-yg99knYPF-z5yUvYAvjFJiQTAnvprjA)
 5. [How to Explain the Prediction of a Machine Learning Model? ](https://lilianweng.github.io/lil-log/2017/08/01/how-to-explain-the-prediction-of-a-machine-learning-model.html)
 6.  [Knowledge distillation](https://medium.com/neuralmachine/knowledge-distillation-dc241d7c2322)
+7.  [Causal inference in Machine Learning](https://www.ericsson.com/en/blog/2020/2/causal-inference-machine-learning)
 ## Authors
 
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MjQzMjkyLC03MDc5NzYzODQsMTk0Mj
-QzNDk0NywyMTQ1NDM0OTU4LC0xMzgwOTcwMDk2LDE4MzQzMzIw
-NzEsLTE1OTI5Nzk4MzMsLTk5NjkwMzA3NCwxODM1MjYzNTc2LC
-0xNjM0NTg4NjY1LDEwNzMyOTk3OSwyODEzMjMyNjQsMTQxNTEz
-NzEzNSwtMTAzMDk3NzY5OCwtMTY5MTAzOTUwMCwtNjQ2MDg4OD
-A5LC0xNTQ4OTcyMzIsLTEzMTYwNjA4MTEsLTc0NTQ5NjQ4Nywy
-MTE5NjAzNDJdfQ==
+eyJoaXN0b3J5IjpbLTEwMDcxMzU4MzEsODQ1MjQzMjkyLC03MD
+c5NzYzODQsMTk0MjQzNDk0NywyMTQ1NDM0OTU4LC0xMzgwOTcw
+MDk2LDE4MzQzMzIwNzEsLTE1OTI5Nzk4MzMsLTk5NjkwMzA3NC
+wxODM1MjYzNTc2LC0xNjM0NTg4NjY1LDEwNzMyOTk3OSwyODEz
+MjMyNjQsMTQxNTEzNzEzNSwtMTAzMDk3NzY5OCwtMTY5MTAzOT
+UwMCwtNjQ2MDg4ODA5LC0xNTQ4OTcyMzIsLTEzMTYwNjA4MTEs
+LTc0NTQ5NjQ4N119
 -->
