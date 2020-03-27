@@ -189,7 +189,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 * ***Jia, Yunzhe, et al. "Improving the Quality of Explanations with Local Embedding Perturbations." _Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_. 2019.***
 	- [Paper Link](https://people.eng.unimelb.edu.au/baileyj/papers/KDD2019.pdf)
 	- propose a local intrinsic dimensionality (LID) based locality constraint. Based on this, we then propose a new neighborhood generation method. Our method first fits a local embedding/subspace around a given instance using the LID of the test instance as the target dimensionality, then generates neighbors in the local embedding and projects them back to the original space. 
-	- **Paper:** Jia, Yunzhe, et al popose a method for generating 
+	- **Paper:** Jia, Yunzhe, et al popose a local model-agnostic methods which genrates a embedding around a given instance called a local instrinsic dimensionality. 
 ### Example-based explantions: <a name="example_agnostic"></a>
 * ***Wachter, Sandra, Brent Mittelstadt, and Chris Russell. "Counterfactual explanations without opening the black box: Automated decisions and the GDPR." _Harv. JL & Tech._ 31 (2017): 841.***
 	- [Paper Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
@@ -420,11 +420,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ4MDQ5MywtNzA3OTc2Mzg0LDE5ND
-I0MzQ5NDcsMjE0NTQzNDk1OCwtMTM4MDk3MDA5NiwxODM0MzMy
-MDcxLC0xNTkyOTc5ODMzLC05OTY5MDMwNzQsMTgzNTI2MzU3Ni
-wtMTYzNDU4ODY2NSwxMDczMjk5NzksMjgxMzIzMjY0LDE0MTUx
-MzcxMzUsLTEwMzA5Nzc2OTgsLTE2OTEwMzk1MDAsLTY0NjA4OD
-gwOSwtMTU0ODk3MjMyLC0xMzE2MDYwODExLC03NDU0OTY0ODcs
-MjExOTYwMzQyXX0=
+eyJoaXN0b3J5IjpbODQ1MjQzMjkyLC03MDc5NzYzODQsMTk0Mj
+QzNDk0NywyMTQ1NDM0OTU4LC0xMzgwOTcwMDk2LDE4MzQzMzIw
+NzEsLTE1OTI5Nzk4MzMsLTk5NjkwMzA3NCwxODM1MjYzNTc2LC
+0xNjM0NTg4NjY1LDEwNzMyOTk3OSwyODEzMjMyNjQsMTQxNTEz
+NzEzNSwtMTAzMDk3NzY5OCwtMTY5MTAzOTUwMCwtNjQ2MDg4OD
+A5LC0xNTQ4OTcyMzIsLTEzMTYwNjA4MTEsLTc0NTQ5NjQ4Nywy
+MTE5NjAzNDJdfQ==
 -->
