@@ -225,7 +225,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 * ***Narendra, Tanmayee, et al. "Explaining deep learning models using causal inference." _arXiv preprint arXiv:1811.04376_ (2018). [77]***
 	- [Paper Link](https://arxiv.org/pdf/1811.04376.pdf)
 	- Consider the DNN as an structural causal model, apply a function on each filter of the model to obtain the targeted value such as variance or expected value of each filter and reason on the obtained SCM.
-	- **Paper**: The traditional way to analyze Deep Neural Network is to build different models with different architectures. However, training several models is extremely computationally expensive. Narendra, Tanmayee, et al (2018) thus propose a causal framework to analyze the elements of DNN, and provide a simple solution to validate  result. They finally rank each component of DNN base on their importance. 
+	- **Paper**: The traditional way to analyze Deep Neural Network is to build different models with different architectures. However, training several models is extremely computationally expensive. Narendra, Tanmayee, et al (2018) thus propose a causal framework to analyze the elements of DNN, and provide a simple solution to validate its result. They finally rank each component of DNN base on their contribution and important to the final prediction. 
 
 * ***Harradon, Michael, Jeff Druce, and Brian Ruttenberg. "Causal learning and explanation of deep neural networks via autoencoded activations." _arXiv preprint arXiv:1802.00541_ (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1802.00541.pdf)
@@ -423,11 +423,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDI0OTcwMiwtMTc0MTY2NjExNSwtOD
-Y3MzA0NDYwLC0xMTUyNzEwNjExLC0xMDA3MTM1ODMxLDg0NTI0
-MzI5MiwtNzA3OTc2Mzg0LDE5NDI0MzQ5NDcsMjE0NTQzNDk1OC
-wtMTM4MDk3MDA5NiwxODM0MzMyMDcxLC0xNTkyOTc5ODMzLC05
-OTY5MDMwNzQsMTgzNTI2MzU3NiwtMTYzNDU4ODY2NSwxMDczMj
-k5NzksMjgxMzIzMjY0LDE0MTUxMzcxMzUsLTEwMzA5Nzc2OTgs
-LTE2OTEwMzk1MDBdfQ==
+eyJoaXN0b3J5IjpbNjY4MzM1NDE4LC0xNzQxNjY2MTE1LC04Nj
+czMDQ0NjAsLTExNTI3MTA2MTEsLTEwMDcxMzU4MzEsODQ1MjQz
+MjkyLC03MDc5NzYzODQsMTk0MjQzNDk0NywyMTQ1NDM0OTU4LC
+0xMzgwOTcwMDk2LDE4MzQzMzIwNzEsLTE1OTI5Nzk4MzMsLTk5
+NjkwMzA3NCwxODM1MjYzNTc2LC0xNjM0NTg4NjY1LDEwNzMyOT
+k3OSwyODEzMjMyNjQsMTQxNTEzNzEzNSwtMTAzMDk3NzY5OCwt
+MTY5MTAzOTUwMF19
 -->
