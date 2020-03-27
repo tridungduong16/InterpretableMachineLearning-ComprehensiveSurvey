@@ -280,7 +280,7 @@ They are designed based on a new type of conditional probability <a href="https:
 	- For **credit application prediction** via off-the-shelf interchangeable black-box classifiers.
 	- Propose to reweigh the distance between the features of an instance and its corresponding counterfactual with the inverse median absolute deviation.
 	- <a href="https://www.codecogs.com/eqnedit.php?latex=L(x,x^\prime,y^\prime,\lambda)=\lambda\cdot(\hat{f}(x^\prime)-y^\prime)^2&plus;d(x,x^\prime)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L(x,x^\prime,y^\prime,\lambda)=\lambda\cdot(\hat{f}(x^\prime)-y^\prime)^2&plus;d(x,x^\prime)" title="L(x,x^\prime,y^\prime,\lambda)=\lambda\cdot(\hat{f}(x^\prime)-y^\prime)^2+d(x,x^\prime)" /></a>
-	- **Paper:** Grath, Rory Mc, et al. propose a 
+	- **Paper:** Grath, Rory Mc, et al. propose a weighted counterfactual explanation method for features importance. Their intuition is that there are some features that make little changes to generate counterfactual explanation. 
 * ***Kanehira, Atsushi, et al. "Multimodal explanations by predicting counterfactuality in videos." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1812.01263.pdf)
 * ***Hendricks, Lisa Anne, et al. "Generating counterfactual explanations with natural language." arXiv preprint arXiv:1806.09809 (2018).***
@@ -431,11 +431,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjcyMDM5NTgsNDkwMjY0MjY2LC00MT
-g2NDMxMDYsLTY1OTQ1NTc5LC03OTY4MTk1NTIsLTc4NDY0MjUz
-NywxNDIzNjY1MjcxLC00NzI5NDA1NDAsMjAxNDM5ODc1NiwtMT
-U5MTIzMzczMSw2NjgzMzU0MTgsLTE3NDE2NjYxMTUsLTg2NzMw
-NDQ2MCwtMTE1MjcxMDYxMSwtMTAwNzEzNTgzMSw4NDUyNDMyOT
-IsLTcwNzk3NjM4NCwxOTQyNDM0OTQ3LDIxNDU0MzQ5NTgsLTEz
-ODA5NzAwOTZdfQ==
+eyJoaXN0b3J5IjpbLTExMjgxNDUwNTksLTEyMjcyMDM5NTgsND
+kwMjY0MjY2LC00MTg2NDMxMDYsLTY1OTQ1NTc5LC03OTY4MTk1
+NTIsLTc4NDY0MjUzNywxNDIzNjY1MjcxLC00NzI5NDA1NDAsMj
+AxNDM5ODc1NiwtMTU5MTIzMzczMSw2NjgzMzU0MTgsLTE3NDE2
+NjYxMTUsLTg2NzMwNDQ2MCwtMTE1MjcxMDYxMSwtMTAwNzEzNT
+gzMSw4NDUyNDMyOTIsLTcwNzk3NjM4NCwxOTQyNDM0OTQ3LDIx
+NDU0MzQ5NThdfQ==
 -->
