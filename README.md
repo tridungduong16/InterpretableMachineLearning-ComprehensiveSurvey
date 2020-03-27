@@ -221,7 +221,12 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 * ***Bertossi, Leopoldo, et al. "Causality-based Explanation of Classification Outcomes." _arXiv preprint arXiv:2003.06868_ (2020).***
 
 * ***Guidotti, Riccardo, et al. "Factual and Counterfactual Explanations for Black Box Decision Making." _IEEE Intelligent Systems_ (2019).***
-	
+	- Blackbox model b
+	- Interpretable model c
+	- Instance x
+	- Neighborhood Z is generated from c by using genetic algorithms
+	- Z is then labeled by b and then analyze by c
+	- 
 * ***Narendra, Tanmayee, et al. "Explaining deep learning models using causal inference." _arXiv preprint arXiv:1811.04376_ (2018). [77]***
 	- [Paper Link](https://arxiv.org/pdf/1811.04376.pdf)
 	- Consider the DNN as an structural causal model, apply a function on each filter of the model to obtain the targeted value such as variance or expected value of each filter and reason on the obtained SCM.
@@ -424,7 +429,7 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjA1MjEwNCwtNjU5NDU1NzksLTc5Nj
+eyJoaXN0b3J5IjpbLTQxODY0MzEwNiwtNjU5NDU1NzksLTc5Nj
 gxOTU1MiwtNzg0NjQyNTM3LDE0MjM2NjUyNzEsLTQ3Mjk0MDU0
 MCwyMDE0Mzk4NzU2LC0xNTkxMjMzNzMxLDY2ODMzNTQxOCwtMT
 c0MTY2NjExNSwtODY3MzA0NDYwLC0xMTUyNzEwNjExLC0xMDA3
