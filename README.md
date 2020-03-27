@@ -145,7 +145,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- Derive a Bayesian model selection algorithm that optimizes the simplified model while maintaining the prediction performance
 		* Adopt the probabilistic model for representing ensemble trees
 		* Bayesian model selection algorithm called factorized asymptotic Bayesian (FAB) inference for finding the parameters.
-	-  **Paper**: Hara, Satoshi, and Kohei Hayashi (2016) try to combine the several regions created by ensembles tree by the simpler one. In order to deal with this problem, they represent ensemble model as a probabilistic model and the find the optimal simpler one with parameters optimizing by factorized asymptotic inference (FAB)
+	-  **Paper**: Hara, Satoshi, and Kohei Hayashi (2016) try to combine the several regions created by ensembles tree by the simpler one. In order to deal with this problem, they represent ensemble model as a probabilistic model and the find the optimal simpler one with parameters optimizing by factorized asymptotic inference (FAB).
 ### Feature relevance explanation: <a name="feature"></a>
 * ***Koh, Pang Wei, and Percy Liang. "Understanding black-box predictions via influence functions." _Proceedings of the 34th International Conference on Machine Learning-Volume 70_. JMLR. org, 2017.***
 	- [Paper Link](https://arxiv.org/pdf/1703.04730.pdf)
@@ -407,11 +407,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA5NzAwOTYsMTgzNDMzMjA3MSwtMT
-U5Mjk3OTgzMywtOTk2OTAzMDc0LDE4MzUyNjM1NzYsLTE2MzQ1
-ODg2NjUsMTA3MzI5OTc5LDI4MTMyMzI2NCwxNDE1MTM3MTM1LC
-0xMDMwOTc3Njk4LC0xNjkxMDM5NTAwLC02NDYwODg4MDksLTE1
-NDg5NzIzMiwtMTMxNjA2MDgxMSwtNzQ1NDk2NDg3LDIxMTk2MD
-M0MiwtMTA4NDAxNDQzNiwyNTg1NDc1OTAsLTIwNTY5NTcxNjgs
-MTY0ODkxMTUyMF19
+eyJoaXN0b3J5IjpbMjE0NTQzNDk1OCwtMTM4MDk3MDA5NiwxOD
+M0MzMyMDcxLC0xNTkyOTc5ODMzLC05OTY5MDMwNzQsMTgzNTI2
+MzU3NiwtMTYzNDU4ODY2NSwxMDczMjk5NzksMjgxMzIzMjY0LD
+E0MTUxMzcxMzUsLTEwMzA5Nzc2OTgsLTE2OTEwMzk1MDAsLTY0
+NjA4ODgwOSwtMTU0ODk3MjMyLC0xMzE2MDYwODExLC03NDU0OT
+Y0ODcsMjExOTYwMzQyLC0xMDg0MDE0NDM2LDI1ODU0NzU5MCwt
+MjA1Njk1NzE2OF19
 -->
