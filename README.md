@@ -271,6 +271,7 @@ They are designed based on a new type of conditional probability <a href="https:
 * ***Hendricks, Lisa Anne, et al. "Generating counterfactual explanations with natural language." arXiv preprint arXiv:1806.09809 (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1806.09809.pdf)
 	- define a method to generate **natural language counterfactual explanations**. The framework checks for evidences of a counterfactual class in the text explanation generated for the original input. It then checks if those factors exist in the counterfactual image and returns the existing ones. 
+	- 
 
 * ***Russell, Chris. "Efficient search for diverse coherent explanations." In Proceedings of the Conference on Fairness, Accountability, and Transparency, pp. 20-28. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1901.04909.pdf)
@@ -400,11 +401,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjkwMzA3NCwxODM1MjYzNTc2LC0xNj
-M0NTg4NjY1LDEwNzMyOTk3OSwyODEzMjMyNjQsMTQxNTEzNzEz
-NSwtMTAzMDk3NzY5OCwtMTY5MTAzOTUwMCwtNjQ2MDg4ODA5LC
-0xNTQ4OTcyMzIsLTEzMTYwNjA4MTEsLTc0NTQ5NjQ4NywyMTE5
-NjAzNDIsLTEwODQwMTQ0MzYsMjU4NTQ3NTkwLC0yMDU2OTU3MT
-Y4LDE2NDg5MTE1MjAsNjYxNjAwNjM1LDEyMTY1MzM5MjYsMTE0
-NDI2NjE2XX0=
+eyJoaXN0b3J5IjpbLTExOTA5OTU1NTcsLTk5NjkwMzA3NCwxOD
+M1MjYzNTc2LC0xNjM0NTg4NjY1LDEwNzMyOTk3OSwyODEzMjMy
+NjQsMTQxNTEzNzEzNSwtMTAzMDk3NzY5OCwtMTY5MTAzOTUwMC
+wtNjQ2MDg4ODA5LC0xNTQ4OTcyMzIsLTEzMTYwNjA4MTEsLTc0
+NTQ5NjQ4NywyMTE5NjAzNDIsLTEwODQwMTQ0MzYsMjU4NTQ3NT
+kwLC0yMDU2OTU3MTY4LDE2NDg5MTE1MjAsNjYxNjAwNjM1LDEy
+MTY1MzM5MjZdfQ==
 -->
