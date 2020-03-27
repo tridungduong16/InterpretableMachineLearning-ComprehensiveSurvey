@@ -221,7 +221,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 * ***Bertossi, Leopoldo, et al. "Causality-based Explanation of Classification Outcomes." _arXiv preprint arXiv:2003.06868_ (2020).***
 
 * ***Guidotti, Riccardo, et al. "Factual and Counterfactual Explanations for Black Box Decision Making." _IEEE Intelligent Systems_ (2019).***
-
+	- kkkk
 * ***Narendra, Tanmayee, et al. "Explaining deep learning models using causal inference." _arXiv preprint arXiv:1811.04376_ (2018). [77]***
 	- [Paper Link](https://arxiv.org/pdf/1811.04376.pdf)
 	- Consider the DNN as an structural causal model, apply a function on each filter of the model to obtain the targeted value such as variance or expected value of each filter and reason on the obtained SCM.
@@ -424,11 +424,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjgxOTU1MiwtNzg0NjQyNTM3LDE0Mj
-M2NjUyNzEsLTQ3Mjk0MDU0MCwyMDE0Mzk4NzU2LC0xNTkxMjMz
-NzMxLDY2ODMzNTQxOCwtMTc0MTY2NjExNSwtODY3MzA0NDYwLC
-0xMTUyNzEwNjExLC0xMDA3MTM1ODMxLDg0NTI0MzI5MiwtNzA3
-OTc2Mzg0LDE5NDI0MzQ5NDcsMjE0NTQzNDk1OCwtMTM4MDk3MD
-A5NiwxODM0MzMyMDcxLC0xNTkyOTc5ODMzLC05OTY5MDMwNzQs
-MTgzNTI2MzU3Nl19
+eyJoaXN0b3J5IjpbLTY1OTQ1NTc5LC03OTY4MTk1NTIsLTc4ND
+Y0MjUzNywxNDIzNjY1MjcxLC00NzI5NDA1NDAsMjAxNDM5ODc1
+NiwtMTU5MTIzMzczMSw2NjgzMzU0MTgsLTE3NDE2NjYxMTUsLT
+g2NzMwNDQ2MCwtMTE1MjcxMDYxMSwtMTAwNzEzNTgzMSw4NDUy
+NDMyOTIsLTcwNzk3NjM4NCwxOTQyNDM0OTQ3LDIxNDU0MzQ5NT
+gsLTEzODA5NzAwOTYsMTgzNDMzMjA3MSwtMTU5Mjk3OTgzMywt
+OTk2OTAzMDc0XX0=
 -->
