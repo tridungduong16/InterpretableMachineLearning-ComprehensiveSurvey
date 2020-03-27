@@ -283,6 +283,8 @@ error. Ideally, the **phrase error should be 0**.
 	- [Paper Link](https://arxiv.org/pdf/1901.04909.pdf)
 	- proposes new search algorithms for counterfactual explanations
 based upon mixed integer programming
+	- Formalising Counterfactual Explanations:
+		+ 
 * ***Wachter, Sandra, Brent Mittelstadt, and Chris Russell. "Counterfactual explanations without opening the black box: Automated decisions and the GDPR." Harv. JL & Tech. 31 (2017): 841.***
 	- [Paper Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
 	- Formula:
@@ -408,7 +410,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Mzg3MjAzMiwyMTQ1NDM0OTU4LC0xMz
+eyJoaXN0b3J5IjpbMTk0MjQzNDk0NywyMTQ1NDM0OTU4LC0xMz
 gwOTcwMDk2LDE4MzQzMzIwNzEsLTE1OTI5Nzk4MzMsLTk5Njkw
 MzA3NCwxODM1MjYzNTc2LC0xNjM0NTg4NjY1LDEwNzMyOTk3OS
 wyODEzMjMyNjQsMTQxNTEzNzEzNSwtMTAzMDk3NzY5OCwtMTY5
