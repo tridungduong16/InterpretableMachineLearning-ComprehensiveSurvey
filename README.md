@@ -271,7 +271,13 @@ They are designed based on a new type of conditional probability <a href="https:
 * ***Hendricks, Lisa Anne, et al. "Generating counterfactual explanations with natural language." arXiv preprint arXiv:1806.09809 (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1806.09809.pdf)
 	- define a method to generate **natural language counterfactual explanations**. The framework checks for evidences of a counterfactual class in the text explanation generated for the original input. It then checks if those factors exist in the counterfactual image and returns the existing ones. 
-	- 
+	- Metrics. To measure the performance of counterfactual explanation models, we propose two metrics: **phrase error** and **accuracy** with counterfactual text. Counterfactual text
+should not appear in the ground truth descriptions of an
+image. We report if counterfactual text appears in ground
+truth descriptions of an image and refer to this as phrase
+error. Ideally, the **phrase error should be 0**.
+
+
 
 * ***Russell, Chris. "Efficient search for diverse coherent explanations." In Proceedings of the Conference on Fairness, Accountability, and Transparency, pp. 20-28. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1901.04909.pdf)
@@ -401,7 +407,7 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA5OTU1NTcsLTk5NjkwMzA3NCwxOD
+eyJoaXN0b3J5IjpbLTE1OTI5Nzk4MzMsLTk5NjkwMzA3NCwxOD
 M1MjYzNTc2LC0xNjM0NTg4NjY1LDEwNzMyOTk3OSwyODEzMjMy
 NjQsMTQxNTEzNzEzNSwtMTAzMDk3NzY5OCwtMTY5MTAzOTUwMC
 wtNjQ2MDg4ODA5LC0xNTQ4OTcyMzIsLTEzMTYwNjA4MTEsLTc0
