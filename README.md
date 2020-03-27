@@ -302,7 +302,7 @@ They are designed based on a new type of conditional probability <a href="https:
 * ***Liu, Shusen, et al. "Generative counterfactual introspection for explainable deep learning." arXiv preprint arXiv:1907.03077 (2019).***
 	- [Paper  Link](https://arxiv.org/pdf/1907.03077.pdf)
 	- propose a generative model to generate counterfactual explanations for explaining a model’s decisions.
-	- Gi
+	- Given the query image I for which the classifier C predict class c, we seek to identify the key attribute changes in I to change their decision.
 * ***Ghazimatin, Azin, et al. "PRINCE: Provider-side Interpretability with Counterfactual Explanations in Recommender Systems." _Proceedings of the 13th International Conference on Web Search and Data Mining_. 2020.***
 	- [Paper Link](https://arxiv.org/pdf/1911.08378.pdf)
 	- Explain the question "Why does the recommendation system give the items to users"
@@ -402,11 +402,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDYzOTAzNCwtMTYzNDU4ODY2NSwxMD
-czMjk5NzksMjgxMzIzMjY0LDE0MTUxMzcxMzUsLTEwMzA5Nzc2
-OTgsLTE2OTEwMzk1MDAsLTY0NjA4ODgwOSwtMTU0ODk3MjMyLC
-0xMzE2MDYwODExLC03NDU0OTY0ODcsMjExOTYwMzQyLC0xMDg0
-MDE0NDM2LDI1ODU0NzU5MCwtMjA1Njk1NzE2OCwxNjQ4OTExNT
-IwLDY2MTYwMDYzNSwxMjE2NTMzOTI2LDExNDQyNjYxNiwtMTQ4
-NDUxMTUwN119
+eyJoaXN0b3J5IjpbLTE0NjA4Njc2MTIsLTE2MzQ1ODg2NjUsMT
+A3MzI5OTc5LDI4MTMyMzI2NCwxNDE1MTM3MTM1LC0xMDMwOTc3
+Njk4LC0xNjkxMDM5NTAwLC02NDYwODg4MDksLTE1NDg5NzIzMi
+wtMTMxNjA2MDgxMSwtNzQ1NDk2NDg3LDIxMTk2MDM0MiwtMTA4
+NDAxNDQzNiwyNTg1NDc1OTAsLTIwNTY5NTcxNjgsMTY0ODkxMT
+UyMCw2NjE2MDA2MzUsMTIxNjUzMzkyNiwxMTQ0MjY2MTYsLTE0
+ODQ1MTE1MDddfQ==
 -->
