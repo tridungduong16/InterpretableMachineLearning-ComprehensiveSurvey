@@ -189,6 +189,7 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 * ***Jia, Yunzhe, et al. "Improving the Quality of Explanations with Local Embedding Perturbations." _Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_. 2019.***
 	- [Paper Link](https://people.eng.unimelb.edu.au/baileyj/papers/KDD2019.pdf)
 	- propose a local intrinsic dimensionality (LID) based locality constraint. Based on this, we then propose a new neighborhood generation method. Our method first fits a local embedding/subspace around a given instance using the LID of the test instance as the target dimensionality, then generates neighbors in the local embedding and projects them back to the original space. 
+	- **Ppa
 ### Example-based explantions: <a name="example_agnostic"></a>
 * ***Wachter, Sandra, Brent Mittelstadt, and Chris Russell. "Counterfactual explanations without opening the black box: Automated decisions and the GDPR." _Harv. JL & Tech._ 31 (2017): 841.***
 	- [Paper Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
@@ -419,11 +420,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzk3NjM4NCwxOTQyNDM0OTQ3LDIxND
-U0MzQ5NTgsLTEzODA5NzAwOTYsMTgzNDMzMjA3MSwtMTU5Mjk3
-OTgzMywtOTk2OTAzMDc0LDE4MzUyNjM1NzYsLTE2MzQ1ODg2Nj
-UsMTA3MzI5OTc5LDI4MTMyMzI2NCwxNDE1MTM3MTM1LC0xMDMw
-OTc3Njk4LC0xNjkxMDM5NTAwLC02NDYwODg4MDksLTE1NDg5Nz
-IzMiwtMTMxNjA2MDgxMSwtNzQ1NDk2NDg3LDIxMTk2MDM0Miwt
-MTA4NDAxNDQzNl19
+eyJoaXN0b3J5IjpbLTYzMDQzMjE3OCwtNzA3OTc2Mzg0LDE5ND
+I0MzQ5NDcsMjE0NTQzNDk1OCwtMTM4MDk3MDA5NiwxODM0MzMy
+MDcxLC0xNTkyOTc5ODMzLC05OTY5MDMwNzQsMTgzNTI2MzU3Ni
+wtMTYzNDU4ODY2NSwxMDczMjk5NzksMjgxMzIzMjY0LDE0MTUx
+MzcxMzUsLTEwMzA5Nzc2OTgsLTE2OTEwMzk1MDAsLTY0NjA4OD
+gwOSwtMTU0ODk3MjMyLC0xMzE2MDYwODExLC03NDU0OTY0ODcs
+MjExOTYwMzQyXX0=
 -->
