@@ -281,7 +281,8 @@ error. Ideally, the **phrase error should be 0**.
 
 * ***Russell, Chris. "Efficient search for diverse coherent explanations." In Proceedings of the Conference on Fairness, Accountability, and Transparency, pp. 20-28. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1901.04909.pdf)
-
+	- proposes new search algorithms for counterfactual explanations
+based upon mixed integer programming
 * ***Wachter, Sandra, Brent Mittelstadt, and Chris Russell. "Counterfactual explanations without opening the black box: Automated decisions and the GDPR." Harv. JL & Tech. 31 (2017): 841.***
 	- [Paper Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
 	- Formula:
@@ -407,11 +408,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTQzNDk1OCwtMTM4MDk3MDA5NiwxOD
-M0MzMyMDcxLC0xNTkyOTc5ODMzLC05OTY5MDMwNzQsMTgzNTI2
-MzU3NiwtMTYzNDU4ODY2NSwxMDczMjk5NzksMjgxMzIzMjY0LD
-E0MTUxMzcxMzUsLTEwMzA5Nzc2OTgsLTE2OTEwMzk1MDAsLTY0
-NjA4ODgwOSwtMTU0ODk3MjMyLC0xMzE2MDYwODExLC03NDU0OT
-Y0ODcsMjExOTYwMzQyLC0xMDg0MDE0NDM2LDI1ODU0NzU5MCwt
-MjA1Njk1NzE2OF19
+eyJoaXN0b3J5IjpbMTc2Mzg3MjAzMiwyMTQ1NDM0OTU4LC0xMz
+gwOTcwMDk2LDE4MzQzMzIwNzEsLTE1OTI5Nzk4MzMsLTk5Njkw
+MzA3NCwxODM1MjYzNTc2LC0xNjM0NTg4NjY1LDEwNzMyOTk3OS
+wyODEzMjMyNjQsMTQxNTEzNzEzNSwtMTAzMDk3NzY5OCwtMTY5
+MTAzOTUwMCwtNjQ2MDg4ODA5LC0xNTQ4OTcyMzIsLTEzMTYwNj
+A4MTEsLTc0NTQ5NjQ4NywyMTE5NjAzNDIsLTEwODQwMTQ0MzYs
+MjU4NTQ3NTkwXX0=
 -->
