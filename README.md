@@ -226,7 +226,9 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 	- Instance x
 	- Neighborhood Z is generated from c by using genetic algorithms
 	- Z is then labeled by b and then analyze by c
-	- 
+	- We call <a href="https://www.codecogs.com/eqnedit.php?latex=\delta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\delta" title="\delta" /></a> a counterfactual .  A counterfactual  describes
+what features to change and how to change them to get an
+outcome different from y.
 * ***Narendra, Tanmayee, et al. "Explaining deep learning models using causal inference." _arXiv preprint arXiv:1811.04376_ (2018). [77]***
 	- [Paper Link](https://arxiv.org/pdf/1811.04376.pdf)
 	- Consider the DNN as an structural causal model, apply a function on each filter of the model to obtain the targeted value such as variance or expected value of each filter and reason on the obtained SCM.
@@ -429,11 +431,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODY0MzEwNiwtNjU5NDU1NzksLTc5Nj
-gxOTU1MiwtNzg0NjQyNTM3LDE0MjM2NjUyNzEsLTQ3Mjk0MDU0
-MCwyMDE0Mzk4NzU2LC0xNTkxMjMzNzMxLDY2ODMzNTQxOCwtMT
-c0MTY2NjExNSwtODY3MzA0NDYwLC0xMTUyNzEwNjExLC0xMDA3
-MTM1ODMxLDg0NTI0MzI5MiwtNzA3OTc2Mzg0LDE5NDI0MzQ5ND
-csMjE0NTQzNDk1OCwtMTM4MDk3MDA5NiwxODM0MzMyMDcxLC0x
-NTkyOTc5ODMzXX0=
+eyJoaXN0b3J5IjpbNDkwMjY0MjY2LC00MTg2NDMxMDYsLTY1OT
+Q1NTc5LC03OTY4MTk1NTIsLTc4NDY0MjUzNywxNDIzNjY1Mjcx
+LC00NzI5NDA1NDAsMjAxNDM5ODc1NiwtMTU5MTIzMzczMSw2Nj
+gzMzU0MTgsLTE3NDE2NjYxMTUsLTg2NzMwNDQ2MCwtMTE1Mjcx
+MDYxMSwtMTAwNzEzNTgzMSw4NDUyNDMyOTIsLTcwNzk3NjM4NC
+wxOTQyNDM0OTQ3LDIxNDU0MzQ5NTgsLTEzODA5NzAwOTYsMTgz
+NDMzMjA3MV19
 -->
