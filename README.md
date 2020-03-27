@@ -82,7 +82,7 @@ models with state-of-the-art accuracy.
 	- TabNet inputs raw tabular data without any feature preprocessing and is trained using gradient
 descent-based optimization to learn flexible representations and enable flexible integration into end-to-end learning.
 	- TabNet uses sequential attention to choose which features to reason from at each decision step
-	- **Paper:** a recent study in used the attention mechanism in neural network to select the features in each decision steps. Instead of using tradiational feature engineer techniques, they adopt raw data as inputs for attention neural network for the flexible representations.  
+	- **Paper:**  Instead of using traditional feature engineer techniques, Arik, Sercan O., and Tomas Pfister adopt raw data as inputs for attention neural network for the flexible representations.  
 
  
 ### Disentangled Representation Learning. <a name="represent"></a>
@@ -103,7 +103,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- Demonstrate the broad applicability of attribution priors (Ω) by presentingthree distinct examples that regularize models to behave more intuitively in three different domains.
 	- Encode meaningful domain knowledge as differentiable functions of feature attributions
 	- Propose a feature attribution method, called expected gradients, and describe why it is anatural choice for attribution priors. Expected gradients is an extension of integrated gradients with fewer hyperparameter choices. Like several other attribution methods, integrated gradients aimsto explain the difference between a model’s current prediction and the prediction that model would make when given a baseline input.
-	
+	- **Paper:** 
 * ***Wang, Tong, and Qihang Lin. "Hybrid predictive model: When an interpretable model collaborates with a black-box model." _arXiv preprint arXiv:1905.04241_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1905.04241.pdf)
 * ***Pan, Danqing, Tong Wang, and Satoshi Hara. "Interpretable Companions for Black-Box Models." _arXiv preprint arXiv:2002.03494_ (2020).***
@@ -422,11 +422,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDM5ODc1NiwtMTU5MTIzMzczMSw2Nj
-gzMzU0MTgsLTE3NDE2NjYxMTUsLTg2NzMwNDQ2MCwtMTE1Mjcx
-MDYxMSwtMTAwNzEzNTgzMSw4NDUyNDMyOTIsLTcwNzk3NjM4NC
-wxOTQyNDM0OTQ3LDIxNDU0MzQ5NTgsLTEzODA5NzAwOTYsMTgz
-NDMzMjA3MSwtMTU5Mjk3OTgzMywtOTk2OTAzMDc0LDE4MzUyNj
-M1NzYsLTE2MzQ1ODg2NjUsMTA3MzI5OTc5LDI4MTMyMzI2NCwx
-NDE1MTM3MTM1XX0=
+eyJoaXN0b3J5IjpbMTk2NjY0MzUzLDIwMTQzOTg3NTYsLTE1OT
+EyMzM3MzEsNjY4MzM1NDE4LC0xNzQxNjY2MTE1LC04NjczMDQ0
+NjAsLTExNTI3MTA2MTEsLTEwMDcxMzU4MzEsODQ1MjQzMjkyLC
+03MDc5NzYzODQsMTk0MjQzNDk0NywyMTQ1NDM0OTU4LC0xMzgw
+OTcwMDk2LDE4MzQzMzIwNzEsLTE1OTI5Nzk4MzMsLTk5NjkwMz
+A3NCwxODM1MjYzNTc2LC0xNjM0NTg4NjY1LDEwNzMyOTk3OSwy
+ODEzMjMyNjRdfQ==
 -->
