@@ -216,6 +216,8 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 * Average Causal Effect: 
 	- because casual effects vary over individuals and are not observable, they can not be measured at the individual level
 ### Model-based: <a name="base_causal"></a>
+* ***Artelt, André, and Barbara Hammer. "Convex Density Constraints for Computing Plausible Counterfactual Explanations." _arXiv preprint arXiv:2002.04862_ (2020).***
+
 * ***Guidotti, Riccardo, et al. "Factual and Counterfactual Explanations for Black Box Decision Making." _IEEE Intelligent Systems_ (2019).***
 
 * ***Narendra, Tanmayee, et al. "Explaining deep learning models using causal inference." _arXiv preprint arXiv:1811.04376_ (2018). [77]***
@@ -419,11 +421,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzMwNDQ2MCwtMTE1MjcxMDYxMSwtMT
-AwNzEzNTgzMSw4NDUyNDMyOTIsLTcwNzk3NjM4NCwxOTQyNDM0
-OTQ3LDIxNDU0MzQ5NTgsLTEzODA5NzAwOTYsMTgzNDMzMjA3MS
-wtMTU5Mjk3OTgzMywtOTk2OTAzMDc0LDE4MzUyNjM1NzYsLTE2
-MzQ1ODg2NjUsMTA3MzI5OTc5LDI4MTMyMzI2NCwxNDE1MTM3MT
-M1LC0xMDMwOTc3Njk4LC0xNjkxMDM5NTAwLC02NDYwODg4MDks
-LTE1NDg5NzIzMl19
+eyJoaXN0b3J5IjpbNjQzMTI3NDI0LC04NjczMDQ0NjAsLTExNT
+I3MTA2MTEsLTEwMDcxMzU4MzEsODQ1MjQzMjkyLC03MDc5NzYz
+ODQsMTk0MjQzNDk0NywyMTQ1NDM0OTU4LC0xMzgwOTcwMDk2LD
+E4MzQzMzIwNzEsLTE1OTI5Nzk4MzMsLTk5NjkwMzA3NCwxODM1
+MjYzNTc2LC0xNjM0NTg4NjY1LDEwNzMyOTk3OSwyODEzMjMyNj
+QsMTQxNTEzNzEzNSwtMTAzMDk3NzY5OCwtMTY5MTAzOTUwMCwt
+NjQ2MDg4ODA5XX0=
 -->
