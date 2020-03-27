@@ -264,6 +264,7 @@ They are designed based on a new type of conditional probability <a href="https:
 	- Propose a method to generate counterfactual examples in a high dimensional setting.
 	- For **credit application prediction** via off-the-shelf interchangeable black-box classifiers.
 	- Propose to reweigh the distance between the features of an instance and its corresponding counterfactual with the inverse median absolute deviation.
+	- <a href="https://www.codecogs.com/eqnedit.php?latex=L(x,x^\prime,y^\prime,\lambda)=\lambda\cdot(\hat{f}(x^\prime)-y^\prime)^2&plus;d(x,x^\prime)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L(x,x^\prime,y^\prime,\lambda)=\lambda\cdot(\hat{f}(x^\prime)-y^\prime)^2&plus;d(x,x^\prime)" title="L(x,x^\prime,y^\prime,\lambda)=\lambda\cdot(\hat{f}(x^\prime)-y^\prime)^2+d(x,x^\prime)" /></a>
 
 * ***Kanehira, Atsushi, et al. "Multimodal explanations by predicting counterfactuality in videos." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1812.01263.pdf)
@@ -400,11 +401,11 @@ sensitive attribute referenced in the example were different?
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzI5OTc5LDI4MTMyMzI2NCwxNDE1MT
-M3MTM1LC0xMDMwOTc3Njk4LC0xNjkxMDM5NTAwLC02NDYwODg4
-MDksLTE1NDg5NzIzMiwtMTMxNjA2MDgxMSwtNzQ1NDk2NDg3LD
-IxMTk2MDM0MiwtMTA4NDAxNDQzNiwyNTg1NDc1OTAsLTIwNTY5
-NTcxNjgsMTY0ODkxMTUyMCw2NjE2MDA2MzUsMTIxNjUzMzkyNi
-wxMTQ0MjY2MTYsLTE0ODQ1MTE1MDcsLTI3NDY1NDg1LC05ODUx
-NjIxODZdfQ==
+eyJoaXN0b3J5IjpbLTE2MzQ1ODg2NjUsMTA3MzI5OTc5LDI4MT
+MyMzI2NCwxNDE1MTM3MTM1LC0xMDMwOTc3Njk4LC0xNjkxMDM5
+NTAwLC02NDYwODg4MDksLTE1NDg5NzIzMiwtMTMxNjA2MDgxMS
+wtNzQ1NDk2NDg3LDIxMTk2MDM0MiwtMTA4NDAxNDQzNiwyNTg1
+NDc1OTAsLTIwNTY5NTcxNjgsMTY0ODkxMTUyMCw2NjE2MDA2Mz
+UsMTIxNjUzMzkyNiwxMTQ0MjY2MTYsLTE0ODQ1MTE1MDcsLTI3
+NDY1NDg1XX0=
 -->
