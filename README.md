@@ -82,7 +82,7 @@ models with state-of-the-art accuracy.
 	- TabNet inputs raw tabular data without any feature preprocessing and is trained using gradient
 descent-based optimization to learn flexible representations and enable flexible integration into end-to-end learning.
 	- TabNet uses sequential attention to choose which features to reason from at each decision step
-	- **Paper:** a recent study in used the attention mechanism in neural network to select the features in each decision steps. They use raw feature 
+	- **Paper:** a recent study in used the attention mechanism in neural network to select the features in each decision steps. Instead of using tradiational feature engineer techniques, they adopt raw data as inputs for attention neural network for the flexible representations.  
 
  
 ### Disentangled Representation Learning. <a name="represent"></a>
@@ -422,11 +422,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0Nzc0NjY2LC0xNTkxMjMzNzMxLDY2OD
-MzNTQxOCwtMTc0MTY2NjExNSwtODY3MzA0NDYwLC0xMTUyNzEw
-NjExLC0xMDA3MTM1ODMxLDg0NTI0MzI5MiwtNzA3OTc2Mzg0LD
-E5NDI0MzQ5NDcsMjE0NTQzNDk1OCwtMTM4MDk3MDA5NiwxODM0
-MzMyMDcxLC0xNTkyOTc5ODMzLC05OTY5MDMwNzQsMTgzNTI2Mz
-U3NiwtMTYzNDU4ODY2NSwxMDczMjk5NzksMjgxMzIzMjY0LDE0
-MTUxMzcxMzVdfQ==
+eyJoaXN0b3J5IjpbMjAxNDM5ODc1NiwtMTU5MTIzMzczMSw2Nj
+gzMzU0MTgsLTE3NDE2NjYxMTUsLTg2NzMwNDQ2MCwtMTE1Mjcx
+MDYxMSwtMTAwNzEzNTgzMSw4NDUyNDMyOTIsLTcwNzk3NjM4NC
+wxOTQyNDM0OTQ3LDIxNDU0MzQ5NTgsLTEzODA5NzAwOTYsMTgz
+NDMzMjA3MSwtMTU5Mjk3OTgzMywtOTk2OTAzMDc0LDE4MzUyNj
+M1NzYsLTE2MzQ1ODg2NjUsMTA3MzI5OTc5LDI4MTMyMzI2NCwx
+NDE1MTM3MTM1XX0=
 -->
