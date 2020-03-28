@@ -181,10 +181,10 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 
 * ***Lucic, Ana, Hinda Haned, and Maarten de Rijke. "Explaining Predictions from Tree-based Boosting Ensembles." _arXiv preprint arXiv:1907.02582_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1907.02582.pdf)
-	- Most existing methods for counterfactual explanations are 
+	- Most existing methods for counterfactual explanations are:
 		* model-agnostic, so they do not take into account the structure of the original model
 		* involve building a surrogate model on top of the original model, which is not guaranteed to represent the original model accurately.
-	* 
+	*
 
 * ***Jia, Yunzhe, et al. "Improving the Quality of Explanations with Local Embedding Perturbations." _Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_. 2019.***
 	- [Paper Link](https://people.eng.unimelb.edu.au/baileyj/papers/KDD2019.pdf)
@@ -432,11 +432,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDcwNjc0MSwxODczMzM3OTcxLDg2Mj
-g4MjMyNSw0MDQwMzIzMTQsLTEyMjcyMDM5NTgsNDkwMjY0MjY2
-LC00MTg2NDMxMDYsLTY1OTQ1NTc5LC03OTY4MTk1NTIsLTc4ND
-Y0MjUzNywxNDIzNjY1MjcxLC00NzI5NDA1NDAsMjAxNDM5ODc1
-NiwtMTU5MTIzMzczMSw2NjgzMzU0MTgsLTE3NDE2NjYxMTUsLT
-g2NzMwNDQ2MCwtMTE1MjcxMDYxMSwtMTAwNzEzNTgzMSw4NDUy
-NDMyOTJdfQ==
+eyJoaXN0b3J5IjpbMTMwNTI3Mzc5MSwxNzkwNzA2NzQxLDE4Nz
+MzMzc5NzEsODYyODgyMzI1LDQwNDAzMjMxNCwtMTIyNzIwMzk1
+OCw0OTAyNjQyNjYsLTQxODY0MzEwNiwtNjU5NDU1NzksLTc5Nj
+gxOTU1MiwtNzg0NjQyNTM3LDE0MjM2NjUyNzEsLTQ3Mjk0MDU0
+MCwyMDE0Mzk4NzU2LC0xNTkxMjMzNzMxLDY2ODMzNTQxOCwtMT
+c0MTY2NjExNSwtODY3MzA0NDYwLC0xMTUyNzEwNjExLC0xMDA3
+MTM1ODMxXX0=
 -->
