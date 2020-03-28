@@ -48,7 +48,7 @@ A generalized additive model (GAM) is a generalized linear model in which the li
 	- Generalize a state-of-the-art GAM learning algorithm based on boosted trees to the multiclass setting, which nearly outperforms existing GAM learning algorithm
 	- Additive Post-Processing for Interpretability (API) that provably transforms a pretrained additive model to satisfy the interpretability axioms without sacrificing accuracy
 	- Optimization procedure is cyclic gradient boosting
-	- **Paper:** Zhang, Xuezhou, et al. proposen 
+	- **Paper:** Zhang, Xuezhou, et al. propose the generalized additive model (GAM) based on boosted trees in the mulclass setting, and interpretability methods to explain the model's behaviors.
 * ***Caruana, Rich, et al. "Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission." _Proceedings of the 21th ACM SIGKDD international conference on knowledge discovery and data mining_. 2015.***
 	- [Paper Link](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)
 	- present two case studies where high-performance gener-
@@ -447,7 +447,7 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg4NDc3OTYsMTYzNDU1ODQ3OCwyNT
+eyJoaXN0b3J5IjpbLTEzNjIwMjUyOTAsMTYzNDU1ODQ3OCwyNT
 EwMzU5MjIsLTI0Mjg5MTA1NywxNjk2ODEzMzY2LDE0MTA0MzYy
 NDcsLTE3MjcxOTQ5MDMsMTMxNzcyNTYxOSw3NjMyMDU5MDAsMj
 EzODQ1NTMxOSwtMTY4NTY5MDE3MywxNzkwNzA2NzQxLDE4NzMz
