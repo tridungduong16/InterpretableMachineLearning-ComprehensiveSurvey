@@ -184,11 +184,12 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 	- Most existing methods for counterfactual explanations are 
 		* model-agnostic, so they do not take into account the structure of the original model
 		* involve building a surrogate model on top of the original model, which is not guaranteed to represent the original model accurately.
+	* 
 
 * ***Jia, Yunzhe, et al. "Improving the Quality of Explanations with Local Embedding Perturbations." _Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_. 2019.***
 	- [Paper Link](https://people.eng.unimelb.edu.au/baileyj/papers/KDD2019.pdf)
 	- propose a local intrinsic dimensionality (LID) based locality constraint. Based on this, we then propose a new neighborhood generation method. Our method first fits a local embedding/subspace around a given instance using the LID of the test instance as the target dimensionality, then generates neighbors in the local embedding and projects them back to the original space. 
-	- **Paper:** Jia, Yunzhe, et al popose a local model-agnostic methods which genrates a embedding around a given instance called a local instrinsic dimensionality. 
+	- **Paper:** Jia, Yunzhe, et al popose a local model-agnostic methods which genrates a embedding around a given instance called a local instrinsic dimensionality.
 ### Example-based explantions: <a name="example_agnostic"></a>
 * ***Wachter, Sandra, Brent Mittelstadt, and Chris Russell. "Counterfactual explanations without opening the black box: Automated decisions and the GDPR." _Harv. JL & Tech._ 31 (2017): 841.***
 	- [Paper Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
@@ -431,7 +432,7 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDIxODU1MSwxODczMzM3OTcxLDg2Mj
+eyJoaXN0b3J5IjpbMTc5MDcwNjc0MSwxODczMzM3OTcxLDg2Mj
 g4MjMyNSw0MDQwMzIzMTQsLTEyMjcyMDM5NTgsNDkwMjY0MjY2
 LC00MTg2NDMxMDYsLTY1OTQ1NTc5LC03OTY4MTk1NTIsLTc4ND
 Y0MjUzNywxNDIzNjY1MjcxLC00NzI5NDA1NDAsMjAxNDM5ODc1
