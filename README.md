@@ -155,7 +155,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Source code](https://github.com/slundberg/shap)
 	- SHAP Tree explainer: which focuses on polynomial time fast SHAP value estimation specific for tree and ensemble tree
 	- SHAP Deep Explainer: is the high speed approximation SHAP value for deep learning model
-	- **Paper:**: Based on Shaply value in classical cooperative games Lundberg, Scott M., and Su-In Lee. propose a novel method to explain the individual prediction. Since calculating Shapley value is computationally expensive and slow, his method called Kernel Shap can approximate the value by using kernel-estimation method. 
+	- **Paper:**: Based on Shapley value in classical cooperative games, Lundberg, Scott M., and Su-In Lee. propose a novel method to explain the individual prediction. Since calculating Shapley value is computationally expensive and slow, his method called Kernel Shap can approximate the value by using kernel-estimation method. 
 * ***Kononenko, Igor. "An efficient explanation of individual classifications using game theory." _Journal of Machine Learning Research_ 11.Jan (2010): 1-18.***
 	- [Paper Link](http://www.jmlr.org/papers/volume11/strumbelj10a/strumbelj10a.pdf)
 * ***Chen, Hugh, Scott Lundberg, and Su-In Lee. "Explaining Models by Propagating Shapley Values of Local Components." _arXiv preprint arXiv:1911.11888_ (2019).***
@@ -441,11 +441,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDQzNjI0NywtMTcyNzE5NDkwMywxMz
-E3NzI1NjE5LDc2MzIwNTkwMCwyMTM4NDU1MzE5LC0xNjg1Njkw
-MTczLDE3OTA3MDY3NDEsMTg3MzMzNzk3MSw4NjI4ODIzMjUsND
-A0MDMyMzE0LC0xMjI3MjAzOTU4LDQ5MDI2NDI2NiwtNDE4NjQz
-MTA2LC02NTk0NTU3OSwtNzk2ODE5NTUyLC03ODQ2NDI1MzcsMT
-QyMzY2NTI3MSwtNDcyOTQwNTQwLDIwMTQzOTg3NTYsLTE1OTEy
-MzM3MzFdfQ==
+eyJoaXN0b3J5IjpbMTY5NjgxMzM2NiwxNDEwNDM2MjQ3LC0xNz
+I3MTk0OTAzLDEzMTc3MjU2MTksNzYzMjA1OTAwLDIxMzg0NTUz
+MTksLTE2ODU2OTAxNzMsMTc5MDcwNjc0MSwxODczMzM3OTcxLD
+g2Mjg4MjMyNSw0MDQwMzIzMTQsLTEyMjcyMDM5NTgsNDkwMjY0
+MjY2LC00MTg2NDMxMDYsLTY1OTQ1NTc5LC03OTY4MTk1NTIsLT
+c4NDY0MjUzNywxNDIzNjY1MjcxLC00NzI5NDA1NDAsMjAxNDM5
+ODc1Nl19
 -->
