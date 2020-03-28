@@ -109,7 +109,7 @@ descent-based optimization to learn flexible representations and enable flexible
 * ***Pan, Danqing, Tong Wang, and Satoshi Hara. "Interpretable Companions for Black-Box Models." _arXiv preprint arXiv:2002.03494_ (2020).***
 	- [Paper Link](https://arxiv.org/pdf/2002.03494.pdf)
 	- The companion model is trained from data and the predictions of the black-box model, with the objective combining area under the transparency-accuracy curve and model complexity.
-	- Pan, Danqing, Tong Wang, and Satoshi Hara: 
+	- **Paper:** Pan, Danqing, Tong Wang, and Satoshi Hara 
 ## Model-Specific Explanation Methods <a name="specify"></a>:
 ### Knowledge distillation <a name="distillation"></a>:
 * ***Hinton, Geoffrey, Oriol Vinyals, and Jeff Dean. "Distilling the knowledge in a neural network." arXiv preprint arXiv:1503.02531 (2015).***
@@ -431,11 +431,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzMzNzk3MSw4NjI4ODIzMjUsNDA0MD
-MyMzE0LC0xMjI3MjAzOTU4LDQ5MDI2NDI2NiwtNDE4NjQzMTA2
-LC02NTk0NTU3OSwtNzk2ODE5NTUyLC03ODQ2NDI1MzcsMTQyMz
-Y2NTI3MSwtNDcyOTQwNTQwLDIwMTQzOTg3NTYsLTE1OTEyMzM3
-MzEsNjY4MzM1NDE4LC0xNzQxNjY2MTE1LC04NjczMDQ0NjAsLT
-ExNTI3MTA2MTEsLTEwMDcxMzU4MzEsODQ1MjQzMjkyLC03MDc5
-NzYzODRdfQ==
+eyJoaXN0b3J5IjpbMTQwNDIxODU1MSwxODczMzM3OTcxLDg2Mj
+g4MjMyNSw0MDQwMzIzMTQsLTEyMjcyMDM5NTgsNDkwMjY0MjY2
+LC00MTg2NDMxMDYsLTY1OTQ1NTc5LC03OTY4MTk1NTIsLTc4ND
+Y0MjUzNywxNDIzNjY1MjcxLC00NzI5NDA1NDAsMjAxNDM5ODc1
+NiwtMTU5MTIzMzczMSw2NjgzMzU0MTgsLTE3NDE2NjYxMTUsLT
+g2NzMwNDQ2MCwtMTE1MjcxMDYxMSwtMTAwNzEzNTgzMSw4NDUy
+NDMyOTJdfQ==
 -->
