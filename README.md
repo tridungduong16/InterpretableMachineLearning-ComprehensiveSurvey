@@ -56,7 +56,7 @@ are applied to real healthcare problems yielding intelligible
 models with state-of-the-art accuracy.
 	- <a href="https://www.codecogs.com/eqnedit.php?latex=g(E[y])&space;=&space;\beta&space;_{0}&space;&plus;&space;\sum&space;f_j(x_j)&space;&plus;&space;\sum&space;f_{i,j}(x_i;&space;x_j)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?g(E[y])&space;=&space;\beta&space;_{0}&space;&plus;&space;\sum&space;f_j(x_j)&space;&plus;&space;\sum&space;f_{i,j}(x_i;&space;x_j)" title="g(E[y]) = \beta _{0} + \sum f_j(x_j) + \sum f_{i,j}(x_i; x_j)" /></a>
 	- GA2M builds the best GAM first and then detects and ranks all possible pairs of interactions in the residuals. The top k pairs are then included in the model (k is determined by cross-validation).
-	- **Paper**: Caruana, Rich, et al. propose GA2M
+	- **Paper**: Caruana, Rich, et al. propose GA2M which based on traditional GAM combining with interactions between pairs of features. 
 
 * ***Timonen, Juho, et al. "An interpretable probabilistic machine learning method for heterogeneous longitudinal studies." arXiv preprint arXiv:1912.03549 (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1912.03549.pdf)
@@ -445,7 +445,7 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODY5MzkxNywxNjM0NTU4NDc4LDI1MT
+eyJoaXN0b3J5IjpbMTk3MjU2Mzg0NCwxNjM0NTU4NDc4LDI1MT
 AzNTkyMiwtMjQyODkxMDU3LDE2OTY4MTMzNjYsMTQxMDQzNjI0
 NywtMTcyNzE5NDkwMywxMzE3NzI1NjE5LDc2MzIwNTkwMCwyMT
 M4NDU1MzE5LC0xNjg1NjkwMTczLDE3OTA3MDY3NDEsMTg3MzMz
