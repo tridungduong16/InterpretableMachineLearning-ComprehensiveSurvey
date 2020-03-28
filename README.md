@@ -48,6 +48,7 @@ A generalized additive model (GAM) is a generalized linear model in which the li
 	- Generalize a state-of-the-art GAM learning algorithm based on boosted trees to the multiclass setting, which nearly outperforms existing GAM learning algorithm
 	- Additive Post-Processing for Interpretability (API) that provably transforms a pretrained additive model to satisfy the interpretability axioms without sacrificing accuracy
 	- Optimization procedure is cyclic gradient boosting
+	- **Paper:** Zhang, Xuezhou, et al. proposen 
 * ***Caruana, Rich, et al. "Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission." _Proceedings of the 21th ACM SIGKDD international conference on knowledge discovery and data mining_. 2015.***
 	- [Paper Link](http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf)
 	- present two case studies where high-performance gener-
@@ -61,6 +62,7 @@ models with state-of-the-art accuracy.
 * ***Timonen, Juho, et al. "An interpretable probabilistic machine learning method for heterogeneous longitudinal studies." arXiv preprint arXiv:1912.03549 (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1912.03549.pdf)
 	- Present a widely applicable and interpretable probabilistic machine learning method for nonparametric longitudinal data analysis using additive Gaussian process regression.
+	- 
 
 ### Bayesian model: <a name="bayes"></a>
 * ***Letham, Benjamin, et al. "Interpretable classifiers using rules and bayesian analysis: Building a better stroke prediction model." The Annals of Applied Statistics 9.3 (2015): 1350-1371.***
@@ -445,11 +447,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjU2Mzg0NCwxNjM0NTU4NDc4LDI1MT
-AzNTkyMiwtMjQyODkxMDU3LDE2OTY4MTMzNjYsMTQxMDQzNjI0
-NywtMTcyNzE5NDkwMywxMzE3NzI1NjE5LDc2MzIwNTkwMCwyMT
-M4NDU1MzE5LC0xNjg1NjkwMTczLDE3OTA3MDY3NDEsMTg3MzMz
-Nzk3MSw4NjI4ODIzMjUsNDA0MDMyMzE0LC0xMjI3MjAzOTU4LD
-Q5MDI2NDI2NiwtNDE4NjQzMTA2LC02NTk0NTU3OSwtNzk2ODE5
-NTUyXX0=
+eyJoaXN0b3J5IjpbLTExODg4NDc3OTYsMTYzNDU1ODQ3OCwyNT
+EwMzU5MjIsLTI0Mjg5MTA1NywxNjk2ODEzMzY2LDE0MTA0MzYy
+NDcsLTE3MjcxOTQ5MDMsMTMxNzcyNTYxOSw3NjMyMDU5MDAsMj
+EzODQ1NTMxOSwtMTY4NTY5MDE3MywxNzkwNzA2NzQxLDE4NzMz
+Mzc5NzEsODYyODgyMzI1LDQwNDAzMjMxNCwtMTIyNzIwMzk1OC
+w0OTAyNjQyNjYsLTQxODY0MzEwNiwtNjU5NDU1NzksLTc5Njgx
+OTU1Ml19
 -->
