@@ -184,7 +184,17 @@ to produce a local interpretable approximation to the otherwise complex black-bo
 	- Most existing methods for counterfactual explanations are:
 		* model-agnostic, so they do not take into account the structure of the original model
 		* involve building a surrogate model on top of the original model, which is not guaranteed to represent the original model accurately.
-	*
+	- 1) We rst extend [13] to work for adaptive boosting [6],
+which still trains on the original labels. is allows us to
+focus specically on training trees in sequence and use this
+to narrow our search space.
+	- (2) We extend our new method for adaptive boosting to gradient
+boosting [4], where we not only train in sequence but
+also train on the negative gradients of the previous tree.
+	- In our case study, we examined how we can use the sequential
+training nature of boosting methods to narrow the search space
+for alternative examples when generating explanations.
+
 
 * ***Jia, Yunzhe, et al. "Improving the Quality of Explanations with Local Embedding Perturbations." _Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_. 2019.***
 	- [Paper Link](https://people.eng.unimelb.edu.au/baileyj/papers/KDD2019.pdf)
@@ -432,11 +442,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTI3Mzc5MSwxNzkwNzA2NzQxLDE4Nz
-MzMzc5NzEsODYyODgyMzI1LDQwNDAzMjMxNCwtMTIyNzIwMzk1
-OCw0OTAyNjQyNjYsLTQxODY0MzEwNiwtNjU5NDU1NzksLTc5Nj
-gxOTU1MiwtNzg0NjQyNTM3LDE0MjM2NjUyNzEsLTQ3Mjk0MDU0
-MCwyMDE0Mzk4NzU2LC0xNTkxMjMzNzMxLDY2ODMzNTQxOCwtMT
-c0MTY2NjExNSwtODY3MzA0NDYwLC0xMTUyNzEwNjExLC0xMDA3
-MTM1ODMxXX0=
+eyJoaXN0b3J5IjpbLTE2ODU2OTAxNzMsMTc5MDcwNjc0MSwxOD
+czMzM3OTcxLDg2Mjg4MjMyNSw0MDQwMzIzMTQsLTEyMjcyMDM5
+NTgsNDkwMjY0MjY2LC00MTg2NDMxMDYsLTY1OTQ1NTc5LC03OT
+Y4MTk1NTIsLTc4NDY0MjUzNywxNDIzNjY1MjcxLC00NzI5NDA1
+NDAsMjAxNDM5ODc1NiwtMTU5MTIzMzczMSw2NjgzMzU0MTgsLT
+E3NDE2NjYxMTUsLTg2NzMwNDQ2MCwtMTE1MjcxMDYxMSwtMTAw
+NzEzNTgzMV19
 -->
