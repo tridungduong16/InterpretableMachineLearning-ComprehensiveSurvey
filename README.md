@@ -227,7 +227,7 @@ also train on the negative gradients of the previous tree.
 * ***Alvarez-Melis, David, and Tommi S. Jaakkola. "A causal framework for explaining the predictions of black-box sequence-to-sequence models." _arXiv preprint arXiv:1707.01943_ (2017).***
 
 * ***Artelt, André, and Barbara Hammer. "Convex Density Constraints for Computing Plausible Counterfactual Explanations." _arXiv preprint arXiv:2002.04862_ (2020).***
-
+	- 
 * ***Bertossi, Leopoldo, et al. "Causality-based Explanation of Classification Outcomes." _arXiv preprint arXiv:2003.06868_ (2020).***
 
 * ***Guidotti, Riccardo, et al. "Factual and Counterfactual Explanations for Black Box Decision Making." _IEEE Intelligent Systems_ (2019).***
@@ -442,11 +442,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3OTc1MDEyLDE2OTY4MTMzNjYsMTQxMD
-QzNjI0NywtMTcyNzE5NDkwMywxMzE3NzI1NjE5LDc2MzIwNTkw
-MCwyMTM4NDU1MzE5LC0xNjg1NjkwMTczLDE3OTA3MDY3NDEsMT
-g3MzMzNzk3MSw4NjI4ODIzMjUsNDA0MDMyMzE0LC0xMjI3MjAz
-OTU4LDQ5MDI2NDI2NiwtNDE4NjQzMTA2LC02NTk0NTU3OSwtNz
-k2ODE5NTUyLC03ODQ2NDI1MzcsMTQyMzY2NTI3MSwtNDcyOTQw
-NTQwXX0=
+eyJoaXN0b3J5IjpbLTI0Mjg5MTA1NywxNjk2ODEzMzY2LDE0MT
+A0MzYyNDcsLTE3MjcxOTQ5MDMsMTMxNzcyNTYxOSw3NjMyMDU5
+MDAsMjEzODQ1NTMxOSwtMTY4NTY5MDE3MywxNzkwNzA2NzQxLD
+E4NzMzMzc5NzEsODYyODgyMzI1LDQwNDAzMjMxNCwtMTIyNzIw
+Mzk1OCw0OTAyNjQyNjYsLTQxODY0MzEwNiwtNjU5NDU1NzksLT
+c5NjgxOTU1MiwtNzg0NjQyNTM3LDE0MjM2NjUyNzEsLTQ3Mjk0
+MDU0MF19
 -->
