@@ -82,7 +82,7 @@ models with state-of-the-art accuracy.
 	- TabNet inputs raw tabular data without any feature preprocessing and is trained using gradient
 descent-based optimization to learn flexible representations and enable flexible integration into end-to-end learning.
 	- TabNet uses sequential attention to choose which features to reason from at each decision step
-	- **Paper:**  Instead of using traditional feature engineer techniques, Arik, Sercan O., and Tomas Pfister adopt raw data as inputs for attention neural network for the flexible representations.  
+	- **Paper:**  Instead of using traditional feature engineer techniques, Arik, Sercan O., and Tomas Pfister adopt raw data as inputs for attention neural network for the flexible representations. 
 
  
 ### Disentangled Representation Learning. <a name="represent"></a>
@@ -109,8 +109,7 @@ descent-based optimization to learn flexible representations and enable flexible
 * ***Pan, Danqing, Tong Wang, and Satoshi Hara. "Interpretable Companions for Black-Box Models." _arXiv preprint arXiv:2002.03494_ (2020).***
 	- [Paper Link](https://arxiv.org/pdf/2002.03494.pdf)
 	- The companion model is trained from data and the predictions of the black-box model, with the objective combining area under the transparency-accuracy curve and model complexity.
-
-
+	- Pan, Danqing, Tong Wang, and Satoshi Hara: 
 ## Model-Specific Explanation Methods <a name="specify"></a>:
 ### Knowledge distillation <a name="distillation"></a>:
 * ***Hinton, Geoffrey, Oriol Vinyals, and Jeff Dean. "Distilling the knowledge in a neural network." arXiv preprint arXiv:1503.02531 (2015).***
@@ -432,11 +431,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0MDMyMzE0LC0xMjI3MjAzOTU4LDQ5MD
-I2NDI2NiwtNDE4NjQzMTA2LC02NTk0NTU3OSwtNzk2ODE5NTUy
-LC03ODQ2NDI1MzcsMTQyMzY2NTI3MSwtNDcyOTQwNTQwLDIwMT
-QzOTg3NTYsLTE1OTEyMzM3MzEsNjY4MzM1NDE4LC0xNzQxNjY2
-MTE1LC04NjczMDQ0NjAsLTExNTI3MTA2MTEsLTEwMDcxMzU4Mz
-EsODQ1MjQzMjkyLC03MDc5NzYzODQsMTk0MjQzNDk0NywyMTQ1
-NDM0OTU4XX0=
+eyJoaXN0b3J5IjpbODYyODgyMzI1LDQwNDAzMjMxNCwtMTIyNz
+IwMzk1OCw0OTAyNjQyNjYsLTQxODY0MzEwNiwtNjU5NDU1Nzks
+LTc5NjgxOTU1MiwtNzg0NjQyNTM3LDE0MjM2NjUyNzEsLTQ3Mj
+k0MDU0MCwyMDE0Mzk4NzU2LC0xNTkxMjMzNzMxLDY2ODMzNTQx
+OCwtMTc0MTY2NjExNSwtODY3MzA0NDYwLC0xMTUyNzEwNjExLC
+0xMDA3MTM1ODMxLDg0NTI0MzI5MiwtNzA3OTc2Mzg0LDE5NDI0
+MzQ5NDddfQ==
 -->
