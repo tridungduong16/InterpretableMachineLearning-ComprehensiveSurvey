@@ -195,7 +195,7 @@ also train on the negative gradients of the previous tree.
 
 * ***Jia, Yunzhe, et al. "Improving the Quality of Explanations with Local Embedding Perturbations." _Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining_. 2019.***
 	- [Paper Link](https://people.eng.unimelb.edu.au/baileyj/papers/KDD2019.pdf)
-	- propose a local intrinsic dimensionality (LID) based locality constraint. Based on this, we then propose a new neighborhood generation method. Our method first fits a local embedding/subspace around a given instance using the LID of the test instance as the target dimensionality, then generates neighbors in the local embedding and projects them back to the original space. 
+	- propose a local intrinsic dimensionality (LID) based locality constraint. Based on this, we then propose a new neighborhood 	u,edjikk,generation method. Our method first fits a local embedding/subspace around a given instance using the LID of the test instance as the target dimensionality, then generates neighbors in the local embedding and projects them back to the original space. 
 	- **Paper:** Jia, Yunzhe, et al popose a local model-agnostic methods which genrates a embedding around a given instance called a local instrinsic dimensionality.
 ### Example-based explantions: <a name="example_agnostic"></a>
 * ***Wachter, Sandra, Brent Mittelstadt, and Chris Russell. "Counterfactual explanations without opening the black box: Automated decisions and the GDPR." _Harv. JL & Tech._ 31 (2017): 841.***
@@ -439,11 +439,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODQ1NTMxOSwtMTY4NTY5MDE3MywxNz
-kwNzA2NzQxLDE4NzMzMzc5NzEsODYyODgyMzI1LDQwNDAzMjMx
-NCwtMTIyNzIwMzk1OCw0OTAyNjQyNjYsLTQxODY0MzEwNiwtNj
-U5NDU1NzksLTc5NjgxOTU1MiwtNzg0NjQyNTM3LDE0MjM2NjUy
-NzEsLTQ3Mjk0MDU0MCwyMDE0Mzk4NzU2LC0xNTkxMjMzNzMxLD
-Y2ODMzNTQxOCwtMTc0MTY2NjExNSwtODY3MzA0NDYwLC0xMTUy
-NzEwNjExXX0=
+eyJoaXN0b3J5IjpbNzYzMjA1OTAwLDIxMzg0NTUzMTksLTE2OD
+U2OTAxNzMsMTc5MDcwNjc0MSwxODczMzM3OTcxLDg2Mjg4MjMy
+NSw0MDQwMzIzMTQsLTEyMjcyMDM5NTgsNDkwMjY0MjY2LC00MT
+g2NDMxMDYsLTY1OTQ1NTc5LC03OTY4MTk1NTIsLTc4NDY0MjUz
+NywxNDIzNjY1MjcxLC00NzI5NDA1NDAsMjAxNDM5ODc1NiwtMT
+U5MTIzMzczMSw2NjgzMzU0MTgsLTE3NDE2NjYxMTUsLTg2NzMw
+NDQ2MF19
 -->
