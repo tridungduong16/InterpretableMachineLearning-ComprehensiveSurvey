@@ -353,6 +353,7 @@ does not only apply to the overall data set, but importantly also to the trainin
 	- [Paper Link](https://arxiv.org/pdf/1907.07165.pdf)
 	- propose to explain classifiers’ decisions by measuring the Causal Concept Effect (CACE). 
 	- CACE is defined as the causal effect of a concept (such as the brightness or an object in the image) on the prediction. In order to generate counterfactuals, authors leverage a VAE-based architecture. 
+	- **Paper:** Goyal, Yash, Uri Shalit, and Been Kim propose an approach 
 * ***Liu, Shusen, et al. "Generative counterfactual introspection for explainable deep learning." arXiv preprint arXiv:1907.03077 (2019).***
 	- [Paper  Link](https://arxiv.org/pdf/1907.03077.pdf)
 	- propose a generative model to generate counterfactual explanations for explaining a model’s decisions.
@@ -462,11 +463,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQzOTM1NzQsMTIzNjE3NzUzMCwxMj
-c4NTMzNTYxLDEzNTI5MTMzOCwtMTU3MDkwNzg5NywxMzUyOTEz
-MzgsLTYwMzM5MDI3LC00OTc1MzcyNDQsLTEzNjIwMjUyOTAsMT
-YzNDU1ODQ3OCwyNTEwMzU5MjIsLTI0Mjg5MTA1NywxNjk2ODEz
-MzY2LDE0MTA0MzYyNDcsLTE3MjcxOTQ5MDMsMTMxNzcyNTYxOS
-w3NjMyMDU5MDAsMjEzODQ1NTMxOSwtMTY4NTY5MDE3MywxNzkw
-NzA2NzQxXX0=
+eyJoaXN0b3J5IjpbLTU1MzgzNDE2LC0xNjY0MzkzNTc0LDEyMz
+YxNzc1MzAsMTI3ODUzMzU2MSwxMzUyOTEzMzgsLTE1NzA5MDc4
+OTcsMTM1MjkxMzM4LC02MDMzOTAyNywtNDk3NTM3MjQ0LC0xMz
+YyMDI1MjkwLDE2MzQ1NTg0NzgsMjUxMDM1OTIyLC0yNDI4OTEw
+NTcsMTY5NjgxMzM2NiwxNDEwNDM2MjQ3LC0xNzI3MTk0OTAzLD
+EzMTc3MjU2MTksNzYzMjA1OTAwLDIxMzg0NTUzMTksLTE2ODU2
+OTAxNzNdfQ==
 -->
