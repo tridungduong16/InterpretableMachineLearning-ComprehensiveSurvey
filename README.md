@@ -321,7 +321,6 @@ error. Ideally, the **phrase error should be 0**.
 	- proposes new search algorithms for counterfactual explanations
 based upon mixed integer programming
 	- Formalising Counterfactual Explanations:
-		+ 
 * ***Wachter, Sandra, Brent Mittelstadt, and Chris Russell. "Counterfactual explanations without opening the black box: Automated decisions and the GDPR." Harv. JL & Tech. 31 (2017): 841.***
 	- [Paper Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
 	- Formula:
@@ -465,11 +464,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzI4NzgyNSwtMTY2NDM5MzU3NCwxMj
-M2MTc3NTMwLDEyNzg1MzM1NjEsMTM1MjkxMzM4LC0xNTcwOTA3
-ODk3LDEzNTI5MTMzOCwtNjAzMzkwMjcsLTQ5NzUzNzI0NCwtMT
-M2MjAyNTI5MCwxNjM0NTU4NDc4LDI1MTAzNTkyMiwtMjQyODkx
-MDU3LDE2OTY4MTMzNjYsMTQxMDQzNjI0NywtMTcyNzE5NDkwMy
-wxMzE3NzI1NjE5LDc2MzIwNTkwMCwyMTM4NDU1MzE5LC0xNjg1
-NjkwMTczXX0=
+eyJoaXN0b3J5IjpbLTQ4NTYyNjg1NiwtNzczMjg3ODI1LC0xNj
+Y0MzkzNTc0LDEyMzYxNzc1MzAsMTI3ODUzMzU2MSwxMzUyOTEz
+MzgsLTE1NzA5MDc4OTcsMTM1MjkxMzM4LC02MDMzOTAyNywtND
+k3NTM3MjQ0LC0xMzYyMDI1MjkwLDE2MzQ1NTg0NzgsMjUxMDM1
+OTIyLC0yNDI4OTEwNTcsMTY5NjgxMzM2NiwxNDEwNDM2MjQ3LC
+0xNzI3MTk0OTAzLDEzMTc3MjU2MTksNzYzMjA1OTAwLDIxMzg0
+NTUzMTldfQ==
 -->
