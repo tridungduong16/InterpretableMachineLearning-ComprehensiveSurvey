@@ -339,6 +339,15 @@ based upon mixed integer programming
 	- [Paper Link]()
 * ***Van Looveren, Arnaud, and Janis Klaise. "Interpretable counterfactual explanations guided by prototypes." arXiv preprint arXiv:1907.02584 (2019).***
 	- [Paper Link]()
+	- The model prediction on xcf needs to be close to the
+predefined output.
+	- The perturbation  changing the original instance x0
+into xcf = x0 +  should be sparse.
+	- The counterfactual xcf needs to be interpretable. We
+consider an instance xcf interpretable if it lies close
+to the model’s training data distribution. This definition
+does not only apply to the overall data set, but importantly also to the training instances that belong. 
+
 * ***Goyal, Yash, Uri Shalit, and Been Kim. "Explaining Classifiers with Causal Concept Effect (CaCE)." arXiv preprint arXiv:1907.07165 (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1907.07165.pdf)
 	- propose to explain classifiers’ decisions by measuring the Causal Concept Effect (CACE). 
@@ -452,11 +461,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjkxMzM4LC0xNTcwOTA3ODk3LDEzNT
-I5MTMzOCwtNjAzMzkwMjcsLTQ5NzUzNzI0NCwtMTM2MjAyNTI5
-MCwxNjM0NTU4NDc4LDI1MTAzNTkyMiwtMjQyODkxMDU3LDE2OT
-Y4MTMzNjYsMTQxMDQzNjI0NywtMTcyNzE5NDkwMywxMzE3NzI1
-NjE5LDc2MzIwNTkwMCwyMTM4NDU1MzE5LC0xNjg1NjkwMTczLD
-E3OTA3MDY3NDEsMTg3MzMzNzk3MSw4NjI4ODIzMjUsNDA0MDMy
-MzE0XX0=
+eyJoaXN0b3J5IjpbMTI3ODUzMzU2MSwxMzUyOTEzMzgsLTE1Nz
+A5MDc4OTcsMTM1MjkxMzM4LC02MDMzOTAyNywtNDk3NTM3MjQ0
+LC0xMzYyMDI1MjkwLDE2MzQ1NTg0NzgsMjUxMDM1OTIyLC0yND
+I4OTEwNTcsMTY5NjgxMzM2NiwxNDEwNDM2MjQ3LC0xNzI3MTk0
+OTAzLDEzMTc3MjU2MTksNzYzMjA1OTAwLDIxMzg0NTUzMTksLT
+E2ODU2OTAxNzMsMTc5MDcwNjc0MSwxODczMzM3OTcxLDg2Mjg4
+MjMyNV19
 -->
