@@ -353,7 +353,8 @@ does not only apply to the overall data set, but importantly also to the trainin
 	- [Paper Link](https://arxiv.org/pdf/1907.07165.pdf)
 	- propose to explain classifiers’ decisions by measuring the Causal Concept Effect (CACE). 
 	- CACE is defined as the causal effect of a concept (such as the brightness or an object in the image) on the prediction. In order to generate counterfactuals, authors leverage a VAE-based architecture. 
-	- **Paper:** Goyal, Yash, Uri Shalit, and Been Kim propose an approach 
+	- **Paper:** Goyal, Yash, Uri Shalit, and Been Kim try to explain the classifier by calculating the causal effect.
+	- 
 * ***Liu, Shusen, et al. "Generative counterfactual introspection for explainable deep learning." arXiv preprint arXiv:1907.03077 (2019).***
 	- [Paper  Link](https://arxiv.org/pdf/1907.03077.pdf)
 	- propose a generative model to generate counterfactual explanations for explaining a model’s decisions.
@@ -367,6 +368,7 @@ Counterfactual fairnessis a notion of fairness derived from Pearl’s causal mod
 	- [Paper Link](https://papers.nips.cc/paper/6995-counterfactual-fairness.pdf)
 	- the actual world 
 	- a counterfactual world where the individual belonged to a different demographic group.
+	- 
 * ***Kilbertus, Niki, et al. "Avoiding discrimination through causal reasoning." Advances in Neural Information Processing Systems. 2017.***
 	- [Paper Link](https://arxiv.org/pdf/1706.02744.pdf)
 	- address the problem from a data generation perspective by going beyond observational data. The authors propose to
@@ -463,11 +465,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzgzNDE2LC0xNjY0MzkzNTc0LDEyMz
-YxNzc1MzAsMTI3ODUzMzU2MSwxMzUyOTEzMzgsLTE1NzA5MDc4
-OTcsMTM1MjkxMzM4LC02MDMzOTAyNywtNDk3NTM3MjQ0LC0xMz
-YyMDI1MjkwLDE2MzQ1NTg0NzgsMjUxMDM1OTIyLC0yNDI4OTEw
-NTcsMTY5NjgxMzM2NiwxNDEwNDM2MjQ3LC0xNzI3MTk0OTAzLD
-EzMTc3MjU2MTksNzYzMjA1OTAwLDIxMzg0NTUzMTksLTE2ODU2
-OTAxNzNdfQ==
+eyJoaXN0b3J5IjpbLTc3MzI4NzgyNSwtMTY2NDM5MzU3NCwxMj
+M2MTc3NTMwLDEyNzg1MzM1NjEsMTM1MjkxMzM4LC0xNTcwOTA3
+ODk3LDEzNTI5MTMzOCwtNjAzMzkwMjcsLTQ5NzUzNzI0NCwtMT
+M2MjAyNTI5MCwxNjM0NTU4NDc4LDI1MTAzNTkyMiwtMjQyODkx
+MDU3LDE2OTY4MTMzNjYsMTQxMDQzNjI0NywtMTcyNzE5NDkwMy
+wxMzE3NzI1NjE5LDc2MzIwNTkwMCwyMTM4NDU1MzE5LC0xNjg1
+NjkwMTczXX0=
 -->
