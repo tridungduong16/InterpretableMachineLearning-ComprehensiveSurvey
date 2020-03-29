@@ -300,6 +300,7 @@ They are designed based on a new type of conditional probability <a href="https:
 	- <a href="https://www.codecogs.com/eqnedit.php?latex=L(x,x^\prime,y^\prime,\lambda)=\lambda\cdot(\hat{f}(x^\prime)-y^\prime)^2&plus;d(x,x^\prime)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L(x,x^\prime,y^\prime,\lambda)=\lambda\cdot(\hat{f}(x^\prime)-y^\prime)^2&plus;d(x,x^\prime)" title="L(x,x^\prime,y^\prime,\lambda)=\lambda\cdot(\hat{f}(x^\prime)-y^\prime)^2+d(x,x^\prime)" /></a>
 	- **Paper:** Grath, Rory Mc, et al. propose a weighted counterfactual explanation method for features importance. Their intuition is that there are some features that make little changes to generate counterfactual explanation. 
 > Ideas: Using the high-performance backbox model, after that, we evalaute the features importance by using LIME or SHAP, after that we generate the counterfactual explantion based on the weighted features. 
+> Ideas: use other distance metrics, such as in probabilistic models, we use the KL, EM 
 
 * ***Kanehira, Atsushi, et al. "Multimodal explanations by predicting counterfactuality in videos." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1812.01263.pdf)
@@ -461,11 +462,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODUzMzU2MSwxMzUyOTEzMzgsLTE1Nz
-A5MDc4OTcsMTM1MjkxMzM4LC02MDMzOTAyNywtNDk3NTM3MjQ0
-LC0xMzYyMDI1MjkwLDE2MzQ1NTg0NzgsMjUxMDM1OTIyLC0yND
-I4OTEwNTcsMTY5NjgxMzM2NiwxNDEwNDM2MjQ3LC0xNzI3MTk0
-OTAzLDEzMTc3MjU2MTksNzYzMjA1OTAwLDIxMzg0NTUzMTksLT
-E2ODU2OTAxNzMsMTc5MDcwNjc0MSwxODczMzM3OTcxLDg2Mjg4
-MjMyNV19
+eyJoaXN0b3J5IjpbMTIzNjE3NzUzMCwxMjc4NTMzNTYxLDEzNT
+I5MTMzOCwtMTU3MDkwNzg5NywxMzUyOTEzMzgsLTYwMzM5MDI3
+LC00OTc1MzcyNDQsLTEzNjIwMjUyOTAsMTYzNDU1ODQ3OCwyNT
+EwMzU5MjIsLTI0Mjg5MTA1NywxNjk2ODEzMzY2LDE0MTA0MzYy
+NDcsLTE3MjcxOTQ5MDMsMTMxNzcyNTYxOSw3NjMyMDU5MDAsMj
+EzODQ1NTMxOSwtMTY4NTY5MDE3MywxNzkwNzA2NzQxLDE4NzMz
+Mzc5NzFdfQ==
 -->
