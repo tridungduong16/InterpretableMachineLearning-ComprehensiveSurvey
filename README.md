@@ -232,7 +232,6 @@ also train on the negative gradients of the previous tree.
 * ***Artelt, André, and Barbara Hammer. "Convex Density Constraints for Computing Plausible Counterfactual Explanations." _arXiv preprint arXiv:2002.04862_ (2020).***
 	- Proposed and studied a formal denition of plausible counterfactual explanations. In this denition we proposed to add density constraints to the optimization problem for computing counterfactual explanations to ensure that the resulting counterfactual is plausible in the given data domain.
 	- **Kernel density estimation** (**KDE**) is a [non-parametric](https://en.wikipedia.org/wiki/Non-parametric_statistics "Non-parametric statistics") way to [estimate](https://en.wikipedia.org/wiki/Density_estimation "Density estimation") the [probability density function](https://en.wikipedia.org/wiki/Probability_density_function "Probability density function") of a [random variable](https://en.wikipedia.org/wiki/Random_variable "Random variable")
-	- 
 * ***Bertossi, Leopoldo, et al. "Causality-based Explanation of Classification Outcomes." _arXiv preprint arXiv:2003.06868_ (2020).***
 	- Dene the explanation problem for a black-box classier.
 	- Introduce RESP, a black-box explanation score based on causality. 
@@ -453,11 +452,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzM5MDI3LC00OTc1MzcyNDQsLTEzNj
-IwMjUyOTAsMTYzNDU1ODQ3OCwyNTEwMzU5MjIsLTI0Mjg5MTA1
-NywxNjk2ODEzMzY2LDE0MTA0MzYyNDcsLTE3MjcxOTQ5MDMsMT
-MxNzcyNTYxOSw3NjMyMDU5MDAsMjEzODQ1NTMxOSwtMTY4NTY5
-MDE3MywxNzkwNzA2NzQxLDE4NzMzMzc5NzEsODYyODgyMzI1LD
-QwNDAzMjMxNCwtMTIyNzIwMzk1OCw0OTAyNjQyNjYsLTQxODY0
-MzEwNl19
+eyJoaXN0b3J5IjpbMTM1MjkxMzM4LC02MDMzOTAyNywtNDk3NT
+M3MjQ0LC0xMzYyMDI1MjkwLDE2MzQ1NTg0NzgsMjUxMDM1OTIy
+LC0yNDI4OTEwNTcsMTY5NjgxMzM2NiwxNDEwNDM2MjQ3LC0xNz
+I3MTk0OTAzLDEzMTc3MjU2MTksNzYzMjA1OTAwLDIxMzg0NTUz
+MTksLTE2ODU2OTAxNzMsMTc5MDcwNjc0MSwxODczMzM3OTcxLD
+g2Mjg4MjMyNSw0MDQwMzIzMTQsLTEyMjcyMDM5NTgsNDkwMjY0
+MjY2XX0=
 -->
