@@ -320,7 +320,8 @@ error. Ideally, the **phrase error should be 0**.
 	- [Paper Link](https://arxiv.org/pdf/1901.04909.pdf)
 	- proposes new search algorithms for counterfactual explanations
 based upon mixed integer programming
-	- Formalising Counterfactual Explanations:
+	- Formalising Counterfactual Explanations
+	- **Paper:** Russell, Chris 
 * ***Wachter, Sandra, Brent Mittelstadt, and Chris Russell. "Counterfactual explanations without opening the black box: Automated decisions and the GDPR." Harv. JL & Tech. 31 (2017): 841.***
 	- [Paper Link](https://arxiv.org/ftp/arxiv/papers/1711/1711.00399.pdf)
 	- Formula:
@@ -464,7 +465,7 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTYyNjg1NiwtNzczMjg3ODI1LC0xNj
+eyJoaXN0b3J5IjpbLTM4OTc2MTE1NCwtNzczMjg3ODI1LC0xNj
 Y0MzkzNTc0LDEyMzYxNzc1MzAsMTI3ODUzMzU2MSwxMzUyOTEz
 MzgsLTE1NzA5MDc4OTcsMTM1MjkxMzM4LC02MDMzOTAyNywtND
 k3NTM3MjQ0LC0xMzYyMDI1MjkwLDE2MzQ1NTg0NzgsMjUxMDM1
