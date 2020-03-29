@@ -296,6 +296,7 @@ They are designed based on a new type of conditional probability <a href="https:
 	- Propose to reweigh the distance between the features of an instance and its corresponding counterfactual with the inverse median absolute deviation.
 	- <a href="https://www.codecogs.com/eqnedit.php?latex=L(x,x^\prime,y^\prime,\lambda)=\lambda\cdot(\hat{f}(x^\prime)-y^\prime)^2&plus;d(x,x^\prime)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L(x,x^\prime,y^\prime,\lambda)=\lambda\cdot(\hat{f}(x^\prime)-y^\prime)^2&plus;d(x,x^\prime)" title="L(x,x^\prime,y^\prime,\lambda)=\lambda\cdot(\hat{f}(x^\prime)-y^\prime)^2+d(x,x^\prime)" /></a>
 	- **Paper:** Grath, Rory Mc, et al. propose a weighted counterfactual explanation method for features importance. Their intuition is that there are some features that make little changes to generate counterfactual explanation. 
+	- 
 * ***Kanehira, Atsushi, et al. "Multimodal explanations by predicting counterfactuality in videos." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1812.01263.pdf)
 * ***Hendricks, Lisa Anne, et al. "Generating counterfactual explanations with natural language." arXiv preprint arXiv:1806.09809 (2018).***
@@ -447,11 +448,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIwMjUyOTAsMTYzNDU1ODQ3OCwyNT
-EwMzU5MjIsLTI0Mjg5MTA1NywxNjk2ODEzMzY2LDE0MTA0MzYy
-NDcsLTE3MjcxOTQ5MDMsMTMxNzcyNTYxOSw3NjMyMDU5MDAsMj
-EzODQ1NTMxOSwtMTY4NTY5MDE3MywxNzkwNzA2NzQxLDE4NzMz
-Mzc5NzEsODYyODgyMzI1LDQwNDAzMjMxNCwtMTIyNzIwMzk1OC
-w0OTAyNjQyNjYsLTQxODY0MzEwNiwtNjU5NDU1NzksLTc5Njgx
-OTU1Ml19
+eyJoaXN0b3J5IjpbLTE3OTY2NjQ1MjUsLTEzNjIwMjUyOTAsMT
+YzNDU1ODQ3OCwyNTEwMzU5MjIsLTI0Mjg5MTA1NywxNjk2ODEz
+MzY2LDE0MTA0MzYyNDcsLTE3MjcxOTQ5MDMsMTMxNzcyNTYxOS
+w3NjMyMDU5MDAsMjEzODQ1NTMxOSwtMTY4NTY5MDE3MywxNzkw
+NzA2NzQxLDE4NzMzMzc5NzEsODYyODgyMzI1LDQwNDAzMjMxNC
+wtMTIyNzIwMzk1OCw0OTAyNjQyNjYsLTQxODY0MzEwNiwtNjU5
+NDU1NzldfQ==
 -->
