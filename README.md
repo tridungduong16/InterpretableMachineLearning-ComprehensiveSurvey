@@ -234,13 +234,10 @@ also train on the negative gradients of the previous tree.
 	- **Kernel density estimation** (**KDE**) is a [non-parametric](https://en.wikipedia.org/wiki/Non-parametric_statistics "Non-parametric statistics") way to [estimate](https://en.wikipedia.org/wiki/Density_estimation "Density estimation") the [probability density function](https://en.wikipedia.org/wiki/Probability_density_function "Probability density function") of a [random variable](https://en.wikipedia.org/wiki/Random_variable "Random variable")
 	- 
 * ***Bertossi, Leopoldo, et al. "Causality-based Explanation of Classification Outcomes." _arXiv preprint arXiv:2003.06868_ (2020).***
-	- We dene the explanation problem for a black-box classier.
- 	- We introduce RESP, a black-box explanation score based on causality. 
-	- We describe the formal connection between RESP and SHAP, showing that, while they are somewhat
-correlated, they are quite dierent. 
-	- We establish the computational complexity of RESP and SHAP over two simple probabilistic models of
-the population. Sec. 5.
-	- We conduct an extensive experimental evaluation. Sec. 6
+	- Dene the explanation problem for a black-box classier.
+	- Introduce RESP, a black-box explanation score based on causality. 
+	- Describe the formal connection between RESP and SHAP, showing that, while they are somewhat correlated, they are quite dierent. 
+	- Establish the computational complexity of RESP and SHAP over two simple probabilistic models of the population. 
 
 * ***Guidotti, Riccardo, et al. "Factual and Counterfactual Explanations for Black Box Decision Making." _IEEE Intelligent Systems_ (2019).***
 	- Blackbox model b
@@ -456,11 +453,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM2MjUwMDMsLTQ5NzUzNzI0NCwtMT
-M2MjAyNTI5MCwxNjM0NTU4NDc4LDI1MTAzNTkyMiwtMjQyODkx
-MDU3LDE2OTY4MTMzNjYsMTQxMDQzNjI0NywtMTcyNzE5NDkwMy
-wxMzE3NzI1NjE5LDc2MzIwNTkwMCwyMTM4NDU1MzE5LC0xNjg1
-NjkwMTczLDE3OTA3MDY3NDEsMTg3MzMzNzk3MSw4NjI4ODIzMj
-UsNDA0MDMyMzE0LC0xMjI3MjAzOTU4LDQ5MDI2NDI2NiwtNDE4
-NjQzMTA2XX0=
+eyJoaXN0b3J5IjpbLTYwMzM5MDI3LC00OTc1MzcyNDQsLTEzNj
+IwMjUyOTAsMTYzNDU1ODQ3OCwyNTEwMzU5MjIsLTI0Mjg5MTA1
+NywxNjk2ODEzMzY2LDE0MTA0MzYyNDcsLTE3MjcxOTQ5MDMsMT
+MxNzcyNTYxOSw3NjMyMDU5MDAsMjEzODQ1NTMxOSwtMTY4NTY5
+MDE3MywxNzkwNzA2NzQxLDE4NzMzMzc5NzEsODYyODgyMzI1LD
+QwNDAzMjMxNCwtMTIyNzIwMzk1OCw0OTAyNjQyNjYsLTQxODY0
+MzEwNl19
 -->
