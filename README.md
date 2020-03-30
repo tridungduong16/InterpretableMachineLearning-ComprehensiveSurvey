@@ -290,6 +290,8 @@ outcome different from y.
 
 ### Example-based Interpretation: <a name="example_causal"></a>
 They are designed based on a new type of conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=P(y_{x}|x^{'},y^{'})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(y_{x}|x^{'},y^{'})" title="P(y_{x}|x^{'},y^{'})" /></a>. This probability indicates how likely the outcome (label) of an observed instance, i.e., y′, would change to yx if x′ is set to x.
+* ***Rafael Poyiadzi, Kacper Sokol, Ra´ul Santos-Rodriguez, Tijl De Bie, and Peter A. Flach. FACE: feasible and actionable counterfactual explanations. CoRR, abs/1909.09369, 2019.***
+
 
 * ***Grath, Rory Mc, et al. "Interpretable credit application predictions with counterfactual explanations." arXiv preprint arXiv:1811.05245 (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1811.05245.pdf)
@@ -465,11 +467,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTU3ODI3NywtNzczMjg3ODI1LC0xNj
-Y0MzkzNTc0LDEyMzYxNzc1MzAsMTI3ODUzMzU2MSwxMzUyOTEz
-MzgsLTE1NzA5MDc4OTcsMTM1MjkxMzM4LC02MDMzOTAyNywtND
-k3NTM3MjQ0LC0xMzYyMDI1MjkwLDE2MzQ1NTg0NzgsMjUxMDM1
-OTIyLC0yNDI4OTEwNTcsMTY5NjgxMzM2NiwxNDEwNDM2MjQ3LC
-0xNzI3MTk0OTAzLDEzMTc3MjU2MTksNzYzMjA1OTAwLDIxMzg0
-NTUzMTldfQ==
+eyJoaXN0b3J5IjpbOTMxMTczMzMsLTM1OTU3ODI3NywtNzczMj
+g3ODI1LC0xNjY0MzkzNTc0LDEyMzYxNzc1MzAsMTI3ODUzMzU2
+MSwxMzUyOTEzMzgsLTE1NzA5MDc4OTcsMTM1MjkxMzM4LC02MD
+MzOTAyNywtNDk3NTM3MjQ0LC0xMzYyMDI1MjkwLDE2MzQ1NTg0
+NzgsMjUxMDM1OTIyLC0yNDI4OTEwNTcsMTY5NjgxMzM2NiwxND
+EwNDM2MjQ3LC0xNzI3MTk0OTAzLDEzMTc3MjU2MTksNzYzMjA1
+OTAwXX0=
 -->
