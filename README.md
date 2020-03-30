@@ -228,7 +228,7 @@ also train on the negative gradients of the previous tree.
 	- because casual effects vary over individuals and are not observable, they can not be measured at the individual level
 ### Model-based: <a name="base_causal"></a>
 
-***Sharma, Shubham, Jette Henderson, and Joydeep Ghosh. "Certifai: Counterfactual explanations for robustness, transparency, interpretability, and fairness of artificial intelligence models." _arXiv preprint arXiv:1905.07857_ (2019).***
+* ***Sharma, Shubham, Jette Henderson, and Joydeep Ghosh. "Certifai: Counterfactual explanations for robustness, transparency, interpretability, and fairness of artificial intelligence models." _arXiv preprint arXiv:1905.07857_ (2019).***
 
 * ***Alvarez-Melis, David, and Tommi S. Jaakkola. "A causal framework for explaining the predictions of black-box sequence-to-sequence models." _arXiv preprint arXiv:1707.01943_ (2017).***
 
@@ -481,7 +481,7 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTYzNDc1MiwtMzM2MzcxNTE2LC04Mz
+eyJoaXN0b3J5IjpbMTY0MzMzODQyMiwtMzM2MzcxNTE2LC04Mz
 Q4ODIxMTEsLTE4Njc5NTY3NzIsLTE0MDk4MjUwNjgsOTMxMTcz
 MzMsLTM1OTU3ODI3NywtNzczMjg3ODI1LC0xNjY0MzkzNTc0LD
 EyMzYxNzc1MzAsMTI3ODUzMzU2MSwxMzUyOTEzMzgsLTE1NzA5
