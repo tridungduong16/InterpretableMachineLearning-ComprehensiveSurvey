@@ -342,6 +342,12 @@ based upon mixed integer programming
 	- Maximize the point-wise distance between examples in feature-space or leverage the concept from Determinantal point processes to select a subset of samples with the diversity constraint.
 
 * *** Gabriele Tolomei, Fabrizio Silvestri, Andrew Haines, and Mounia Lalmas. Interpretable predictions of tree-based ensembles via actionable feature tweaking. In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD ’17, pages 465–474, New York, NY, USA, 2017. ACM.***
+	- Their algorithm works as follows: We
+iterate over all trees in the ensemble that do not yield the requested prediction.
+Next, we compute all possible counterfactuals of each of these trees (see
+section 3.7.1). If this counterfactual turns our to be counterfactual of the ensemble,We store it so that in the end we can select the counterfactual with the
+smallest deviation from the original input. However, it can not be guaranteed that a counterfactual of the ensemble is found because it might happen that by changing the data point so that it becomes a counterfactual of a particular tree, the prediction of other trees in the ensemble change as well. According to the authors, this algorithm/heuristic works well in practice. Unfortunately, the worst-case complexity is exponential in the number of features and thus it is not suitable for high dimensional data.
+
  
 * ***Moore, Jonathan, Nils Hammerla, and Chris Watkins. "Explaining Deep Learning Models with Constrained Adversarial Examples." Pacific Rim International Conference on Artificial Intelligence. Springer, Cham, 2019.***
 	- [Paper Link]()
@@ -476,11 +482,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDg4MjExMSwtMTg2Nzk1Njc3MiwtMT
-QwOTgyNTA2OCw5MzExNzMzMywtMzU5NTc4Mjc3LC03NzMyODc4
-MjUsLTE2NjQzOTM1NzQsMTIzNjE3NzUzMCwxMjc4NTMzNTYxLD
-EzNTI5MTMzOCwtMTU3MDkwNzg5NywxMzUyOTEzMzgsLTYwMzM5
-MDI3LC00OTc1MzcyNDQsLTEzNjIwMjUyOTAsMTYzNDU1ODQ3OC
-wyNTEwMzU5MjIsLTI0Mjg5MTA1NywxNjk2ODEzMzY2LDE0MTA0
-MzYyNDddfQ==
+eyJoaXN0b3J5IjpbLTEyMDMzNzUyNzIsLTgzNDg4MjExMSwtMT
+g2Nzk1Njc3MiwtMTQwOTgyNTA2OCw5MzExNzMzMywtMzU5NTc4
+Mjc3LC03NzMyODc4MjUsLTE2NjQzOTM1NzQsMTIzNjE3NzUzMC
+wxMjc4NTMzNTYxLDEzNTI5MTMzOCwtMTU3MDkwNzg5NywxMzUy
+OTEzMzgsLTYwMzM5MDI3LC00OTc1MzcyNDQsLTEzNjIwMjUyOT
+AsMTYzNDU1ODQ3OCwyNTEwMzU5MjIsLTI0Mjg5MTA1NywxNjk2
+ODEzMzY2XX0=
 -->
