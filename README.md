@@ -292,18 +292,7 @@ outcome different from y.
 They are designed based on a new type of conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=P(y_{x}|x^{'},y^{'})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(y_{x}|x^{'},y^{'})" title="P(y_{x}|x^{'},y^{'})" /></a>. This probability indicates how likely the outcome (label) of an observed instance, i.e., y′, would change to yx if x′ is set to x.
 * ***Rafael Poyiadzi, Kacper Sokol, Ra´ul Santos-Rodriguez, Tijl De Bie, and Peter A. Flach. FACE: feasible and actionable counterfactual explanations. CoRR, abs/1909.09369, 2019.***
 	- **Survey**: Instead of computing a single counterfactual,
-the authors propose to compute a path of intermediate counterfactuals that lead
-to the final counterfactual. The idea behind this path of intermediate counterfactuals
-is to provide the user with a set of intermediate goals that finally lead to
-the desired goal - it might be more feasible to “go into the direction” of the final
-goal step by step instead of accomplishing it in a single step. In order to compute
-such a path of intermediate counterfactuals, the authors propose different
-strategies for constructing a graph on the training data set - including the query
-point. In this graph, two samples are connected by a weighted edge if they are
-“sufficient close to each other” - the authors propose different measurements for
-closeness (e.g. based on density estimation). The path of intermediate counterfactuals
-is equal to the shortest path between the query point and a point that
-satisfies the desired goal - this is the final counterfactual. Therefore the final counterfactual as well as all intermediate counterfactuals are elements from the training data set.
+the authors propose to compute a path of intermediate counterfactuals that lead to the final counterfactual. The idea behind this path of intermediate counterfactuals is to provide the user with a set of intermediate goals that finally lead to the desired goal - it might be more feasible to “go into the direction” of the final goal step by step instead of accomplishing it in a single step. In order to compute such a path of intermediate counterfactuals, the authors propose different strategies for constructing a graph on the training data set - including the query point. In this graph, two samples are connected by a weighted edge if they are “sufficient close to each other” - the authors propose different measurements for closeness (e.g. based on density estimation). The path of intermediate counterfactuals is equal to the shortest path between the query point and a point that satisfies the desired goal - this is the final counterfactual. Therefore the final counterfactual as well as all intermediate counterfactuals are elements from the training data set.
 
 
 * ***Grath, Rory Mc, et al. "Interpretable credit application predictions with counterfactual explanations." arXiv preprint arXiv:1811.05245 (2018).***
@@ -480,7 +469,7 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTk0OTYzNiw5MzExNzMzMywtMzU5NT
+eyJoaXN0b3J5IjpbLTg1OTE1MDYzMiw5MzExNzMzMywtMzU5NT
 c4Mjc3LC03NzMyODc4MjUsLTE2NjQzOTM1NzQsMTIzNjE3NzUz
 MCwxMjc4NTMzNTYxLDEzNTI5MTMzOCwtMTU3MDkwNzg5NywxMz
 UyOTEzMzgsLTYwMzM5MDI3LC00OTc1MzcyNDQsLTEzNjIwMjUy
