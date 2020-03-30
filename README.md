@@ -353,8 +353,7 @@ consider an instance xcf interpretable if it lies close
 to the model’s training data distribution. This definition
 does not only apply to the overall data set, but importantly also to the training instances that belong. 
 	- A slightly modified version of Eq. 1 was proposed in [23]. The authors claim that the original formalization in Eq. 1 does not take into account that the counterfactual should lie on the data manifold - the counterfactual should be a plausible data instance. To deal with this issue, the authors propose to add two additional terms to the original objective Eq. 1:
-		+ The distance/norm between the counterfactual ~x′ and the reconstructed
-version of it that has been computed by using a pretrained autoencoder.
+		+ The distance/norm between the counterfactual ~x′ and the reconstructed version of it that has been computed by using a pretrained autoencoder.
 		+ The distance/norm between the encoding of the counterfactual ~x′ and the mean encoding of training samples that belong to the requested class y′. The first term is supposed to make sure that the counterfactual ~x′ lies on the data manifold and thus is a plausible data instance. The second term is supposed to accelerate the solver for computing the solution of the final optimization problem. Both claims have been evaluated empirically [23].
 
 
@@ -474,11 +473,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk4MjUwNjgsOTMxMTczMzMsLTM1OT
-U3ODI3NywtNzczMjg3ODI1LC0xNjY0MzkzNTc0LDEyMzYxNzc1
-MzAsMTI3ODUzMzU2MSwxMzUyOTEzMzgsLTE1NzA5MDc4OTcsMT
-M1MjkxMzM4LC02MDMzOTAyNywtNDk3NTM3MjQ0LC0xMzYyMDI1
-MjkwLDE2MzQ1NTg0NzgsMjUxMDM1OTIyLC0yNDI4OTEwNTcsMT
-Y5NjgxMzM2NiwxNDEwNDM2MjQ3LC0xNzI3MTk0OTAzLDEzMTc3
-MjU2MTldfQ==
+eyJoaXN0b3J5IjpbLTE4Njc5NTY3NzIsLTE0MDk4MjUwNjgsOT
+MxMTczMzMsLTM1OTU3ODI3NywtNzczMjg3ODI1LC0xNjY0Mzkz
+NTc0LDEyMzYxNzc1MzAsMTI3ODUzMzU2MSwxMzUyOTEzMzgsLT
+E1NzA5MDc4OTcsMTM1MjkxMzM4LC02MDMzOTAyNywtNDk3NTM3
+MjQ0LC0xMzYyMDI1MjkwLDE2MzQ1NTg0NzgsMjUxMDM1OTIyLC
+0yNDI4OTEwNTcsMTY5NjgxMzM2NiwxNDEwNDM2MjQ3LC0xNzI3
+MTk0OTAzXX0=
 -->
