@@ -340,6 +340,9 @@ based upon mixed integer programming
 		+ generated examples must be feasible given users conditions and context such as range for the features or features to be changed; 	
 		+ counterfactual examples generated for explanations should be as diverse as possible. 
 	- Maximize the point-wise distance between examples in feature-space or leverage the concept from Determinantal point processes to select a subset of samples with the diversity constraint.
+
+* *** Gabriele Tolomei, Fabrizio Silvestri, Andrew Haines, and Mounia Lalmas. Interpretable predictions of tree-based ensembles via actionable feature tweaking. In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD ’17, pages 465–474, New York, NY, USA, 2017. ACM.***
+ 
 * ***Moore, Jonathan, Nils Hammerla, and Chris Watkins. "Explaining Deep Learning Models with Constrained Adversarial Examples." Pacific Rim International Conference on Artificial Intelligence. Springer, Cham, 2019.***
 	- [Paper Link]()
 * ***Van Looveren, Arnaud, and Janis Klaise. "Interpretable counterfactual explanations guided by prototypes." arXiv preprint arXiv:1907.02584 (2019).***
@@ -473,11 +476,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc5NTY3NzIsLTE0MDk4MjUwNjgsOT
-MxMTczMzMsLTM1OTU3ODI3NywtNzczMjg3ODI1LC0xNjY0Mzkz
-NTc0LDEyMzYxNzc1MzAsMTI3ODUzMzU2MSwxMzUyOTEzMzgsLT
-E1NzA5MDc4OTcsMTM1MjkxMzM4LC02MDMzOTAyNywtNDk3NTM3
-MjQ0LC0xMzYyMDI1MjkwLDE2MzQ1NTg0NzgsMjUxMDM1OTIyLC
-0yNDI4OTEwNTcsMTY5NjgxMzM2NiwxNDEwNDM2MjQ3LC0xNzI3
-MTk0OTAzXX0=
+eyJoaXN0b3J5IjpbLTgzNDg4MjExMSwtMTg2Nzk1Njc3MiwtMT
+QwOTgyNTA2OCw5MzExNzMzMywtMzU5NTc4Mjc3LC03NzMyODc4
+MjUsLTE2NjQzOTM1NzQsMTIzNjE3NzUzMCwxMjc4NTMzNTYxLD
+EzNTI5MTMzOCwtMTU3MDkwNzg5NywxMzUyOTEzMzgsLTYwMzM5
+MDI3LC00OTc1MzcyNDQsLTEzNjIwMjUyOTAsMTYzNDU1ODQ3OC
+wyNTEwMzU5MjIsLTI0Mjg5MTA1NywxNjk2ODEzMzY2LDE0MTA0
+MzYyNDddfQ==
 -->
