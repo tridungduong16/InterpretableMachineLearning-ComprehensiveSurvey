@@ -227,6 +227,9 @@ also train on the negative gradients of the previous tree.
 * Average Causal Effect: 
 	- because casual effects vary over individuals and are not observable, they can not be measured at the individual level
 ### Model-based: <a name="base_causal"></a>
+
+***Sharma, Shubham, Jette Henderson, and Joydeep Ghosh. "Certifai: Counterfactual explanations for robustness, transparency, interpretability, and fairness of artificial intelligence models." _arXiv preprint arXiv:1905.07857_ (2019).***
+
 * ***Alvarez-Melis, David, and Tommi S. Jaakkola. "A causal framework for explaining the predictions of black-box sequence-to-sequence models." _arXiv preprint arXiv:1707.01943_ (2017).***
 
 * ***Artelt, André, and Barbara Hammer. "Convex Density Constraints for Computing Plausible Counterfactual Explanations." _arXiv preprint arXiv:2002.04862_ (2020).***
@@ -478,11 +481,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjM3MTUxNiwtODM0ODgyMTExLC0xOD
-Y3OTU2NzcyLC0xNDA5ODI1MDY4LDkzMTE3MzMzLC0zNTk1Nzgy
-NzcsLTc3MzI4NzgyNSwtMTY2NDM5MzU3NCwxMjM2MTc3NTMwLD
-EyNzg1MzM1NjEsMTM1MjkxMzM4LC0xNTcwOTA3ODk3LDEzNTI5
-MTMzOCwtNjAzMzkwMjcsLTQ5NzUzNzI0NCwtMTM2MjAyNTI5MC
-wxNjM0NTU4NDc4LDI1MTAzNTkyMiwtMjQyODkxMDU3LDE2OTY4
-MTMzNjZdfQ==
+eyJoaXN0b3J5IjpbLTU3OTYzNDc1MiwtMzM2MzcxNTE2LC04Mz
+Q4ODIxMTEsLTE4Njc5NTY3NzIsLTE0MDk4MjUwNjgsOTMxMTcz
+MzMsLTM1OTU3ODI3NywtNzczMjg3ODI1LC0xNjY0MzkzNTc0LD
+EyMzYxNzc1MzAsMTI3ODUzMzU2MSwxMzUyOTEzMzgsLTE1NzA5
+MDc4OTcsMTM1MjkxMzM4LC02MDMzOTAyNywtNDk3NTM3MjQ0LC
+0xMzYyMDI1MjkwLDE2MzQ1NTg0NzgsMjUxMDM1OTIyLC0yNDI4
+OTEwNTddfQ==
 -->
