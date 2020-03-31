@@ -281,7 +281,7 @@ outcome different from y.
 	- "What is the impact of the n-th filter of the m-th layer of a deep neural network on the predictions of the model?"
 	- These frameworks are mainly designed to explain the importance of each component of a deep neural network on its predictions by answering counterfactual questions such as "What would have happened to the output of the model had we had a different component in the model?".
 	- These types of questions are answered by borrowing some concepts from the causal inference literature.
-
+	- **Paper:**
 *  ***Bau, David, et al. "Gan dissection: Visualizing and understanding generative adversarial networks." _arXiv preprint arXiv:1811.10597_ (2018).***
 	- [Paper Link](https://arxiv.org/pdf/1811.10597.pdf)
 	* Causal interpretation has also gained a lot of attention in Generative Adversarial Networks (GANs) interpretability.
@@ -485,7 +485,7 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTIzNDk2MCwxNjQzMzM4NDIyLC0zMz
+eyJoaXN0b3J5IjpbLTg2OTgwOTU3NywxNjQzMzM4NDIyLC0zMz
 YzNzE1MTYsLTgzNDg4MjExMSwtMTg2Nzk1Njc3MiwtMTQwOTgy
 NTA2OCw5MzExNzMzMywtMzU5NTc4Mjc3LC03NzMyODc4MjUsLT
 E2NjQzOTM1NzQsMTIzNjE3NzUzMCwxMjc4NTMzNTYxLDEzNTI5
