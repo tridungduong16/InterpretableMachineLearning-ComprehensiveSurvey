@@ -276,7 +276,7 @@ outcome different from y.
 		+ constructing Distributional Causal Graph which allows us to sample and compute likelihoods of the samples
 		+ generating a counterfactual image which is as similar as possible to the original image
 		+ estimating the effect of the modified factor by estimating the causal effect.
-	- **Paper:** 
+	- **Paper:** Martínez, Álvaro Parafita, and Jordi Vitrià Marca
 
 * ***Chattopadhyay, Aditya, et al. "Neural network attributions: A causal perspective." _arXiv preprint arXiv:1902.02302_ (2019). [12]***
 	- [Paper Link](https://arxiv.org/pdf/1902.02302.pdf)
@@ -487,11 +487,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzMTU5MDMwLC04Njk4MDk1NzcsMTY0Mz
-MzODQyMiwtMzM2MzcxNTE2LC04MzQ4ODIxMTEsLTE4Njc5NTY3
-NzIsLTE0MDk4MjUwNjgsOTMxMTczMzMsLTM1OTU3ODI3NywtNz
-czMjg3ODI1LC0xNjY0MzkzNTc0LDEyMzYxNzc1MzAsMTI3ODUz
-MzU2MSwxMzUyOTEzMzgsLTE1NzA5MDc4OTcsMTM1MjkxMzM4LC
-02MDMzOTAyNywtNDk3NTM3MjQ0LC0xMzYyMDI1MjkwLDE2MzQ1
-NTg0NzhdfQ==
+eyJoaXN0b3J5IjpbMjA1OTU2NzQ3NCwzOTMxNTkwMzAsLTg2OT
+gwOTU3NywxNjQzMzM4NDIyLC0zMzYzNzE1MTYsLTgzNDg4MjEx
+MSwtMTg2Nzk1Njc3MiwtMTQwOTgyNTA2OCw5MzExNzMzMywtMz
+U5NTc4Mjc3LC03NzMyODc4MjUsLTE2NjQzOTM1NzQsMTIzNjE3
+NzUzMCwxMjc4NTMzNTYxLDEzNTI5MTMzOCwtMTU3MDkwNzg5Ny
+wxMzUyOTEzMzgsLTYwMzM5MDI3LC00OTc1MzcyNDQsLTEzNjIw
+MjUyOTBdfQ==
 -->
