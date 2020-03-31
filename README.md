@@ -232,7 +232,7 @@ also train on the negative gradients of the previous tree.
 
 * ***Alvarez-Melis, David, and Tommi S. Jaakkola. "A causal framework for explaining the predictions of black-box sequence-to-sequence models." _arXiv preprint arXiv:1707.01943_ (2017).***
 	- Alvarez-Melis and Jaakkola [3] generated causal explanations for structured input structured output black-box models by (a) generating perturbed samples using a variational auroencoder; (b) generating a weighted bipartite graph G = (Vx ∪ Vy,E), where Vx and Vy are elements in x and y and Eij represents the causal influence of xi and yj ; and (c) generating explanation components using graph partitioning algorithms.
-	- **Paper:** There are three main steps in this methods: pertubation model, causal model and 
+	- **Paper:** There are three main steps in this methods: pertubation model, causal model and explanation selection 
 
 
 * ***Bertossi, Leopoldo, et al. "Causality-based Explanation of Classification Outcomes." _arXiv preprint arXiv:2003.06868_ (2020).***
@@ -487,11 +487,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc4NzAyNzcsLTg2OTgwOTU3NywxNj
-QzMzM4NDIyLC0zMzYzNzE1MTYsLTgzNDg4MjExMSwtMTg2Nzk1
-Njc3MiwtMTQwOTgyNTA2OCw5MzExNzMzMywtMzU5NTc4Mjc3LC
-03NzMyODc4MjUsLTE2NjQzOTM1NzQsMTIzNjE3NzUzMCwxMjc4
-NTMzNTYxLDEzNTI5MTMzOCwtMTU3MDkwNzg5NywxMzUyOTEzMz
-gsLTYwMzM5MDI3LC00OTc1MzcyNDQsLTEzNjIwMjUyOTAsMTYz
-NDU1ODQ3OF19
+eyJoaXN0b3J5IjpbMzkzMTU5MDMwLC04Njk4MDk1NzcsMTY0Mz
+MzODQyMiwtMzM2MzcxNTE2LC04MzQ4ODIxMTEsLTE4Njc5NTY3
+NzIsLTE0MDk4MjUwNjgsOTMxMTczMzMsLTM1OTU3ODI3NywtNz
+czMjg3ODI1LC0xNjY0MzkzNTc0LDEyMzYxNzc1MzAsMTI3ODUz
+MzU2MSwxMzUyOTEzMzgsLTE1NzA5MDc4OTcsMTM1MjkxMzM4LC
+02MDMzOTAyNywtNDk3NTM3MjQ0LC0xMzYyMDI1MjkwLDE2MzQ1
+NTg0NzhdfQ==
 -->
