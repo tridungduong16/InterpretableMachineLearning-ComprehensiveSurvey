@@ -350,7 +350,7 @@ based upon mixed integer programming
 		+ counterfactual examples generated for explanations should be as diverse as possible. 
 	- Maximize the point-wise distance between examples in feature-space or leverage the concept from Determinantal point processes to select a subset of samples with the diversity constraint.
 
-* *** Gabriele Tolomei, Fabrizio Silvestri, Andrew Haines, and Mounia Lalmas. Interpretable predictions of tree-based ensembles via actionable feature tweaking. In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD ’17, pages 465–474, New York, NY, USA, 2017. ACM.***
+* ***Gabriele Tolomei, Fabrizio Silvestri, Andrew Haines, and Mounia Lalmas. Interpretable predictions of tree-based ensembles via actionable feature tweaking. In Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD ’17, pages 465–474, New York, NY, USA, 2017. ACM.***
 	- Their algorithm works as follows: We iterate over all trees in the ensemble that do not yield the requested prediction. Next, we compute all possible counterfactuals of each of these trees. If this counterfactual turns our to be counterfactual of the ensemble, we store it so that in the end we can select the counterfactual with the smallest deviation from the original input. However, it can not be guaranteed that a counterfactual of the ensemble is found because it might happen that by changing the data point so that it becomes a counterfactual of a particular tree, the prediction of other trees in the ensemble change as well. According to the authors, this algorithm/heuristic works well in practice. Unfortunately, the worst-case complexity is exponential in the number of features and thus it is not suitable for high dimensional data.
 
  
@@ -487,11 +487,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDIwNTQwOSwyMDU5NTY3NDc0LDM5Mz
-E1OTAzMCwtODY5ODA5NTc3LDE2NDMzMzg0MjIsLTMzNjM3MTUx
-NiwtODM0ODgyMTExLC0xODY3OTU2NzcyLC0xNDA5ODI1MDY4LD
-kzMTE3MzMzLC0zNTk1NzgyNzcsLTc3MzI4NzgyNSwtMTY2NDM5
-MzU3NCwxMjM2MTc3NTMwLDEyNzg1MzM1NjEsMTM1MjkxMzM4LC
-0xNTcwOTA3ODk3LDEzNTI5MTMzOCwtNjAzMzkwMjcsLTQ5NzUz
-NzI0NF19
+eyJoaXN0b3J5IjpbMTc2NDk2MjE1NywxOTE0MjA1NDA5LDIwNT
+k1Njc0NzQsMzkzMTU5MDMwLC04Njk4MDk1NzcsMTY0MzMzODQy
+MiwtMzM2MzcxNTE2LC04MzQ4ODIxMTEsLTE4Njc5NTY3NzIsLT
+E0MDk4MjUwNjgsOTMxMTczMzMsLTM1OTU3ODI3NywtNzczMjg3
+ODI1LC0xNjY0MzkzNTc0LDEyMzYxNzc1MzAsMTI3ODUzMzU2MS
+wxMzUyOTEzMzgsLTE1NzA5MDc4OTcsMTM1MjkxMzM4LC02MDMz
+OTAyN119
 -->
