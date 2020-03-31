@@ -231,6 +231,11 @@ also train on the negative gradients of the previous tree.
 * ***Sharma, Shubham, Jette Henderson, and Joydeep Ghosh. "Certifai: Counterfactual explanations for robustness, transparency, interpretability, and fairness of artificial intelligence models." _arXiv preprint arXiv:1905.07857_ (2019).***
 
 * ***Alvarez-Melis, David, and Tommi S. Jaakkola. "A causal framework for explaining the predictions of black-box sequence-to-sequence models." _arXiv preprint arXiv:1707.01943_ (2017).***
+	- Alvarez-Melis and Jaakkola [3] generated causal explanations for structured input structured output black-box models by (a) generating perturbed samples using a variational auroencoder; (b) generating a
+weighted bipartite graph G = (Vx ∪ Vy,E), where Vx and
+Vy are elements in x and y and Eij represents the causal
+influence of xi and yj ; and (c) generating explanation components
+using graph partitioning algorithms.
 
 
 * ***Bertossi, Leopoldo, et al. "Causality-based Explanation of Classification Outcomes." _arXiv preprint arXiv:2003.06868_ (2020).***
@@ -485,11 +490,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTgwOTU3NywxNjQzMzM4NDIyLC0zMz
-YzNzE1MTYsLTgzNDg4MjExMSwtMTg2Nzk1Njc3MiwtMTQwOTgy
-NTA2OCw5MzExNzMzMywtMzU5NTc4Mjc3LC03NzMyODc4MjUsLT
-E2NjQzOTM1NzQsMTIzNjE3NzUzMCwxMjc4NTMzNTYxLDEzNTI5
-MTMzOCwtMTU3MDkwNzg5NywxMzUyOTEzMzgsLTYwMzM5MDI3LC
-00OTc1MzcyNDQsLTEzNjIwMjUyOTAsMTYzNDU1ODQ3OCwyNTEw
-MzU5MjJdfQ==
+eyJoaXN0b3J5IjpbLTIwNzQ1NTcwMDYsLTg2OTgwOTU3NywxNj
+QzMzM4NDIyLC0zMzYzNzE1MTYsLTgzNDg4MjExMSwtMTg2Nzk1
+Njc3MiwtMTQwOTgyNTA2OCw5MzExNzMzMywtMzU5NTc4Mjc3LC
+03NzMyODc4MjUsLTE2NjQzOTM1NzQsMTIzNjE3NzUzMCwxMjc4
+NTMzNTYxLDEzNTI5MTMzOCwtMTU3MDkwNzg5NywxMzUyOTEzMz
+gsLTYwMzM5MDI3LC00OTc1MzcyNDQsLTEzNjIwMjUyOTAsMTYz
+NDU1ODQ3OF19
 -->
