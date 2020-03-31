@@ -232,9 +232,7 @@ also train on the negative gradients of the previous tree.
 
 * ***Alvarez-Melis, David, and Tommi S. Jaakkola. "A causal framework for explaining the predictions of black-box sequence-to-sequence models." _arXiv preprint arXiv:1707.01943_ (2017).***
 
-* ***Artelt, André, and Barbara Hammer. "Convex Density Constraints for Computing Plausible Counterfactual Explanations." _arXiv preprint arXiv:2002.04862_ (2020).***
-	- Proposed and studied a formal denition of plausible counterfactual explanations. In this denition we proposed to add density constraints to the optimization problem for computing counterfactual explanations to ensure that the resulting counterfactual is plausible in the given data domain.
-	- **Kernel density estimation** (**KDE**) is a [non-parametric](https://en.wikipedia.org/wiki/Non-parametric_statistics "Non-parametric statistics") way to [estimate](https://en.wikipedia.org/wiki/Density_estimation "Density estimation") the [probability density function](https://en.wikipedia.org/wiki/Probability_density_function "Probability density function") of a [random variable](https://en.wikipedia.org/wiki/Random_variable "Random variable")
+
 * ***Bertossi, Leopoldo, et al. "Causality-based Explanation of Classification Outcomes." _arXiv preprint arXiv:2003.06868_ (2020).***
 	- Dene the explanation problem for a black-box classier.
 	- Introduce RESP, a black-box explanation score based on causality. 
@@ -293,6 +291,12 @@ outcome different from y.
 
 ### Example-based Interpretation: <a name="example_causal"></a>
 They are designed based on a new type of conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=P(y_{x}|x^{'},y^{'})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(y_{x}|x^{'},y^{'})" title="P(y_{x}|x^{'},y^{'})" /></a>. This probability indicates how likely the outcome (label) of an observed instance, i.e., y′, would change to yx if x′ is set to x.
+
+* ***Artelt, André, and Barbara Hammer. "Convex Density Constraints for Computing Plausible Counterfactual Explanations." _arXiv preprint arXiv:2002.04862_ (2020).***
+	- Proposed and studied a formal denition of plausible counterfactual explanations. In this denition we proposed to add density constraints to the optimization problem for computing counterfactual explanations to ensure that the resulting counterfactual is plausible in the given data domain.
+	- **Kernel density estimation** (**KDE**) is a [non-parametric](https://en.wikipedia.org/wiki/Non-parametric_statistics "Non-parametric statistics") way to [estimate](https://en.wikipedia.org/wiki/Density_estimation "Density estimation") the [probability density function](https://en.wikipedia.org/wiki/Probability_density_function "Probability density function") of a [random variable](https://en.wikipedia.org/wiki/Random_variable "Random variable")
+
+
 * ***Rafael Poyiadzi, Kacper Sokol, Ra´ul Santos-Rodriguez, Tijl De Bie, and Peter A. Flach. FACE: feasible and actionable counterfactual explanations. CoRR, abs/1909.09369, 2019.***
 	- **Survey**: Instead of computing a single counterfactual,
 the authors propose to compute a path of intermediate counterfactuals that lead to the final counterfactual. The idea behind this path of intermediate counterfactuals is to provide the user with a set of intermediate goals that finally lead to the desired goal - it might be more feasible to “go into the direction” of the final goal step by step instead of accomplishing it in a single step. In order to compute such a path of intermediate counterfactuals, the authors propose different strategies for constructing a graph on the training data set - including the query point. In this graph, two samples are connected by a weighted edge if they are “sufficient close to each other” - the authors propose different measurements for closeness (e.g. based on density estimation). The path of intermediate counterfactuals is equal to the shortest path between the query point and a point that satisfies the desired goal - this is the final counterfactual. Therefore the final counterfactual as well as all intermediate counterfactuals are elements from the training data set.
@@ -481,11 +485,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzMzODQyMiwtMzM2MzcxNTE2LC04Mz
-Q4ODIxMTEsLTE4Njc5NTY3NzIsLTE0MDk4MjUwNjgsOTMxMTcz
-MzMsLTM1OTU3ODI3NywtNzczMjg3ODI1LC0xNjY0MzkzNTc0LD
-EyMzYxNzc1MzAsMTI3ODUzMzU2MSwxMzUyOTEzMzgsLTE1NzA5
-MDc4OTcsMTM1MjkxMzM4LC02MDMzOTAyNywtNDk3NTM3MjQ0LC
-0xMzYyMDI1MjkwLDE2MzQ1NTg0NzgsMjUxMDM1OTIyLC0yNDI4
-OTEwNTddfQ==
+eyJoaXN0b3J5IjpbLTY1NTIzNDk2MCwxNjQzMzM4NDIyLC0zMz
+YzNzE1MTYsLTgzNDg4MjExMSwtMTg2Nzk1Njc3MiwtMTQwOTgy
+NTA2OCw5MzExNzMzMywtMzU5NTc4Mjc3LC03NzMyODc4MjUsLT
+E2NjQzOTM1NzQsMTIzNjE3NzUzMCwxMjc4NTMzNTYxLDEzNTI5
+MTMzOCwtMTU3MDkwNzg5NywxMzUyOTEzMzgsLTYwMzM5MDI3LC
+00OTc1MzcyNDQsLTEzNjIwMjUyOTAsMTYzNDU1ODQ3OCwyNTEw
+MzU5MjJdfQ==
 -->
