@@ -105,8 +105,8 @@ descent-based optimization to learn flexible representations and enable flexible
 	- Model priors transfer information from humans to a model by constraining the model’s parameters
 	- Demonstrate the broad applicability of attribution priors (Ω) by presentingthree distinct examples that regularize models to behave more intuitively in three different domains.
 	- Encode meaningful domain knowledge as differentiable functions of feature attributions
-	- Propose a feature attribution method, called expected gradients, and describe why it is anatural choice for attribution priors. Expected gradients is an extension of integrated gradients with fewer hyperparameter choices. Like several other attribution methods, integrated gradients aimsto explain the difference between a model’s current prediction and the prediction that model would make when given a baseline input.
-	- **Paper:** Erion, Gabriel, et al. propose a way to transfer information from human to model by constraining 
+	- Propose a feature attribution method, called expected gradients, and describe why it is anatural choice for attribution priors. Expected gradients is an extension of integrated gradients with fewer hyperparameter choices. Like several other attribution methods, integrated gradients aimsto explain the difference between a model’s current prediction and the prediction that model would make when given a baseline input. 
+	- **Paper:** Erion, Gabriel, et al. propose a way to transfer information from human to the model by constraining its parameters. 
 * ***Wang, Tong, and Qihang Lin. "Hybrid predictive model: When an interpretable model collaborates with a black-box model." _arXiv preprint arXiv:1905.04241_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1905.04241.pdf)
 * ***Pan, Danqing, Tong Wang, and Satoshi Hara. "Interpretable Companions for Black-Box Models." _arXiv preprint arXiv:2002.03494_ (2020).***
@@ -493,7 +493,7 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTIyNzA5ODcsMjA5OTM2Mzg1OSw4MD
+eyJoaXN0b3J5IjpbLTEyNTExOTMwNzIsMjA5OTM2Mzg1OSw4MD
 I5NjAyNSwtMTYxNzkwMjI5NSwxNDc1MTg4NjYyLDE3NjQ5NjIx
 NTcsMTkxNDIwNTQwOSwyMDU5NTY3NDc0LDM5MzE1OTAzMCwtOD
 Y5ODA5NTc3LDE2NDMzMzg0MjIsLTMzNjM3MTUxNiwtODM0ODgy
