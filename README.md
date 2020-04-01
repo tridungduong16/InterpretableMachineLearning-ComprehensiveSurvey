@@ -332,6 +332,7 @@ image. We report if counterfactual text appears in ground
 truth descriptions of an image and refer to this as phrase
 error. Ideally, the **phrase error should be 0**.
 	- **Take for example:** This is not A because A does not have feature C. 
+	- 
 
 
 
@@ -493,11 +494,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTYzOTI0MjMsMjA5OTM2Mzg1OSw4MD
-I5NjAyNSwtMTYxNzkwMjI5NSwxNDc1MTg4NjYyLDE3NjQ5NjIx
-NTcsMTkxNDIwNTQwOSwyMDU5NTY3NDc0LDM5MzE1OTAzMCwtOD
-Y5ODA5NTc3LDE2NDMzMzg0MjIsLTMzNjM3MTUxNiwtODM0ODgy
-MTExLC0xODY3OTU2NzcyLC0xNDA5ODI1MDY4LDkzMTE3MzMzLC
-0zNTk1NzgyNzcsLTc3MzI4NzgyNSwtMTY2NDM5MzU3NCwxMjM2
-MTc3NTMwXX0=
+eyJoaXN0b3J5IjpbLTIwMDIzMzAyODIsLTE3OTYzOTI0MjMsMj
+A5OTM2Mzg1OSw4MDI5NjAyNSwtMTYxNzkwMjI5NSwxNDc1MTg4
+NjYyLDE3NjQ5NjIxNTcsMTkxNDIwNTQwOSwyMDU5NTY3NDc0LD
+M5MzE1OTAzMCwtODY5ODA5NTc3LDE2NDMzMzg0MjIsLTMzNjM3
+MTUxNiwtODM0ODgyMTExLC0xODY3OTU2NzcyLC0xNDA5ODI1MD
+Y4LDkzMTE3MzMzLC0zNTk1NzgyNzcsLTc3MzI4NzgyNSwtMTY2
+NDM5MzU3NF19
 -->
