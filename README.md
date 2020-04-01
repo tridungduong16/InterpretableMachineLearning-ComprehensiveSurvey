@@ -170,6 +170,7 @@ Recogn. 32, 12 (1999).***
 * ***Auret, Lidia, and Chris Aldrich. "Interpretation of nonlinear relationships between process variables by use of random forests." _Minerals Engineering_ 35 (2012): 27-42.***
 	- [Paper Link]()
 ### Local Explanations: <a name="local"></a>
+* ***Camburu, Oana-Maria, et al. "Can I Trust the Explainer? Verifying Post-hoc Explanatory Methods." _arXiv preprint arXiv:1910.02065_ (2019).***
 * ***Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "" Why should i trust you?" Explaining the predictions of any classifier." _Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining_. 2016.***
 	- [Paper Link](https://arxiv.org/pdf/1602.04938.pdf)
 	- [Source code](https://github.com/marcotcr/lime)
@@ -491,11 +492,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyOTYwMjUsLTE2MTc5MDIyOTUsMTQ3NT
-E4ODY2MiwxNzY0OTYyMTU3LDE5MTQyMDU0MDksMjA1OTU2NzQ3
-NCwzOTMxNTkwMzAsLTg2OTgwOTU3NywxNjQzMzM4NDIyLC0zMz
-YzNzE1MTYsLTgzNDg4MjExMSwtMTg2Nzk1Njc3MiwtMTQwOTgy
-NTA2OCw5MzExNzMzMywtMzU5NTc4Mjc3LC03NzMyODc4MjUsLT
-E2NjQzOTM1NzQsMTIzNjE3NzUzMCwxMjc4NTMzNTYxLDEzNTI5
-MTMzOF19
+eyJoaXN0b3J5IjpbLTE2NTQxNzc0NzMsODAyOTYwMjUsLTE2MT
+c5MDIyOTUsMTQ3NTE4ODY2MiwxNzY0OTYyMTU3LDE5MTQyMDU0
+MDksMjA1OTU2NzQ3NCwzOTMxNTkwMzAsLTg2OTgwOTU3NywxNj
+QzMzM4NDIyLC0zMzYzNzE1MTYsLTgzNDg4MjExMSwtMTg2Nzk1
+Njc3MiwtMTQwOTgyNTA2OCw5MzExNzMzMywtMzU5NTc4Mjc3LC
+03NzMyODc4MjUsLTE2NjQzOTM1NzQsMTIzNjE3NzUzMCwxMjc4
+NTMzNTYxXX0=
 -->
