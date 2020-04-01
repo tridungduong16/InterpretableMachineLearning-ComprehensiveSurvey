@@ -123,6 +123,7 @@ descent-based optimization to learn flexible representations and enable flexible
 ### Explanation by simplification: <a name="simple"></a>
 * ***R. Krishnan, G. Sivakumar, and P. Bhattacharya. 1999. Extracting decision trees from trained neural networks. Pattern
 Recogn. 32, 12 (1999).***
+* ***Boz, Olcay. "Extracting decision trees from trained neural networks." _Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining_. 2002.***
 * ***Bastani, Osbert, Carolyn Kim, and Hamsa Bastani. "Interpretability via model extraction." _arXiv preprint arXiv:1706.09773_ (2017).***
 	- [Paper Link](https://arxiv.org/abs/1706.09773)
 	- The authors formulate model simplification as a model extraction process by approximating a transparent model to the complex one.
@@ -489,11 +490,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTE4ODY2MiwxNzY0OTYyMTU3LDE5MT
-QyMDU0MDksMjA1OTU2NzQ3NCwzOTMxNTkwMzAsLTg2OTgwOTU3
-NywxNjQzMzM4NDIyLC0zMzYzNzE1MTYsLTgzNDg4MjExMSwtMT
-g2Nzk1Njc3MiwtMTQwOTgyNTA2OCw5MzExNzMzMywtMzU5NTc4
-Mjc3LC03NzMyODc4MjUsLTE2NjQzOTM1NzQsMTIzNjE3NzUzMC
-wxMjc4NTMzNTYxLDEzNTI5MTMzOCwtMTU3MDkwNzg5NywxMzUy
-OTEzMzhdfQ==
+eyJoaXN0b3J5IjpbLTE2MTc5MDIyOTUsMTQ3NTE4ODY2MiwxNz
+Y0OTYyMTU3LDE5MTQyMDU0MDksMjA1OTU2NzQ3NCwzOTMxNTkw
+MzAsLTg2OTgwOTU3NywxNjQzMzM4NDIyLC0zMzYzNzE1MTYsLT
+gzNDg4MjExMSwtMTg2Nzk1Njc3MiwtMTQwOTgyNTA2OCw5MzEx
+NzMzMywtMzU5NTc4Mjc3LC03NzMyODc4MjUsLTE2NjQzOTM1Nz
+QsMTIzNjE3NzUzMCwxMjc4NTMzNTYxLDEzNTI5MTMzOCwtMTU3
+MDkwNzg5N119
 -->
