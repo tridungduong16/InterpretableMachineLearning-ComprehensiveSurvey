@@ -171,6 +171,7 @@ Recogn. 32, 12 (1999).***
 	- [Paper Link]()
 ### Local Explanations: <a name="local"></a>
 * ***Camburu, Oana-Maria, et al. "Can I Trust the Explainer? Verifying Post-hoc Explanatory Methods." _arXiv preprint arXiv:1910.02065_ (2019).***
+* ***Lundberg, Scott M., et al. "Explainable ai for trees: From local explanations to global understanding." _arXiv preprint arXiv:1905.04610_ (2019).***
 * ***Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "" Why should i trust you?" Explaining the predictions of any classifier." _Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining_. 2016.***
 	- [Paper Link](https://arxiv.org/pdf/1602.04938.pdf)
 	- [Source code](https://github.com/marcotcr/lime)
@@ -492,11 +493,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQxNzc0NzMsODAyOTYwMjUsLTE2MT
-c5MDIyOTUsMTQ3NTE4ODY2MiwxNzY0OTYyMTU3LDE5MTQyMDU0
-MDksMjA1OTU2NzQ3NCwzOTMxNTkwMzAsLTg2OTgwOTU3NywxNj
-QzMzM4NDIyLC0zMzYzNzE1MTYsLTgzNDg4MjExMSwtMTg2Nzk1
-Njc3MiwtMTQwOTgyNTA2OCw5MzExNzMzMywtMzU5NTc4Mjc3LC
-03NzMyODc4MjUsLTE2NjQzOTM1NzQsMTIzNjE3NzUzMCwxMjc4
-NTMzNTYxXX0=
+eyJoaXN0b3J5IjpbMjA5OTM2Mzg1OSw4MDI5NjAyNSwtMTYxNz
+kwMjI5NSwxNDc1MTg4NjYyLDE3NjQ5NjIxNTcsMTkxNDIwNTQw
+OSwyMDU5NTY3NDc0LDM5MzE1OTAzMCwtODY5ODA5NTc3LDE2ND
+MzMzg0MjIsLTMzNjM3MTUxNiwtODM0ODgyMTExLC0xODY3OTU2
+NzcyLC0xNDA5ODI1MDY4LDkzMTE3MzMzLC0zNTk1NzgyNzcsLT
+c3MzI4NzgyNSwtMTY2NDM5MzU3NCwxMjM2MTc3NTMwLDEyNzg1
+MzM1NjFdfQ==
 -->
