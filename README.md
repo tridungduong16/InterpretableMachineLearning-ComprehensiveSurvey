@@ -297,6 +297,8 @@ outcome different from y.
 		+ In the first step, dissection is performed, where classes with explicit representations in the units are obtained by measuring the spatial agreement between individual units of the region we are examining and classes using a dictionary of object classes
 		+ In the second step, intervention is performed to estimate the causal effect of a set of units on the class.
 * ***Schwab, Patrick, Djordje Miladinovic, and Walter Karlen. "Granger-causal attentive mixtures of experts: Learning important features with neural networks." _Proceedings of the AAAI Conference on Artificial Intelligence_. Vol. 33. 2019.***
+	- [Paper Link]{}
+	- [Source code](https://github.com/d909b/AME)
 
 ### Example-based Interpretation: <a name="example_causal"></a>
 They are designed based on a new type of conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=P(y_{x}|x^{'},y^{'})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(y_{x}|x^{'},y^{'})" title="P(y_{x}|x^{'},y^{'})" /></a>. This probability indicates how likely the outcome (label) of an observed instance, i.e., y′, would change to yx if x′ is set to x.
@@ -497,11 +499,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIzNTE2NSwtMTc4ODg2OTg5MSwtMT
-k1MzIzNjkyLC0yMDAyMzMwMjgyLC0xNzk2MzkyNDIzLDIwOTkz
-NjM4NTksODAyOTYwMjUsLTE2MTc5MDIyOTUsMTQ3NTE4ODY2Mi
-wxNzY0OTYyMTU3LDE5MTQyMDU0MDksMjA1OTU2NzQ3NCwzOTMx
-NTkwMzAsLTg2OTgwOTU3NywxNjQzMzM4NDIyLC0zMzYzNzE1MT
-YsLTgzNDg4MjExMSwtMTg2Nzk1Njc3MiwtMTQwOTgyNTA2OCw5
-MzExNzMzM119
+eyJoaXN0b3J5IjpbMTk2ODgyNDA2NiwtMTI1MjM1MTY1LC0xNz
+g4ODY5ODkxLC0xOTUzMjM2OTIsLTIwMDIzMzAyODIsLTE3OTYz
+OTI0MjMsMjA5OTM2Mzg1OSw4MDI5NjAyNSwtMTYxNzkwMjI5NS
+wxNDc1MTg4NjYyLDE3NjQ5NjIxNTcsMTkxNDIwNTQwOSwyMDU5
+NTY3NDc0LDM5MzE1OTAzMCwtODY5ODA5NTc3LDE2NDMzMzg0Mj
+IsLTMzNjM3MTUxNiwtODM0ODgyMTExLC0xODY3OTU2NzcyLC0x
+NDA5ODI1MDY4XX0=
 -->
