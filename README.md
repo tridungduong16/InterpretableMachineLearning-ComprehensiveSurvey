@@ -391,6 +391,8 @@ does not only apply to the overall data set, but importantly also to the trainin
 * ***Ghazimatin, Azin, et al. "PRINCE: Provider-side Interpretability with Counterfactual Explanations in Recommender Systems." _Proceedings of the 13th International Conference on Web Search and Data Mining_. 2020.***
 	- [Paper Link](https://arxiv.org/pdf/1911.08378.pdf)
 	- Explain the question "Why does the recommendation system give the items to users"
+
+* ***Hendricks, Lisa Anne, et al. "Generating visual explanations." _European Conference on Computer Vision_. Springer, Cham, 2016.***
 ### Fairness: <a name="fairness"></a>
 Counterfactual fairnessis a notion of fairness derived from Pearl’s causal model, which considers a model is fair if for a par-ticular individual or group its prediction in the realworld is the same as that in the counterfactual worldwhere the individual(s) had belonged to a differ-ent demographic group.
 * ***Kusner, Matt J., et al. "Counterfactual fairness." _Advances in Neural Information Processing Systems_. 2017.***
@@ -494,11 +496,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMyMzY5MiwtMjAwMjMzMDI4MiwtMT
-c5NjM5MjQyMywyMDk5MzYzODU5LDgwMjk2MDI1LC0xNjE3OTAy
-Mjk1LDE0NzUxODg2NjIsMTc2NDk2MjE1NywxOTE0MjA1NDA5LD
-IwNTk1Njc0NzQsMzkzMTU5MDMwLC04Njk4MDk1NzcsMTY0MzMz
-ODQyMiwtMzM2MzcxNTE2LC04MzQ4ODIxMTEsLTE4Njc5NTY3Nz
-IsLTE0MDk4MjUwNjgsOTMxMTczMzMsLTM1OTU3ODI3NywtNzcz
-Mjg3ODI1XX0=
+eyJoaXN0b3J5IjpbLTE3ODg4Njk4OTEsLTE5NTMyMzY5MiwtMj
+AwMjMzMDI4MiwtMTc5NjM5MjQyMywyMDk5MzYzODU5LDgwMjk2
+MDI1LC0xNjE3OTAyMjk1LDE0NzUxODg2NjIsMTc2NDk2MjE1Ny
+wxOTE0MjA1NDA5LDIwNTk1Njc0NzQsMzkzMTU5MDMwLC04Njk4
+MDk1NzcsMTY0MzMzODQyMiwtMzM2MzcxNTE2LC04MzQ4ODIxMT
+EsLTE4Njc5NTY3NzIsLTE0MDk4MjUwNjgsOTMxMTczMzMsLTM1
+OTU3ODI3N119
 -->
