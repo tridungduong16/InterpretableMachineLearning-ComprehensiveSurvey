@@ -121,6 +121,9 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Paper Link]()
 ## Model-Agnostic <a name="agnostic"></a> :
 ### Explanation by simplification: <a name="simple"></a>
+* ***Guo, Wenbo, et al. "Explaining Deep Learning Models--A Bayesian Non-parametric Approach." _Advances in Neural Information Processing Systems_. 2018.***
+* 
+
 * ***R. Krishnan, G. Sivakumar, and P. Bhattacharya. 1999. Extracting decision trees from trained neural networks. Pattern
 Recogn. 32, 12 (1999).***
 * ***Boz, Olcay. "Extracting decision trees from trained neural networks." _Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining_. 2002.***
@@ -499,11 +502,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODgyNDA2NiwtMTI1MjM1MTY1LC0xNz
-g4ODY5ODkxLC0xOTUzMjM2OTIsLTIwMDIzMzAyODIsLTE3OTYz
-OTI0MjMsMjA5OTM2Mzg1OSw4MDI5NjAyNSwtMTYxNzkwMjI5NS
-wxNDc1MTg4NjYyLDE3NjQ5NjIxNTcsMTkxNDIwNTQwOSwyMDU5
-NTY3NDc0LDM5MzE1OTAzMCwtODY5ODA5NTc3LDE2NDMzMzg0Mj
-IsLTMzNjM3MTUxNiwtODM0ODgyMTExLC0xODY3OTU2NzcyLC0x
-NDA5ODI1MDY4XX0=
+eyJoaXN0b3J5IjpbNDU0MjYxNTksMTk2ODgyNDA2NiwtMTI1Mj
+M1MTY1LC0xNzg4ODY5ODkxLC0xOTUzMjM2OTIsLTIwMDIzMzAy
+ODIsLTE3OTYzOTI0MjMsMjA5OTM2Mzg1OSw4MDI5NjAyNSwtMT
+YxNzkwMjI5NSwxNDc1MTg4NjYyLDE3NjQ5NjIxNTcsMTkxNDIw
+NTQwOSwyMDU5NTY3NDc0LDM5MzE1OTAzMCwtODY5ODA5NTc3LD
+E2NDMzMzg0MjIsLTMzNjM3MTUxNiwtODM0ODgyMTExLC0xODY3
+OTU2NzcyXX0=
 -->
