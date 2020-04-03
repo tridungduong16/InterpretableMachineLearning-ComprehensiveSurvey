@@ -122,7 +122,6 @@ descent-based optimization to learn flexible representations and enable flexible
 ## Model-Agnostic <a name="agnostic"></a> :
 ### Explanation by simplification: <a name="simple"></a>
 * ***Guo, Wenbo, et al. "Explaining Deep Learning Models--A Bayesian Non-parametric Approach." _Advances in Neural Information Processing Systems_. 2018.***
-* 
 
 * ***R. Krishnan, G. Sivakumar, and P. Bhattacharya. 1999. Extracting decision trees from trained neural networks. Pattern
 Recogn. 32, 12 (1999).***
@@ -465,6 +464,7 @@ the performance of the models learned using A~.
 	- Train causal explanation (CXPlain) models that learn to estimate to what degree certain inputs cause outputs in another machine-learning model. 
 	- CXPlain can, once trained, be used to explain the target model in little time, and enables the quantification of the uncertainty associated with its feature importance estimates via bootstrap ensembling.
 	- The core component of CXPlain is the causal objective that enables us to optimise explanation models to learn to explain another predictive model.
+	- 
 *  ***Toneva, Mariya, and Leila Wehbe. "Interpreting and improving natural-language processing (in machines) with natural language-processing (in the brain)." _Advances in Neural Information Processing Systems. 2019.***
 	- [Paper Link](https://arxiv.org/pdf/1905.11833.pdf)
 * ***Ying, Zhitao, et al. "Gnnexplainer: Generating explanations for graph neural networks." _Advances in Neural Information Processing Systems. 2019.***
@@ -502,11 +502,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0MjYxNTksMTk2ODgyNDA2NiwtMTI1Mj
-M1MTY1LC0xNzg4ODY5ODkxLC0xOTUzMjM2OTIsLTIwMDIzMzAy
-ODIsLTE3OTYzOTI0MjMsMjA5OTM2Mzg1OSw4MDI5NjAyNSwtMT
-YxNzkwMjI5NSwxNDc1MTg4NjYyLDE3NjQ5NjIxNTcsMTkxNDIw
-NTQwOSwyMDU5NTY3NDc0LDM5MzE1OTAzMCwtODY5ODA5NTc3LD
-E2NDMzMzg0MjIsLTMzNjM3MTUxNiwtODM0ODgyMTExLC0xODY3
-OTU2NzcyXX0=
+eyJoaXN0b3J5IjpbMzY0OTM4Nzc4LDQ1NDI2MTU5LDE5Njg4Mj
+QwNjYsLTEyNTIzNTE2NSwtMTc4ODg2OTg5MSwtMTk1MzIzNjky
+LC0yMDAyMzMwMjgyLC0xNzk2MzkyNDIzLDIwOTkzNjM4NTksOD
+AyOTYwMjUsLTE2MTc5MDIyOTUsMTQ3NTE4ODY2MiwxNzY0OTYy
+MTU3LDE5MTQyMDU0MDksMjA1OTU2NzQ3NCwzOTMxNTkwMzAsLT
+g2OTgwOTU3NywxNjQzMzM4NDIyLC0zMzYzNzE1MTYsLTgzNDg4
+MjExMV19
 -->
