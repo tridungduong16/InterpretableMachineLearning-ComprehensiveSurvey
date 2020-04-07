@@ -223,7 +223,8 @@ also train on the negative gradients of the previous tree.
 * ***Afrabandpey, Homayun, et al. "Making Bayesian Predictive Models Interpretable: A Decision Theoretic Approach." _arXiv preprint arXiv:1910.09358_ (2019).***
 	- [Paper Link](https://arxiv.org/pdf/1910.09358.pdf)
 * ***Plumb, Gregory, Denali Molitor, and Ameet S. Talwalkar. "Model agnostic supervised local explanations." _Advances in Neural Information Processing Systems_. 2018.***
-* 
+*  ***Lakkaraju, Himabindu, et al. "Interpretable & explorable approximations of black box models." _arXiv preprint arXiv:1707.01154_ (2017).***
+	- [Paper Link](https://arxiv.org/pdf/1707.01154.pdf)
 ## Causal Interpretability <a name="survey"></a>:
 
 ### Some definition:
@@ -502,11 +503,11 @@ the performance of the models learned using A~.
 **Dung Duong** - PhD Student at UTS 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0OTM4Nzc4LDQ1NDI2MTU5LDE5Njg4Mj
-QwNjYsLTEyNTIzNTE2NSwtMTc4ODg2OTg5MSwtMTk1MzIzNjky
-LC0yMDAyMzMwMjgyLC0xNzk2MzkyNDIzLDIwOTkzNjM4NTksOD
-AyOTYwMjUsLTE2MTc5MDIyOTUsMTQ3NTE4ODY2MiwxNzY0OTYy
-MTU3LDE5MTQyMDU0MDksMjA1OTU2NzQ3NCwzOTMxNTkwMzAsLT
-g2OTgwOTU3NywxNjQzMzM4NDIyLC0zMzYzNzE1MTYsLTgzNDg4
-MjExMV19
+eyJoaXN0b3J5IjpbLTE2NTM5MDI5NjksMzY0OTM4Nzc4LDQ1ND
+I2MTU5LDE5Njg4MjQwNjYsLTEyNTIzNTE2NSwtMTc4ODg2OTg5
+MSwtMTk1MzIzNjkyLC0yMDAyMzMwMjgyLC0xNzk2MzkyNDIzLD
+IwOTkzNjM4NTksODAyOTYwMjUsLTE2MTc5MDIyOTUsMTQ3NTE4
+ODY2MiwxNzY0OTYyMTU3LDE5MTQyMDU0MDksMjA1OTU2NzQ3NC
+wzOTMxNTkwMzAsLTg2OTgwOTU3NywxNjQzMzM4NDIyLC0zMzYz
+NzE1MTZdfQ==
 -->
