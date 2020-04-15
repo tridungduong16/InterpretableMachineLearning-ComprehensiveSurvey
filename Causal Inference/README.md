@@ -63,6 +63,12 @@ What we are really interested in is the effect of the policy on the outcome, and
 	- We fit a preliminary ML algorithm to predict the outcome variable using the control variables;	
 	- We fit a second ML algorithm to partial out the effect of the control variables on the policy variable.
 
+### Heterogeneity
+Heterogeneity in statistics means that your populations, samples or results are different. It is the opposite of homogeneity, which means that the population/data/results are the same. 
+
+A heterogeneous population or sample is one where every member has a different value for the characteristic you’re interested in. For example, if everyone in your group varied between 4’3″ and 7’6″ tall, they would be heterogeneous for height. In real life, heterogeneous populations are extremely common. For example, patients are typically a very heterogeneous population as they differ with many factors including demographics, diagnostic test results, and medical histories. 
+
+
 
 
 ## Useful Link <a name="link"></a>
