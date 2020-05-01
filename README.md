@@ -498,6 +498,7 @@ the performance of the models learned using A~.
 5. [How to Explain the Prediction of a Machine Learning Model? ](https://lilianweng.github.io/lil-log/2017/08/01/how-to-explain-the-prediction-of-a-machine-learning-model.html)
 6.  [Knowledge distillation](https://medium.com/neuralmachine/knowledge-distillation-dc241d7c2322)
 7.  [Causal inference in Machine Learning](https://www.ericsson.com/en/blog/2020/2/causal-inference-machine-learning)
+8. [Explainable DAPRA](https://github.com/pbiecek/xai_resources/blob/master/README.md#papers)
 ## Authors
 
 **Dung Duong** - PhD Student at UTS 
