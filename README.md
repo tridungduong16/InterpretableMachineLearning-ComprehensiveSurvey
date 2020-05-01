@@ -103,7 +103,7 @@ descent-based optimization to learn flexible representations and enable flexible
 	- [Paper Link](https://arxiv.org/pdf/1906.10670.pdf)
 	- [Source code](https://github.com/suinleelab/attributionpriors)
 	- Model priors transfer information from humans to a model by constraining the model’s parameters
-	- Demonstrate the broad applicability of attribution priors (Ω) by presentingthree distinct examples that regularize models to behave more intuitively in three different domains.
+	- Demonstrate the broad applicability of attribution priors (Ω) by presentingthree distinct examples that regularize models to behave more intuitively in three different domains.
 	- Encode meaningful domain knowledge as differentiable functions of feature attributions
 	- Propose a feature attribution method, called expected gradients, and describe why it is anatural choice for attribution priors. Expected gradients is an extension of integrated gradients with fewer hyperparameter choices. Like several other attribution methods, integrated gradients aimsto explain the difference between a model’s current prediction and the prediction that model would make when given a baseline input. 
 	- **Paper:** Erion, Gabriel, et al. propose a way to transfer information from human to the model by constraining its parameters. Feature attributions can be fomulated as a diffirentible function which can be optimized by expected gradients.  
@@ -488,6 +488,7 @@ the performance of the models learned using A~.
 * Focus on Counterfactual Explanation
 * Try to answer that "Why" question
 * Causal inference
+* Features importance without albation, causal instead
 
 
 ## Useful Links <a name="useful"></a>:
