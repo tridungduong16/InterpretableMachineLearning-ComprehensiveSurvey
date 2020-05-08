@@ -78,6 +78,7 @@ class DiceTensorFlow2(DiceBase):
         """
 
         # check feature MAD validity and throw warnings
+        print("Generate ====================")
         if feature_weights == "inverse_mad":
             self.data_interface.get_valid_mads(display_warnings=True, return_mads=False)
 
@@ -89,6 +90,8 @@ class DiceTensorFlow2(DiceBase):
             self.update_hyperparameters(proximity_weight, diversity_weight, categorical_penalty)
 
         query_instance, test_pred = self.find_counterfactuals(query_instance, desired_class, optimizer, learning_rate, min_iter, max_iter, project_iter, loss_diff_thres, loss_converge_maxiter, verbose, init_near_query_instance, tie_random, stopping_threshold, posthoc_sparsity_param)
+
+        print("Test pred ", test_pred)
 
         return exp.CounterfactualExamples(self.data_interface, query_instance,
         test_pred, self.final_cfs, self.cfs_preds, self.final_cfs_sparse, self.cfs_preds_sparse, posthoc_sparsity_param)
@@ -255,6 +258,9 @@ class DiceTensorFlow2(DiceBase):
 
         return regularization_loss
 
+    """
+    overall_loss = yloss + proximity_loss + diversity_loss + regularization_loss 
+    """
     def compute_loss(self):
         """Computes the overall loss"""
         self.yloss = self.compute_yloss()
@@ -542,3 +548,6 @@ class DiceTensorFlow2(DiceBase):
             print('Only %d (required %d) Diverse Counterfactuals found for the given configuation, perhaps try with different values of proximity (or diversity) weights or learning rate...' % (self.total_CFs_found, self.total_CFs), '; total time taken: %02d' % m, 'min %02d' % s, 'sec')
 
         return query_instance, test_pred
+
+
+if __name__ == "__main__":

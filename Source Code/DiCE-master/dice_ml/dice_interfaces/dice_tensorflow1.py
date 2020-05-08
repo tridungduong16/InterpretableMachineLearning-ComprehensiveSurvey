@@ -91,6 +91,7 @@ class DiceTensorFlow1(DiceBase):
         """
 
         # check feature MAD validity and throw warnings
+        print("Hello ")
         if feature_weights == "inverse_mad":
             self.data_interface.get_valid_mads(display_warnings=True, return_mads=False)
 
