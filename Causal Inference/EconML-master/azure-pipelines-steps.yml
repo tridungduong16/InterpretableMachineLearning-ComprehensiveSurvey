@@ -1,0 +1,30 @@
+# Python package
+# Create and test a Python package on multiple Python versions.
+# Add steps that analyze code, save the dist with the build record, publish to a PyPI-compatible index, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/python
+
+parameters:
+  body: []
+  package: '.'
+
+steps:
+- task: UsePythonVersion@0
+  displayName: 'Use Python $(python.version)'
+  inputs:
+    versionSpec: '$(python.version)'
+
+# Enable long path support on Windows so that all packages can be installed correctly
+- script: 'reg add HKLM\SYSTEM\CurrentControlSet\Control\FileSystem /v LongPathsEnabled /t REG_DWORD /d 1 /f'
+  displayName: 'Enable long paths on Windows'
+  condition: and(succeeded(), eq(variables['Agent.OS'], 'Windows_NT'))
+
+# Install graphviz programmatically on Linux
+- script: 'sudo apt-get -yq install graphviz'
+  displayName: 'Install graphviz on Linux'
+  condition: and(succeeded(), eq(variables['Agent.OS'], 'Linux'))
+
+# Install the package
+- script: 'python -m pip install --upgrade pip && pip install --upgrade setuptools && pip install ${{ parameters.package }}'
+  displayName: 'Install dependencies'
+
+- ${{ parameters.body }}

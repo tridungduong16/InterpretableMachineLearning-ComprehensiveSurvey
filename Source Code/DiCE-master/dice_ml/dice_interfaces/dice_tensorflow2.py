@@ -78,7 +78,6 @@ class DiceTensorFlow2(DiceBase):
         """
 
         # check feature MAD validity and throw warnings
-        print("Generate ====================")
         if feature_weights == "inverse_mad":
             self.data_interface.get_valid_mads(display_warnings=True, return_mads=False)
 
@@ -90,6 +89,7 @@ class DiceTensorFlow2(DiceBase):
             self.update_hyperparameters(proximity_weight, diversity_weight, categorical_penalty)
 
         query_instance, test_pred = self.find_counterfactuals(query_instance, desired_class, optimizer, learning_rate, min_iter, max_iter, project_iter, loss_diff_thres, loss_converge_maxiter, verbose, init_near_query_instance, tie_random, stopping_threshold, posthoc_sparsity_param)
+
 
         print("Test pred ", test_pred)
 
@@ -259,7 +259,7 @@ class DiceTensorFlow2(DiceBase):
         return regularization_loss
 
     """
-    overall_loss = yloss + proximity_loss + diversity_loss + regularization_loss 
+    overall_loss = yloss + proximity_loss + diversity_loss + regularization_loss
     """
     def compute_loss(self):
         """Computes the overall loss"""
@@ -550,4 +550,4 @@ class DiceTensorFlow2(DiceBase):
         return query_instance, test_pred
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
