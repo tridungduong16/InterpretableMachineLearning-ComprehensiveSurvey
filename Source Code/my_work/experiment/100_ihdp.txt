@@ -1,0 +1,648 @@
+True effect: 4.012+-0.033
+Linear Regression - Causal effect:  3.9451015854158915
+Stratification - Causal effect:  3.75243250724349
+Weighting - Causal effect:  3.307783393417708
+Incremental causal effect: 3.524+-0.272
+********************
+True effect: 4.033+-0.032
+Linear Regression - Causal effect:  3.8903982603442495
+Stratification - Causal effect:  4.055847233214512
+Weighting - Causal effect:  3.2570991106653855
+Incremental causal effect: 3.470+-0.248
+********************
+True effect: 4.103+-0.034
+Linear Regression - Causal effect:  3.8888314782670945
+Stratification - Causal effect:  3.3623592998092695
+Weighting - Causal effect:  3.213284747582148
+Incremental causal effect: 3.447+-0.275
+********************
+True effect: 4.303+-0.074
+Linear Regression - Causal effect:  3.9042717945211507
+Stratification - Causal effect:  3.154376040030438
+Weighting - Causal effect:  3.214643021853929
+Incremental causal effect: 3.713+-0.303
+********************
+True effect: 4.162+-0.102
+Linear Regression - Causal effect:  4.154196396545916
+Stratification - Causal effect:  3.997147468504985
+Weighting - Causal effect:  3.230755317422915
+Incremental causal effect: 3.895+-0.374
+********************
+True effect: 4.012+-0.030
+Linear Regression - Causal effect:  3.9489663776750743
+Stratification - Causal effect:  3.1761712628770766
+Weighting - Causal effect:  3.4913360132266464
+Incremental causal effect: 3.747+-0.276
+********************
+True effect: 3.988+-0.011
+Linear Regression - Causal effect:  3.7379854901879868
+Stratification - Causal effect:  3.7771300056350947
+Weighting - Causal effect:  3.182797352814246
+Incremental causal effect: 3.298+-0.226
+********************
+True effect: 3.887+-0.057
+Linear Regression - Causal effect:  3.8967637330528557
+Stratification - Causal effect:  3.936507899878436
+Weighting - Causal effect:  2.8918929542724685
+Incremental causal effect: 3.592+-0.287
+********************
+True effect: 10.443+-1.020
+Linear Regression - Causal effect:  5.510724352969852
+Stratification - Causal effect:  -5.733969715199031
+Weighting - Causal effect:  6.413633133793915
+Incremental causal effect: 9.630+-2.397
+********************
+True effect: 4.506+-0.341
+Linear Regression - Causal effect:  3.774042349563448
+Stratification - Causal effect:  6.119822312130255
+Weighting - Causal effect:  2.7911792714765546
+Incremental causal effect: 3.921+-0.721
+********************
+True effect: 3.904+-0.083
+Linear Regression - Causal effect:  3.860620187207841
+Stratification - Causal effect:  3.7570817393531297
+Weighting - Causal effect:  3.1672354965510916
+Incremental causal effect: 3.651+-0.306
+********************
+True effect: 4.136+-0.168
+Linear Regression - Causal effect:  3.6054552727851377
+Stratification - Causal effect:  4.028657688130377
+Weighting - Causal effect:  2.820734335850476
+Incremental causal effect: 3.872+-0.483
+********************
+True effect: 13.149+-1.374
+Linear Regression - Causal effect:  8.758742966217689
+Stratification - Causal effect:  3.1943424314943587
+Weighting - Causal effect:  5.998234822153165
+Incremental causal effect: 13.620+-2.743
+********************
+True effect: 3.854+-0.020
+Linear Regression - Causal effect:  4.129200162273682
+Stratification - Causal effect:  4.479537246196837
+Weighting - Causal effect:  3.072433869612318
+Incremental causal effect: 3.488+-0.257
+********************
+True effect: 3.901+-0.083
+Linear Regression - Causal effect:  4.220274306254755
+Stratification - Causal effect:  4.394638593461321
+Weighting - Causal effect:  3.0179949001944877
+Incremental causal effect: 3.686+-0.298
+********************
+True effect: 4.538+-0.052
+Linear Regression - Causal effect:  4.123121351546482
+Stratification - Causal effect:  3.618140435210853
+Weighting - Causal effect:  3.713524715303903
+Incremental causal effect: 4.000+-0.362
+********************
+True effect: 3.616+-0.178
+Linear Regression - Causal effect:  3.9873006589358884
+Stratification - Causal effect:  4.786738460844917
+Weighting - Causal effect:  2.3160025400162034
+Incremental causal effect: 3.439+-0.352
+********************
+True effect: 3.771+-0.118
+Linear Regression - Causal effect:  3.668122437521525
+Stratification - Causal effect:  3.6212267766456536
+Weighting - Causal effect:  2.3765820975105907
+Incremental causal effect: 3.315+-0.312
+********************
+True effect: 3.942+-0.132
+Linear Regression - Causal effect:  3.8931348837924613
+Stratification - Causal effect:  4.514255178618416
+Weighting - Causal effect:  2.7672197867712676
+Incremental causal effect: 3.411+-0.352
+********************
+True effect: 4.242+-0.038
+Linear Regression - Causal effect:  3.8981053816965696
+Stratification - Causal effect:  3.4062439006639287
+Weighting - Causal effect:  3.452968164151904
+Incremental causal effect: 3.686+-0.294
+********************
+True effect: 2.980+-0.368
+Linear Regression - Causal effect:  3.483610274141391
+Stratification - Causal effect:  6.892560952381316
+Weighting - Causal effect:  0.8087518962949609
+Incremental causal effect: 2.736+-0.546
+********************
+True effect: 4.085+-0.047
+Linear Regression - Causal effect:  3.990239467280435
+Stratification - Causal effect:  4.743016137183887
+Weighting - Causal effect:  3.3198151589868647
+Incremental causal effect: 3.716+-0.296
+********************
+True effect: 4.278+-0.108
+Linear Regression - Causal effect:  3.852384852708351
+Stratification - Causal effect:  2.8860833049866206
+Weighting - Causal effect:  3.1928895616273563
+Incremental causal effect: 3.893+-0.320
+********************
+True effect: 4.038+-0.234
+Linear Regression - Causal effect:  4.006887891144103
+Stratification - Causal effect:  5.8361132014576
+Weighting - Causal effect:  2.5430448411320405
+Incremental causal effect: 3.672+-0.414
+********************
+True effect: 4.660+-0.106
+Linear Regression - Causal effect:  4.144566147814696
+Stratification - Causal effect:  3.20892635699117
+Weighting - Causal effect:  3.8932285469916614
+Incremental causal effect: 4.311+-0.467
+********************
+True effect: 4.641+-0.645
+Linear Regression - Causal effect:  3.2768163722098684
+Stratification - Causal effect:  -1.8061648214110932
+Weighting - Causal effect:  0.9275373536630696
+Incremental causal effect: 4.777+-0.982
+********************
+True effect: 3.721+-0.062
+Linear Regression - Causal effect:  4.032408750502258
+Stratification - Causal effect:  4.0012297895164375
+Weighting - Causal effect:  2.9233794742638786
+Incremental causal effect: 3.614+-0.279
+********************
+True effect: 11.713+-1.620
+Linear Regression - Causal effect:  2.794107157674212
+Stratification - Causal effect:  1.7963019681764383
+Weighting - Causal effect:  4.4543448437136846
+Incremental causal effect: 11.315+-2.814
+********************
+True effect: 3.740+-0.122
+Linear Regression - Causal effect:  3.8037105955813457
+Stratification - Causal effect:  2.7221191081456033
+Weighting - Causal effect:  3.0060309676293535
+Incremental causal effect: 3.422+-0.306
+********************
+True effect: 4.310+-0.115
+Linear Regression - Causal effect:  3.931181410031412
+Stratification - Causal effect:  3.2706442609971424
+Weighting - Causal effect:  3.0671034171251437
+Incremental causal effect: 3.536+-0.289
+********************
+True effect: 4.404+-0.110
+Linear Regression - Causal effect:  4.136702231271759
+Stratification - Causal effect:  2.9999255878250373
+Weighting - Causal effect:  3.1677026298403277
+Incremental causal effect: 3.967+-0.439
+********************
+True effect: 4.025+-0.025
+Linear Regression - Causal effect:  3.979997959986279
+Stratification - Causal effect:  4.048893184178431
+Weighting - Causal effect:  3.121661503573695
+Incremental causal effect: 3.650+-0.304
+********************
+True effect: 4.095+-0.124
+Linear Regression - Causal effect:  4.0602390594744655
+Stratification - Causal effect:  4.1780573933033285
+Weighting - Causal effect:  3.142179753719712
+Incremental causal effect: 3.818+-0.366
+********************
+True effect: 6.834+-1.494
+Linear Regression - Causal effect:  5.433243772360079
+Stratification - Causal effect:  6.78926169625421
+Weighting - Causal effect:  0.7707847145502811
+Incremental causal effect: 6.525+-2.319
+********************
+True effect: 3.833+-0.218
+Linear Regression - Causal effect:  3.8744591306367173
+Stratification - Causal effect:  4.1423912377777174
+Weighting - Causal effect:  2.0674056518992145
+Incremental causal effect: 3.819+-0.463
+********************
+True effect: 4.808+-0.217
+Linear Regression - Causal effect:  4.136276118961508
+Stratification - Causal effect:  2.8034487448255545
+Weighting - Causal effect:  2.4063404016350916
+Incremental causal effect: 4.546+-0.669
+********************
+True effect: 3.467+-0.388
+Linear Regression - Causal effect:  3.1240975518152645
+Stratification - Causal effect:  2.935947650594975
+Weighting - Causal effect:  -0.31343173159251947
+Incremental causal effect: 2.948+-0.651
+********************
+True effect: 4.080+-0.083
+Linear Regression - Causal effect:  4.0798191524913765
+Stratification - Causal effect:  5.5297335024555485
+Weighting - Causal effect:  3.0890363049778538
+Incremental causal effect: 3.865+-0.355
+********************
+True effect: 6.021+-0.352
+Linear Regression - Causal effect:  3.766851643109611
+Stratification - Causal effect:  2.7669296771010234
+Weighting - Causal effect:  2.519939389430995
+Incremental causal effect: 4.932+-0.719
+********************
+True effect: 4.311+-0.152
+Linear Regression - Causal effect:  3.551496319732424
+Stratification - Causal effect:  2.1708448664164215
+Weighting - Causal effect:  2.7850243523261664
+Incremental causal effect: 3.466+-0.320
+********************
+True effect: 4.266+-0.043
+Linear Regression - Causal effect:  4.0535610729932126
+Stratification - Causal effect:  3.7896273525259754
+Weighting - Causal effect:  3.5287309119720867
+Incremental causal effect: 3.747+-0.320
+********************
+True effect: 3.995+-0.022
+Linear Regression - Causal effect:  3.8968767239208018
+Stratification - Causal effect:  3.766533855402098
+Weighting - Causal effect:  3.2363316250582503
+Incremental causal effect: 3.636+-0.251
+********************
+True effect: 4.468+-0.065
+Linear Regression - Causal effect:  3.9772689141247612
+Stratification - Causal effect:  3.163111954848217
+Weighting - Causal effect:  2.9645029983878013
+Incremental causal effect: 3.645+-0.269
+********************
+True effect: 3.793+-0.100
+Linear Regression - Causal effect:  4.00709076475154
+Stratification - Causal effect:  4.741590069058505
+Weighting - Causal effect:  2.5571237116964873
+Incremental causal effect: 3.696+-0.338
+********************
+True effect: 3.301+-0.182
+Linear Regression - Causal effect:  4.027492937532969
+Stratification - Causal effect:  4.808275628236506
+Weighting - Causal effect:  1.473490438149959
+Incremental causal effect: 3.259+-0.316
+********************
+True effect: 4.779+-0.160
+Linear Regression - Causal effect:  3.9348639798860976
+Stratification - Causal effect:  3.272696627862899
+Weighting - Causal effect:  2.8903034747488086
+Incremental causal effect: 3.983+-0.456
+********************
+True effect: 5.105+-0.220
+Linear Regression - Causal effect:  4.001463365827783
+Stratification - Causal effect:  -1.8661969034052777
+Weighting - Causal effect:  3.3445410704035012
+Incremental causal effect: 4.446+-0.651
+********************
+True effect: 3.811+-0.059
+Linear Regression - Causal effect:  3.884869736164112
+Stratification - Causal effect:  4.830441258623425
+Weighting - Causal effect:  2.5027651909228874
+Incremental causal effect: 3.479+-0.340
+********************
+True effect: 4.386+-0.148
+Linear Regression - Causal effect:  4.043592779721113
+Stratification - Causal effect:  4.06112110816401
+Weighting - Causal effect:  1.3409858584255083
+Incremental causal effect: 3.533+-0.344
+********************
+True effect: 3.890+-0.086
+Linear Regression - Causal effect:  3.762581736064843
+Stratification - Causal effect:  3.979503485255791
+Weighting - Causal effect:  3.156903158920099
+Incremental causal effect: 3.726+-0.331
+********************
+True effect: 4.306+-0.077
+Linear Regression - Causal effect:  4.1436580174425055
+Stratification - Causal effect:  3.8782585099273876
+Weighting - Causal effect:  3.3930757263601823
+Incremental causal effect: 4.206+-0.428
+********************
+True effect: 4.287+-0.129
+Linear Regression - Causal effect:  3.858045675133331
+Stratification - Causal effect:  2.764403497299149
+Weighting - Causal effect:  2.516465719833878
+Incremental causal effect: 4.002+-0.432
+********************
+True effect: 5.689+-0.539
+Linear Regression - Causal effect:  4.145264792426257
+Stratification - Causal effect:  0.06837761676998959
+Weighting - Causal effect:  3.1594453320474187
+Incremental causal effect: 6.221+-0.971
+********************
+True effect: 4.427+-0.265
+Linear Regression - Causal effect:  3.5505638642750537
+Stratification - Causal effect:  0.9844204793237594
+Weighting - Causal effect:  2.6345054822483824
+Incremental causal effect: 3.813+-0.389
+********************
+True effect: 3.764+-0.044
+Linear Regression - Causal effect:  3.8925795892505928
+Stratification - Causal effect:  4.150446574490993
+Weighting - Causal effect:  3.0981018344237503
+Incremental causal effect: 3.612+-0.292
+********************
+True effect: 4.031+-0.005
+Linear Regression - Causal effect:  3.9171321779551493
+Stratification - Causal effect:  3.5246493326273365
+Weighting - Causal effect:  3.3422137539159515
+Incremental causal effect: 3.578+-0.271
+********************
+True effect: 4.083+-0.028
+Linear Regression - Causal effect:  4.161649054831479
+Stratification - Causal effect:  2.7762051806825627
+Weighting - Causal effect:  3.32504673557763
+Incremental causal effect: 3.743+-0.296
+********************
+True effect: 4.478+-0.123
+Linear Regression - Causal effect:  3.7855232138342423
+Stratification - Causal effect:  2.908303245757404
+Weighting - Causal effect:  2.4668371730560494
+Incremental causal effect: 3.539+-0.332
+********************
+True effect: 4.246+-0.037
+Linear Regression - Causal effect:  4.024835970934351
+Stratification - Causal effect:  3.7843181160779955
+Weighting - Causal effect:  3.4189639925519306
+Incremental causal effect: 3.539+-0.255
+********************
+True effect: 3.962+-0.456
+Linear Regression - Causal effect:  3.2820412528222747
+Stratification - Causal effect:  1.8608780949517096
+Weighting - Causal effect:  1.0822817567537228
+Incremental causal effect: 4.224+-0.748
+********************
+True effect: 4.088+-0.029
+Linear Regression - Causal effect:  3.994753610953992
+Stratification - Causal effect:  3.7064560648465426
+Weighting - Causal effect:  3.4219547734099613
+Incremental causal effect: 3.666+-0.293
+********************
+True effect: 3.912+-0.072
+Linear Regression - Causal effect:  3.9392917481244645
+Stratification - Causal effect:  4.256723511514144
+Weighting - Causal effect:  3.065040411676229
+Incremental causal effect: 3.604+-0.268
+********************
+True effect: 4.510+-0.100
+Linear Regression - Causal effect:  3.9490189409579015
+Stratification - Causal effect:  3.1617653491417688
+Weighting - Causal effect:  3.4924482516444746
+Incremental causal effect: 3.882+-0.334
+********************
+True effect: 3.302+-0.095
+Linear Regression - Causal effect:  4.056978508506951
+Stratification - Causal effect:  4.952362451997784
+Weighting - Causal effect:  2.432789265545889
+Incremental causal effect: 3.046+-0.228
+********************
+True effect: 4.172+-0.166
+Linear Regression - Causal effect:  3.7675227327653538
+Stratification - Causal effect:  3.1531340935490033
+Weighting - Causal effect:  3.059623065211282
+Incremental causal effect: 3.881+-0.371
+********************
+True effect: 4.228+-0.053
+Linear Regression - Causal effect:  4.003855370682795
+Stratification - Causal effect:  3.966744262645842
+Weighting - Causal effect:  3.3575351346611018
+Incremental causal effect: 3.862+-0.303
+********************
+True effect: 4.066+-0.028
+Linear Regression - Causal effect:  4.0507866077378125
+Stratification - Causal effect:  4.00655991970623
+Weighting - Causal effect:  3.330227965122366
+Incremental causal effect: 3.614+-0.276
+********************
+True effect: 9.684+-0.898
+Linear Regression - Causal effect:  4.3992455942970565
+Stratification - Causal effect:  -9.163680002438051
+Weighting - Causal effect:  3.1592765105063023
+Incremental causal effect: 7.091+-1.674
+********************
+True effect: 3.809+-0.049
+Linear Regression - Causal effect:  3.853017149657688
+Stratification - Causal effect:  4.12863980322212
+Weighting - Causal effect:  3.0422963925137116
+Incremental causal effect: 3.413+-0.241
+********************
+True effect: 4.017+-0.004
+Linear Regression - Causal effect:  3.9624874398064414
+Stratification - Causal effect:  3.8329433357172076
+Weighting - Causal effect:  3.487145744659897
+Incremental causal effect: 3.655+-0.284
+********************
+True effect: 5.826+-0.309
+Linear Regression - Causal effect:  3.695863548807294
+Stratification - Causal effect:  0.06805180483014658
+Weighting - Causal effect:  3.612806939392531
+Incremental causal effect: 5.116+-0.752
+********************
+True effect: 3.998+-0.001
+Linear Regression - Causal effect:  3.9859640055081855
+Stratification - Causal effect:  3.6751473687821665
+Weighting - Causal effect:  3.608951462879204
+Incremental causal effect: 3.681+-0.295
+********************
+True effect: 3.846+-0.041
+Linear Regression - Causal effect:  3.978151423455741
+Stratification - Causal effect:  3.778220664410867
+Weighting - Causal effect:  2.732291393677329
+Incremental causal effect: 3.578+-0.265
+********************
+True effect: 3.992+-0.020
+Linear Regression - Causal effect:  4.025236520852645
+Stratification - Causal effect:  3.3116821776127936
+Weighting - Causal effect:  3.0567824204855993
+Incremental causal effect: 3.435+-0.234
+********************
+True effect: 3.996+-0.004
+Linear Regression - Causal effect:  3.937549445414013
+Stratification - Causal effect:  3.7661263616598357
+Weighting - Causal effect:  3.482370505234849
+Incremental causal effect: 3.532+-0.243
+********************
+True effect: 5.237+-0.248
+Linear Regression - Causal effect:  4.310815266735361
+Stratification - Causal effect:  4.250429325825722
+Weighting - Causal effect:  2.45899739555081
+Incremental causal effect: 4.626+-0.612
+********************
+True effect: 4.136+-0.037
+Linear Regression - Causal effect:  3.890158587010232
+Stratification - Causal effect:  3.5263278063860084
+Weighting - Causal effect:  3.038451891259058
+Incremental causal effect: 3.566+-0.251
+********************
+True effect: 4.025+-0.018
+Linear Regression - Causal effect:  4.1356610226921475
+Stratification - Causal effect:  3.7887473844452577
+Weighting - Causal effect:  3.538603683644494
+Incremental causal effect: 3.698+-0.258
+********************
+True effect: 4.199+-0.031
+Linear Regression - Causal effect:  3.974984607594764
+Stratification - Causal effect:  3.8610992902066443
+Weighting - Causal effect:  3.4416778232573417
+Incremental causal effect: 3.618+-0.296
+********************
+True effect: 3.980+-0.015
+Linear Regression - Causal effect:  4.087091360160798
+Stratification - Causal effect:  4.565679263908191
+Weighting - Causal effect:  3.573362112448378
+Incremental causal effect: 3.834+-0.291
+********************
+True effect: 9.611+-0.933
+Linear Regression - Causal effect:  4.272034006072481
+Stratification - Causal effect:  0.8853607905038068
+Weighting - Causal effect:  4.34408300604958
+Incremental causal effect: 7.962+-1.498
+********************
+True effect: 2.919+-0.427
+Linear Regression - Causal effect:  3.26581424190514
+Stratification - Causal effect:  3.963296615896681
+Weighting - Causal effect:  0.3274321214655842
+Incremental causal effect: 3.836+-0.641
+********************
+True effect: 4.163+-0.164
+Linear Regression - Causal effect:  3.7351257489155802
+Stratification - Causal effect:  2.607258016394894
+Weighting - Causal effect:  2.193440163712303
+Incremental causal effect: 3.631+-0.428
+********************
+True effect: 2.735+-0.544
+Linear Regression - Causal effect:  3.424559362034291
+Stratification - Causal effect:  6.429293049853304
+Weighting - Causal effect:  -0.3123525812896233
+Incremental causal effect: 3.881+-0.678
+********************
+True effect: -0.517+-0.894
+Linear Regression - Causal effect:  3.1037704025207837
+Stratification - Causal effect:  5.522560817662163
+Weighting - Causal effect:  -3.5471693651075107
+Incremental causal effect: 2.752+-1.056
+********************
+True effect: 6.242+-0.692
+Linear Regression - Causal effect:  4.60894594180639
+Stratification - Causal effect:  7.105140406465206
+Weighting - Causal effect:  1.635324347805522
+Incremental causal effect: 6.010+-1.384
+********************
+True effect: 4.941+-0.096
+Linear Regression - Causal effect:  3.885009605311887
+Stratification - Causal effect:  2.1275734458387006
+Weighting - Causal effect:  3.644461909539223
+Incremental causal effect: 3.942+-0.354
+********************
+True effect: 3.983+-0.003
+Linear Regression - Causal effect:  3.9658661629270453
+Stratification - Causal effect:  3.8799482542232377
+Weighting - Causal effect:  3.3180433162879943
+Incremental causal effect: 3.524+-0.275
+********************
+True effect: 3.927+-0.117
+Linear Regression - Causal effect:  3.994247734906856
+Stratification - Causal effect:  4.631522054371918
+Weighting - Causal effect:  2.8548094404797837
+Incremental causal effect: 3.613+-0.319
+********************
+True effect: 3.960+-0.076
+Linear Regression - Causal effect:  3.980043506891276
+Stratification - Causal effect:  3.271213646396891
+Weighting - Causal effect:  2.7517146391096166
+Incremental causal effect: 3.555+-0.317
+********************
+True effect: 3.918+-0.017
+Linear Regression - Causal effect:  3.699736172388378
+Stratification - Causal effect:  3.8742958883120098
+Weighting - Causal effect:  2.9567311455628653
+Incremental causal effect: 3.225+-0.245
+********************
+True effect: 3.560+-0.123
+Linear Regression - Causal effect:  3.9178845847938586
+Stratification - Causal effect:  5.101422824988563
+Weighting - Causal effect:  2.578673340502121
+Incremental causal effect: 3.750+-0.349
+********************
+True effect: 8.419+-0.644
+Linear Regression - Causal effect:  4.045110399916698
+Stratification - Causal effect:  -1.5694022059972355
+Weighting - Causal effect:  5.1262463647450325
+Incremental causal effect: 6.962+-1.303
+********************
+True effect: 4.229+-0.048
+Linear Regression - Causal effect:  4.061183987755953
+Stratification - Causal effect:  3.9437683044444656
+Weighting - Causal effect:  3.2313999986114155
+Incremental causal effect: 3.863+-0.389
+********************
+True effect: 3.879+-0.076
+Linear Regression - Causal effect:  4.099685291455463
+Stratification - Causal effect:  4.510994657130316
+Weighting - Causal effect:  2.940277455182919
+Incremental causal effect: 3.782+-0.289
+********************
+True effect: 4.174+-0.083
+Linear Regression - Causal effect:  4.073953127897743
+Stratification - Causal effect:  4.017468771207265
+Weighting - Causal effect:  2.6345737101352054
+Incremental causal effect: 3.707+-0.304
+********************
+True effect: 4.336+-0.085
+Linear Regression - Causal effect:  3.9897417349224273
+Stratification - Causal effect:  4.345645963771057
+Weighting - Causal effect:  3.216132387588865
+Incremental causal effect: 3.807+-0.337
+********************
+True effect: 7.069+-0.499
+Linear Regression - Causal effect:  4.760376123740457
+Stratification - Causal effect:  0.9223440717816661
+Weighting - Causal effect:  4.24826651340824
+Incremental causal effect: 6.232+-1.134
+********************
+True effect: 4.120+-0.160
+Linear Regression - Causal effect:  3.8807654536259832
+Stratification - Causal effect:  2.977171448585009
+Weighting - Causal effect:  2.64458806574614
+Incremental causal effect: 3.846+-0.442
+********************
+True effect: 4.026+-0.093
+Linear Regression - Causal effect:  3.6232447947300326
+Stratification - Causal effect:  3.378196865944036
+Weighting - Causal effect:  2.528128700869546
+Incremental causal effect: 3.194+-0.339
+********************
+True effect: 4.014+-0.033
+Linear Regression - Causal effect:  3.9304134698346793
+Stratification - Causal effect:  3.274893852180471
+Weighting - Causal effect:  3.294483708408068
+Incremental causal effect: 3.521+-0.273
+********************
+True effect: 4.061+-0.031
+Linear Regression - Causal effect:  3.89176030239547
+Stratification - Causal effect:  3.476454361864328
+Weighting - Causal effect:  3.2839282779947183
+Incremental causal effect: 3.507+-0.271
+********************
+True effect: 4.110+-0.035
+Linear Regression - Causal effect:  3.930677818095717
+Stratification - Causal effect:  3.648759895717406
+Weighting - Causal effect:  3.068118737228105
+Incremental causal effect: 3.413+-0.275
+********************
+True effect: 4.255+-0.076
+Linear Regression - Causal effect:  3.8960673291646106
+Stratification - Causal effect:  3.2309856712936242
+Weighting - Causal effect:  2.938555288709951
+Incremental causal effect: 3.571+-0.301
+********************
+True effect: 4.151+-0.100
+Linear Regression - Causal effect:  4.091461752312839
+Stratification - Causal effect:  4.264139877829432
+Weighting - Causal effect:  2.953376511505187
+Incremental causal effect: 3.692+-0.367
+********************
+True effect: 4.011+-0.030
+Linear Regression - Causal effect:  3.9444625691713777
+Stratification - Causal effect:  3.6235851867874542
+Weighting - Causal effect:  3.213077693645022
+Incremental causal effect: 3.544+-0.259
+********************
+True effect: 3.994+-0.011
+Linear Regression - Causal effect:  3.8163802937009716
+Stratification - Causal effect:  3.708845912991804
+Weighting - Causal effect:  3.2702132689232877
+Incremental causal effect: 3.430+-0.247
+********************
+True effect: 3.870+-0.060
+Linear Regression - Causal effect:  4.000122079081645
+Stratification - Causal effect:  4.466902873063733
+Weighting - Causal effect:  2.8293010595322095
+Incremental causal effect: 3.695+-0.273
+********************
