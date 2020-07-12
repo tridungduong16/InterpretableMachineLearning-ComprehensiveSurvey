@@ -28,5 +28,5 @@ def rmse_ite(influence, true_ite):
 def abs_ate(true_effect, estimation_effect):
     return np.abs(true_effect - estimation_effect)
 
-def pehe(self, ypred1, ypred0):
-    return np.sqrt(np.mean(np.square((self.mu1 - self.mu0) - (ypred1 - ypred0))))
+def pehe(mu1, mu0, ypred1, ypred0):
+    return np.sqrt(np.mean(np.square((mu1 - mu0) - (ypred1 - ypred0))))
