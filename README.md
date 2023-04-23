@@ -33,10 +33,14 @@
 ### Generalized linear regression: <a name="generalized"></a>
 The generalized linear model (GLM) is a flexible generalization of ordinary linear regression that allows for response variables that have error distribution models other than a normal distribution
 
-* Poisson regression
-* Negative binomial regression
-* Beta regression
-* Hierarchical Linear Regression
+* Poisson Regression is a type of statistical analysis used to model count data. It is used when the response variable is a count or rate, and the predictor variables are continuous or categorical. Poisson regression assumes that the variance is equal to the mean, and it is often used to model data that has a Poisson distribution, such as the number of traffic accidents in a city over a period of time.
+
+* Negative Binomial Regression is another type of regression analysis that is used when the response variable is a count or rate. It is similar to Poisson regression but allows for overdispersion in the data, which occurs when the variance is greater than the mean. Negative Binomial Regression is often used when there is evidence of overdispersion in the data, and the Poisson model does not adequately fit the data.
+
+* Beta Regression is a type of regression analysis that is used when the response variable is a proportion or a value bounded between 0 and 1. It is used to model continuous or categorical predictors, and it assumes that the response variable follows a Beta distribution. Beta Regression is commonly used in fields such as ecology, finance, and medicine, where the response variable is a proportion or a percentage.
+
+* Hierarchical Linear Regression is a statistical technique used to model data that has a hierarchical structure, such as students nested within schools or employees nested within companies. It is used to investigate how individual-level predictors and group-level predictors interact to influence the response variable. Hierarchical Linear Regression allows for the estimation of group-level effects, and it is often used in social and behavioral sciences to study complex relationships between variables.
+
 ### Generalized addictive model: <a name="addictive"></a>
 A generalized additive model (GAM) is a generalized linear model in which the linear predictor depends linearly on unknown smooth functions of some predictor variables, and interest focuses on inference about these smooth functions.
 
